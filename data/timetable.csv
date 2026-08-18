@@ -1,0 +1,1206 @@
+classroom_id,day,period,start_time,end_time,subject,scheduled
+A101,Mon,1,08:00,08:50,FREE,False
+A101,Mon,2,08:50,09:40,FREE,False
+A101,Mon,3,09:50,10:40,FREE,False
+A101,Mon,4,10:40,11:30,Probability & Stats,True
+A101,Mon,5,11:30,12:20,FREE,False
+A101,Mon,6,13:10,14:00,FREE,False
+A101,Mon,7,14:00,14:50,Data Structures,True
+A101,Mon,8,14:50,15:40,FREE,False
+A101,Tue,1,08:00,08:50,Linear Algebra,True
+A101,Tue,2,08:50,09:40,FREE,False
+A101,Tue,3,09:50,10:40,FREE,False
+A101,Tue,4,10:40,11:30,FREE,False
+A101,Tue,5,11:30,12:20,FREE,False
+A101,Tue,6,13:10,14:00,FREE,False
+A101,Tue,7,14:00,14:50,FREE,False
+A101,Tue,8,14:50,15:40,Operating Systems,True
+A101,Wed,1,08:00,08:50,FREE,False
+A101,Wed,2,08:50,09:40,FREE,False
+A101,Wed,3,09:50,10:40,FREE,False
+A101,Wed,4,10:40,11:30,FREE,False
+A101,Wed,5,11:30,12:20,FREE,False
+A101,Wed,6,13:10,14:00,FREE,False
+A101,Wed,7,14:00,14:50,Operating Systems,True
+A101,Wed,8,14:50,15:40,DBMS,True
+A101,Thu,1,08:00,08:50,Probability & Stats,True
+A101,Thu,2,08:50,09:40,FREE,False
+A101,Thu,3,09:50,10:40,FREE,False
+A101,Thu,4,10:40,11:30,FREE,False
+A101,Thu,5,11:30,12:20,FREE,False
+A101,Thu,6,13:10,14:00,FREE,False
+A101,Thu,7,14:00,14:50,FREE,False
+A101,Thu,8,14:50,15:40,FREE,False
+A101,Fri,1,08:00,08:50,Economics,True
+A101,Fri,2,08:50,09:40,FREE,False
+A101,Fri,3,09:50,10:40,Probability & Stats,True
+A101,Fri,4,10:40,11:30,FREE,False
+A101,Fri,5,11:30,12:20,FREE,False
+A101,Fri,6,13:10,14:00,Communication Skills,True
+A101,Fri,7,14:00,14:50,Computer Networks,True
+A101,Fri,8,14:50,15:40,FREE,False
+A202,Mon,1,08:00,08:50,Data Structures,True
+A202,Mon,2,08:50,09:40,Data Structures,True
+A202,Mon,3,09:50,10:40,FREE,False
+A202,Mon,4,10:40,11:30,FREE,False
+A202,Mon,5,11:30,12:20,Probability & Stats,True
+A202,Mon,6,13:10,14:00,Operating Systems,True
+A202,Mon,7,14:00,14:50,Operating Systems,True
+A202,Mon,8,14:50,15:40,Economics,True
+A202,Tue,1,08:00,08:50,FREE,False
+A202,Tue,2,08:50,09:40,FREE,False
+A202,Tue,3,09:50,10:40,FREE,False
+A202,Tue,4,10:40,11:30,Communication Skills,True
+A202,Tue,5,11:30,12:20,Data Structures,True
+A202,Tue,6,13:10,14:00,FREE,False
+A202,Tue,7,14:00,14:50,FREE,False
+A202,Tue,8,14:50,15:40,FREE,False
+A202,Wed,1,08:00,08:50,FREE,False
+A202,Wed,2,08:50,09:40,Economics,True
+A202,Wed,3,09:50,10:40,FREE,False
+A202,Wed,4,10:40,11:30,Operating Systems,True
+A202,Wed,5,11:30,12:20,Economics,True
+A202,Wed,6,13:10,14:00,Computer Networks,True
+A202,Wed,7,14:00,14:50,Operating Systems,True
+A202,Wed,8,14:50,15:40,FREE,False
+A202,Thu,1,08:00,08:50,Software Engineering,True
+A202,Thu,2,08:50,09:40,Communication Skills,True
+A202,Thu,3,09:50,10:40,FREE,False
+A202,Thu,4,10:40,11:30,Linear Algebra,True
+A202,Thu,5,11:30,12:20,Data Structures,True
+A202,Thu,6,13:10,14:00,FREE,False
+A202,Thu,7,14:00,14:50,DBMS,True
+A202,Thu,8,14:50,15:40,Computer Networks,True
+A202,Fri,1,08:00,08:50,Machine Learning,True
+A202,Fri,2,08:50,09:40,Linear Algebra,True
+A202,Fri,3,09:50,10:40,FREE,False
+A202,Fri,4,10:40,11:30,FREE,False
+A202,Fri,5,11:30,12:20,FREE,False
+A202,Fri,6,13:10,14:00,FREE,False
+A202,Fri,7,14:00,14:50,FREE,False
+A202,Fri,8,14:50,15:40,DBMS,True
+A303,Mon,1,08:00,08:50,Operating Systems,True
+A303,Mon,2,08:50,09:40,Machine Learning,True
+A303,Mon,3,09:50,10:40,Probability & Stats,True
+A303,Mon,4,10:40,11:30,FREE,False
+A303,Mon,5,11:30,12:20,FREE,False
+A303,Mon,6,13:10,14:00,FREE,False
+A303,Mon,7,14:00,14:50,Probability & Stats,True
+A303,Mon,8,14:50,15:40,FREE,False
+A303,Tue,1,08:00,08:50,FREE,False
+A303,Tue,2,08:50,09:40,Computer Networks,True
+A303,Tue,3,09:50,10:40,Probability & Stats,True
+A303,Tue,4,10:40,11:30,Machine Learning,True
+A303,Tue,5,11:30,12:20,FREE,False
+A303,Tue,6,13:10,14:00,Machine Learning,True
+A303,Tue,7,14:00,14:50,FREE,False
+A303,Tue,8,14:50,15:40,FREE,False
+A303,Wed,1,08:00,08:50,FREE,False
+A303,Wed,2,08:50,09:40,FREE,False
+A303,Wed,3,09:50,10:40,FREE,False
+A303,Wed,4,10:40,11:30,Communication Skills,True
+A303,Wed,5,11:30,12:20,FREE,False
+A303,Wed,6,13:10,14:00,Linear Algebra,True
+A303,Wed,7,14:00,14:50,Data Structures,True
+A303,Wed,8,14:50,15:40,Software Engineering,True
+A303,Thu,1,08:00,08:50,FREE,False
+A303,Thu,2,08:50,09:40,FREE,False
+A303,Thu,3,09:50,10:40,Economics,True
+A303,Thu,4,10:40,11:30,Probability & Stats,True
+A303,Thu,5,11:30,12:20,FREE,False
+A303,Thu,6,13:10,14:00,Computer Networks,True
+A303,Thu,7,14:00,14:50,Probability & Stats,True
+A303,Thu,8,14:50,15:40,FREE,False
+A303,Fri,1,08:00,08:50,FREE,False
+A303,Fri,2,08:50,09:40,Economics,True
+A303,Fri,3,09:50,10:40,FREE,False
+A303,Fri,4,10:40,11:30,FREE,False
+A303,Fri,5,11:30,12:20,Linear Algebra,True
+A303,Fri,6,13:10,14:00,FREE,False
+A303,Fri,7,14:00,14:50,FREE,False
+A303,Fri,8,14:50,15:40,FREE,False
+A104,Mon,1,08:00,08:50,FREE,False
+A104,Mon,2,08:50,09:40,Communication Skills,True
+A104,Mon,3,09:50,10:40,Machine Learning,True
+A104,Mon,4,10:40,11:30,FREE,False
+A104,Mon,5,11:30,12:20,FREE,False
+A104,Mon,6,13:10,14:00,Communication Skills,True
+A104,Mon,7,14:00,14:50,FREE,False
+A104,Mon,8,14:50,15:40,Operating Systems,True
+A104,Tue,1,08:00,08:50,FREE,False
+A104,Tue,2,08:50,09:40,Probability & Stats,True
+A104,Tue,3,09:50,10:40,FREE,False
+A104,Tue,4,10:40,11:30,FREE,False
+A104,Tue,5,11:30,12:20,FREE,False
+A104,Tue,6,13:10,14:00,Data Structures,True
+A104,Tue,7,14:00,14:50,FREE,False
+A104,Tue,8,14:50,15:40,Operating Systems,True
+A104,Wed,1,08:00,08:50,FREE,False
+A104,Wed,2,08:50,09:40,FREE,False
+A104,Wed,3,09:50,10:40,Linear Algebra,True
+A104,Wed,4,10:40,11:30,FREE,False
+A104,Wed,5,11:30,12:20,FREE,False
+A104,Wed,6,13:10,14:00,FREE,False
+A104,Wed,7,14:00,14:50,FREE,False
+A104,Wed,8,14:50,15:40,Probability & Stats,True
+A104,Thu,1,08:00,08:50,Operating Systems,True
+A104,Thu,2,08:50,09:40,FREE,False
+A104,Thu,3,09:50,10:40,FREE,False
+A104,Thu,4,10:40,11:30,FREE,False
+A104,Thu,5,11:30,12:20,FREE,False
+A104,Thu,6,13:10,14:00,FREE,False
+A104,Thu,7,14:00,14:50,FREE,False
+A104,Thu,8,14:50,15:40,FREE,False
+A104,Fri,1,08:00,08:50,FREE,False
+A104,Fri,2,08:50,09:40,FREE,False
+A104,Fri,3,09:50,10:40,FREE,False
+A104,Fri,4,10:40,11:30,Probability & Stats,True
+A104,Fri,5,11:30,12:20,Computer Networks,True
+A104,Fri,6,13:10,14:00,FREE,False
+A104,Fri,7,14:00,14:50,FREE,False
+A104,Fri,8,14:50,15:40,Linear Algebra,True
+A205,Mon,1,08:00,08:50,Software Engineering,True
+A205,Mon,2,08:50,09:40,Machine Learning,True
+A205,Mon,3,09:50,10:40,DBMS,True
+A205,Mon,4,10:40,11:30,Machine Learning,True
+A205,Mon,5,11:30,12:20,FREE,False
+A205,Mon,6,13:10,14:00,Machine Learning,True
+A205,Mon,7,14:00,14:50,Operating Systems,True
+A205,Mon,8,14:50,15:40,FREE,False
+A205,Tue,1,08:00,08:50,Linear Algebra,True
+A205,Tue,2,08:50,09:40,FREE,False
+A205,Tue,3,09:50,10:40,Probability & Stats,True
+A205,Tue,4,10:40,11:30,Communication Skills,True
+A205,Tue,5,11:30,12:20,DBMS,True
+A205,Tue,6,13:10,14:00,Economics,True
+A205,Tue,7,14:00,14:50,Operating Systems,True
+A205,Tue,8,14:50,15:40,DBMS,True
+A205,Wed,1,08:00,08:50,FREE,False
+A205,Wed,2,08:50,09:40,Software Engineering,True
+A205,Wed,3,09:50,10:40,FREE,False
+A205,Wed,4,10:40,11:30,Computer Networks,True
+A205,Wed,5,11:30,12:20,FREE,False
+A205,Wed,6,13:10,14:00,Linear Algebra,True
+A205,Wed,7,14:00,14:50,Economics,True
+A205,Wed,8,14:50,15:40,Operating Systems,True
+A205,Thu,1,08:00,08:50,Machine Learning,True
+A205,Thu,2,08:50,09:40,FREE,False
+A205,Thu,3,09:50,10:40,Data Structures,True
+A205,Thu,4,10:40,11:30,Operating Systems,True
+A205,Thu,5,11:30,12:20,Data Structures,True
+A205,Thu,6,13:10,14:00,Machine Learning,True
+A205,Thu,7,14:00,14:50,FREE,False
+A205,Thu,8,14:50,15:40,FREE,False
+A205,Fri,1,08:00,08:50,FREE,False
+A205,Fri,2,08:50,09:40,Computer Networks,True
+A205,Fri,3,09:50,10:40,Linear Algebra,True
+A205,Fri,4,10:40,11:30,FREE,False
+A205,Fri,5,11:30,12:20,Probability & Stats,True
+A205,Fri,6,13:10,14:00,FREE,False
+A205,Fri,7,14:00,14:50,FREE,False
+A205,Fri,8,14:50,15:40,FREE,False
+A306,Mon,1,08:00,08:50,Operating Systems,True
+A306,Mon,2,08:50,09:40,Communication Skills,True
+A306,Mon,3,09:50,10:40,FREE,False
+A306,Mon,4,10:40,11:30,FREE,False
+A306,Mon,5,11:30,12:20,Machine Learning,True
+A306,Mon,6,13:10,14:00,Operating Systems,True
+A306,Mon,7,14:00,14:50,Software Engineering,True
+A306,Mon,8,14:50,15:40,FREE,False
+A306,Tue,1,08:00,08:50,Computer Networks,True
+A306,Tue,2,08:50,09:40,Software Engineering,True
+A306,Tue,3,09:50,10:40,FREE,False
+A306,Tue,4,10:40,11:30,FREE,False
+A306,Tue,5,11:30,12:20,FREE,False
+A306,Tue,6,13:10,14:00,FREE,False
+A306,Tue,7,14:00,14:50,DBMS,True
+A306,Tue,8,14:50,15:40,Linear Algebra,True
+A306,Wed,1,08:00,08:50,FREE,False
+A306,Wed,2,08:50,09:40,FREE,False
+A306,Wed,3,09:50,10:40,FREE,False
+A306,Wed,4,10:40,11:30,FREE,False
+A306,Wed,5,11:30,12:20,DBMS,True
+A306,Wed,6,13:10,14:00,Operating Systems,True
+A306,Wed,7,14:00,14:50,FREE,False
+A306,Wed,8,14:50,15:40,Economics,True
+A306,Thu,1,08:00,08:50,FREE,False
+A306,Thu,2,08:50,09:40,FREE,False
+A306,Thu,3,09:50,10:40,FREE,False
+A306,Thu,4,10:40,11:30,Economics,True
+A306,Thu,5,11:30,12:20,Linear Algebra,True
+A306,Thu,6,13:10,14:00,Communication Skills,True
+A306,Thu,7,14:00,14:50,Computer Networks,True
+A306,Thu,8,14:50,15:40,Communication Skills,True
+A306,Fri,1,08:00,08:50,Computer Networks,True
+A306,Fri,2,08:50,09:40,Machine Learning,True
+A306,Fri,3,09:50,10:40,Operating Systems,True
+A306,Fri,4,10:40,11:30,DBMS,True
+A306,Fri,5,11:30,12:20,Economics,True
+A306,Fri,6,13:10,14:00,Software Engineering,True
+A306,Fri,7,14:00,14:50,FREE,False
+A306,Fri,8,14:50,15:40,Probability & Stats,True
+A107,Mon,1,08:00,08:50,Data Structures,True
+A107,Mon,2,08:50,09:40,Probability & Stats,True
+A107,Mon,3,09:50,10:40,DBMS,True
+A107,Mon,4,10:40,11:30,DBMS,True
+A107,Mon,5,11:30,12:20,Computer Networks,True
+A107,Mon,6,13:10,14:00,Communication Skills,True
+A107,Mon,7,14:00,14:50,Probability & Stats,True
+A107,Mon,8,14:50,15:40,FREE,False
+A107,Tue,1,08:00,08:50,Computer Networks,True
+A107,Tue,2,08:50,09:40,Computer Networks,True
+A107,Tue,3,09:50,10:40,FREE,False
+A107,Tue,4,10:40,11:30,Communication Skills,True
+A107,Tue,5,11:30,12:20,Software Engineering,True
+A107,Tue,6,13:10,14:00,Economics,True
+A107,Tue,7,14:00,14:50,Linear Algebra,True
+A107,Tue,8,14:50,15:40,FREE,False
+A107,Wed,1,08:00,08:50,FREE,False
+A107,Wed,2,08:50,09:40,Economics,True
+A107,Wed,3,09:50,10:40,Data Structures,True
+A107,Wed,4,10:40,11:30,Probability & Stats,True
+A107,Wed,5,11:30,12:20,Economics,True
+A107,Wed,6,13:10,14:00,Linear Algebra,True
+A107,Wed,7,14:00,14:50,Machine Learning,True
+A107,Wed,8,14:50,15:40,Probability & Stats,True
+A107,Thu,1,08:00,08:50,Linear Algebra,True
+A107,Thu,2,08:50,09:40,Computer Networks,True
+A107,Thu,3,09:50,10:40,FREE,False
+A107,Thu,4,10:40,11:30,FREE,False
+A107,Thu,5,11:30,12:20,DBMS,True
+A107,Thu,6,13:10,14:00,Software Engineering,True
+A107,Thu,7,14:00,14:50,Data Structures,True
+A107,Thu,8,14:50,15:40,Linear Algebra,True
+A107,Fri,1,08:00,08:50,Economics,True
+A107,Fri,2,08:50,09:40,FREE,False
+A107,Fri,3,09:50,10:40,DBMS,True
+A107,Fri,4,10:40,11:30,Economics,True
+A107,Fri,5,11:30,12:20,Probability & Stats,True
+A107,Fri,6,13:10,14:00,Linear Algebra,True
+A107,Fri,7,14:00,14:50,FREE,False
+A107,Fri,8,14:50,15:40,Economics,True
+A208,Mon,1,08:00,08:50,Communication Skills,True
+A208,Mon,2,08:50,09:40,FREE,False
+A208,Mon,3,09:50,10:40,FREE,False
+A208,Mon,4,10:40,11:30,FREE,False
+A208,Mon,5,11:30,12:20,FREE,False
+A208,Mon,6,13:10,14:00,Operating Systems,True
+A208,Mon,7,14:00,14:50,FREE,False
+A208,Mon,8,14:50,15:40,FREE,False
+A208,Tue,1,08:00,08:50,FREE,False
+A208,Tue,2,08:50,09:40,FREE,False
+A208,Tue,3,09:50,10:40,FREE,False
+A208,Tue,4,10:40,11:30,DBMS,True
+A208,Tue,5,11:30,12:20,Machine Learning,True
+A208,Tue,6,13:10,14:00,FREE,False
+A208,Tue,7,14:00,14:50,DBMS,True
+A208,Tue,8,14:50,15:40,FREE,False
+A208,Wed,1,08:00,08:50,FREE,False
+A208,Wed,2,08:50,09:40,FREE,False
+A208,Wed,3,09:50,10:40,FREE,False
+A208,Wed,4,10:40,11:30,FREE,False
+A208,Wed,5,11:30,12:20,FREE,False
+A208,Wed,6,13:10,14:00,FREE,False
+A208,Wed,7,14:00,14:50,FREE,False
+A208,Wed,8,14:50,15:40,FREE,False
+A208,Thu,1,08:00,08:50,FREE,False
+A208,Thu,2,08:50,09:40,FREE,False
+A208,Thu,3,09:50,10:40,Economics,True
+A208,Thu,4,10:40,11:30,Economics,True
+A208,Thu,5,11:30,12:20,Data Structures,True
+A208,Thu,6,13:10,14:00,Communication Skills,True
+A208,Thu,7,14:00,14:50,Machine Learning,True
+A208,Thu,8,14:50,15:40,FREE,False
+A208,Fri,1,08:00,08:50,Software Engineering,True
+A208,Fri,2,08:50,09:40,FREE,False
+A208,Fri,3,09:50,10:40,FREE,False
+A208,Fri,4,10:40,11:30,Data Structures,True
+A208,Fri,5,11:30,12:20,FREE,False
+A208,Fri,6,13:10,14:00,Probability & Stats,True
+A208,Fri,7,14:00,14:50,Machine Learning,True
+A208,Fri,8,14:50,15:40,FREE,False
+A309,Mon,1,08:00,08:50,Linear Algebra,True
+A309,Mon,2,08:50,09:40,Operating Systems,True
+A309,Mon,3,09:50,10:40,FREE,False
+A309,Mon,4,10:40,11:30,FREE,False
+A309,Mon,5,11:30,12:20,FREE,False
+A309,Mon,6,13:10,14:00,Data Structures,True
+A309,Mon,7,14:00,14:50,Operating Systems,True
+A309,Mon,8,14:50,15:40,FREE,False
+A309,Tue,1,08:00,08:50,Communication Skills,True
+A309,Tue,2,08:50,09:40,FREE,False
+A309,Tue,3,09:50,10:40,FREE,False
+A309,Tue,4,10:40,11:30,Probability & Stats,True
+A309,Tue,5,11:30,12:20,FREE,False
+A309,Tue,6,13:10,14:00,FREE,False
+A309,Tue,7,14:00,14:50,Probability & Stats,True
+A309,Tue,8,14:50,15:40,FREE,False
+A309,Wed,1,08:00,08:50,Software Engineering,True
+A309,Wed,2,08:50,09:40,FREE,False
+A309,Wed,3,09:50,10:40,Probability & Stats,True
+A309,Wed,4,10:40,11:30,FREE,False
+A309,Wed,5,11:30,12:20,Economics,True
+A309,Wed,6,13:10,14:00,DBMS,True
+A309,Wed,7,14:00,14:50,FREE,False
+A309,Wed,8,14:50,15:40,DBMS,True
+A309,Thu,1,08:00,08:50,Software Engineering,True
+A309,Thu,2,08:50,09:40,FREE,False
+A309,Thu,3,09:50,10:40,FREE,False
+A309,Thu,4,10:40,11:30,Economics,True
+A309,Thu,5,11:30,12:20,FREE,False
+A309,Thu,6,13:10,14:00,DBMS,True
+A309,Thu,7,14:00,14:50,Linear Algebra,True
+A309,Thu,8,14:50,15:40,Economics,True
+A309,Fri,1,08:00,08:50,FREE,False
+A309,Fri,2,08:50,09:40,FREE,False
+A309,Fri,3,09:50,10:40,FREE,False
+A309,Fri,4,10:40,11:30,FREE,False
+A309,Fri,5,11:30,12:20,Communication Skills,True
+A309,Fri,6,13:10,14:00,Computer Networks,True
+A309,Fri,7,14:00,14:50,Operating Systems,True
+A309,Fri,8,14:50,15:40,Economics,True
+A110,Mon,1,08:00,08:50,Operating Systems,True
+A110,Mon,2,08:50,09:40,FREE,False
+A110,Mon,3,09:50,10:40,Linear Algebra,True
+A110,Mon,4,10:40,11:30,Computer Networks,True
+A110,Mon,5,11:30,12:20,Machine Learning,True
+A110,Mon,6,13:10,14:00,FREE,False
+A110,Mon,7,14:00,14:50,Software Engineering,True
+A110,Mon,8,14:50,15:40,FREE,False
+A110,Tue,1,08:00,08:50,FREE,False
+A110,Tue,2,08:50,09:40,Economics,True
+A110,Tue,3,09:50,10:40,Software Engineering,True
+A110,Tue,4,10:40,11:30,FREE,False
+A110,Tue,5,11:30,12:20,Probability & Stats,True
+A110,Tue,6,13:10,14:00,Operating Systems,True
+A110,Tue,7,14:00,14:50,FREE,False
+A110,Tue,8,14:50,15:40,FREE,False
+A110,Wed,1,08:00,08:50,FREE,False
+A110,Wed,2,08:50,09:40,FREE,False
+A110,Wed,3,09:50,10:40,Operating Systems,True
+A110,Wed,4,10:40,11:30,Probability & Stats,True
+A110,Wed,5,11:30,12:20,FREE,False
+A110,Wed,6,13:10,14:00,Machine Learning,True
+A110,Wed,7,14:00,14:50,Data Structures,True
+A110,Wed,8,14:50,15:40,FREE,False
+A110,Thu,1,08:00,08:50,Communication Skills,True
+A110,Thu,2,08:50,09:40,Economics,True
+A110,Thu,3,09:50,10:40,Operating Systems,True
+A110,Thu,4,10:40,11:30,Communication Skills,True
+A110,Thu,5,11:30,12:20,Operating Systems,True
+A110,Thu,6,13:10,14:00,Data Structures,True
+A110,Thu,7,14:00,14:50,Probability & Stats,True
+A110,Thu,8,14:50,15:40,Data Structures,True
+A110,Fri,1,08:00,08:50,FREE,False
+A110,Fri,2,08:50,09:40,Operating Systems,True
+A110,Fri,3,09:50,10:40,FREE,False
+A110,Fri,4,10:40,11:30,Probability & Stats,True
+A110,Fri,5,11:30,12:20,Data Structures,True
+A110,Fri,6,13:10,14:00,FREE,False
+A110,Fri,7,14:00,14:50,Machine Learning,True
+A110,Fri,8,14:50,15:40,FREE,False
+A211,Mon,1,08:00,08:50,FREE,False
+A211,Mon,2,08:50,09:40,Probability & Stats,True
+A211,Mon,3,09:50,10:40,FREE,False
+A211,Mon,4,10:40,11:30,FREE,False
+A211,Mon,5,11:30,12:20,Economics,True
+A211,Mon,6,13:10,14:00,FREE,False
+A211,Mon,7,14:00,14:50,FREE,False
+A211,Mon,8,14:50,15:40,FREE,False
+A211,Tue,1,08:00,08:50,Operating Systems,True
+A211,Tue,2,08:50,09:40,Linear Algebra,True
+A211,Tue,3,09:50,10:40,FREE,False
+A211,Tue,4,10:40,11:30,FREE,False
+A211,Tue,5,11:30,12:20,Software Engineering,True
+A211,Tue,6,13:10,14:00,FREE,False
+A211,Tue,7,14:00,14:50,Operating Systems,True
+A211,Tue,8,14:50,15:40,Economics,True
+A211,Wed,1,08:00,08:50,DBMS,True
+A211,Wed,2,08:50,09:40,Communication Skills,True
+A211,Wed,3,09:50,10:40,FREE,False
+A211,Wed,4,10:40,11:30,Communication Skills,True
+A211,Wed,5,11:30,12:20,FREE,False
+A211,Wed,6,13:10,14:00,FREE,False
+A211,Wed,7,14:00,14:50,FREE,False
+A211,Wed,8,14:50,15:40,Software Engineering,True
+A211,Thu,1,08:00,08:50,Operating Systems,True
+A211,Thu,2,08:50,09:40,FREE,False
+A211,Thu,3,09:50,10:40,FREE,False
+A211,Thu,4,10:40,11:30,Software Engineering,True
+A211,Thu,5,11:30,12:20,FREE,False
+A211,Thu,6,13:10,14:00,FREE,False
+A211,Thu,7,14:00,14:50,FREE,False
+A211,Thu,8,14:50,15:40,FREE,False
+A211,Fri,1,08:00,08:50,FREE,False
+A211,Fri,2,08:50,09:40,Computer Networks,True
+A211,Fri,3,09:50,10:40,FREE,False
+A211,Fri,4,10:40,11:30,FREE,False
+A211,Fri,5,11:30,12:20,Operating Systems,True
+A211,Fri,6,13:10,14:00,Probability & Stats,True
+A211,Fri,7,14:00,14:50,Probability & Stats,True
+A211,Fri,8,14:50,15:40,FREE,False
+A312,Mon,1,08:00,08:50,Computer Networks,True
+A312,Mon,2,08:50,09:40,Machine Learning,True
+A312,Mon,3,09:50,10:40,FREE,False
+A312,Mon,4,10:40,11:30,FREE,False
+A312,Mon,5,11:30,12:20,FREE,False
+A312,Mon,6,13:10,14:00,FREE,False
+A312,Mon,7,14:00,14:50,Computer Networks,True
+A312,Mon,8,14:50,15:40,FREE,False
+A312,Tue,1,08:00,08:50,FREE,False
+A312,Tue,2,08:50,09:40,FREE,False
+A312,Tue,3,09:50,10:40,Computer Networks,True
+A312,Tue,4,10:40,11:30,Software Engineering,True
+A312,Tue,5,11:30,12:20,Data Structures,True
+A312,Tue,6,13:10,14:00,FREE,False
+A312,Tue,7,14:00,14:50,Probability & Stats,True
+A312,Tue,8,14:50,15:40,Data Structures,True
+A312,Wed,1,08:00,08:50,Computer Networks,True
+A312,Wed,2,08:50,09:40,Machine Learning,True
+A312,Wed,3,09:50,10:40,Probability & Stats,True
+A312,Wed,4,10:40,11:30,Operating Systems,True
+A312,Wed,5,11:30,12:20,Operating Systems,True
+A312,Wed,6,13:10,14:00,Operating Systems,True
+A312,Wed,7,14:00,14:50,FREE,False
+A312,Wed,8,14:50,15:40,Economics,True
+A312,Thu,1,08:00,08:50,FREE,False
+A312,Thu,2,08:50,09:40,Software Engineering,True
+A312,Thu,3,09:50,10:40,DBMS,True
+A312,Thu,4,10:40,11:30,FREE,False
+A312,Thu,5,11:30,12:20,Computer Networks,True
+A312,Thu,6,13:10,14:00,DBMS,True
+A312,Thu,7,14:00,14:50,Linear Algebra,True
+A312,Thu,8,14:50,15:40,FREE,False
+A312,Fri,1,08:00,08:50,Software Engineering,True
+A312,Fri,2,08:50,09:40,Operating Systems,True
+A312,Fri,3,09:50,10:40,Probability & Stats,True
+A312,Fri,4,10:40,11:30,Software Engineering,True
+A312,Fri,5,11:30,12:20,Economics,True
+A312,Fri,6,13:10,14:00,Probability & Stats,True
+A312,Fri,7,14:00,14:50,Data Structures,True
+A312,Fri,8,14:50,15:40,Economics,True
+B101,Mon,1,08:00,08:50,FREE,False
+B101,Mon,2,08:50,09:40,Data Structures,True
+B101,Mon,3,09:50,10:40,Probability & Stats,True
+B101,Mon,4,10:40,11:30,FREE,False
+B101,Mon,5,11:30,12:20,FREE,False
+B101,Mon,6,13:10,14:00,Operating Systems,True
+B101,Mon,7,14:00,14:50,FREE,False
+B101,Mon,8,14:50,15:40,DBMS,True
+B101,Tue,1,08:00,08:50,Computer Networks,True
+B101,Tue,2,08:50,09:40,Software Engineering,True
+B101,Tue,3,09:50,10:40,FREE,False
+B101,Tue,4,10:40,11:30,Software Engineering,True
+B101,Tue,5,11:30,12:20,Operating Systems,True
+B101,Tue,6,13:10,14:00,Computer Networks,True
+B101,Tue,7,14:00,14:50,Data Structures,True
+B101,Tue,8,14:50,15:40,DBMS,True
+B101,Wed,1,08:00,08:50,Computer Networks,True
+B101,Wed,2,08:50,09:40,Data Structures,True
+B101,Wed,3,09:50,10:40,Computer Networks,True
+B101,Wed,4,10:40,11:30,Linear Algebra,True
+B101,Wed,5,11:30,12:20,Software Engineering,True
+B101,Wed,6,13:10,14:00,Linear Algebra,True
+B101,Wed,7,14:00,14:50,Computer Networks,True
+B101,Wed,8,14:50,15:40,FREE,False
+B101,Thu,1,08:00,08:50,Economics,True
+B101,Thu,2,08:50,09:40,Software Engineering,True
+B101,Thu,3,09:50,10:40,DBMS,True
+B101,Thu,4,10:40,11:30,Operating Systems,True
+B101,Thu,5,11:30,12:20,Linear Algebra,True
+B101,Thu,6,13:10,14:00,Operating Systems,True
+B101,Thu,7,14:00,14:50,Data Structures,True
+B101,Thu,8,14:50,15:40,Communication Skills,True
+B101,Fri,1,08:00,08:50,Economics,True
+B101,Fri,2,08:50,09:40,Data Structures,True
+B101,Fri,3,09:50,10:40,Machine Learning,True
+B101,Fri,4,10:40,11:30,Data Structures,True
+B101,Fri,5,11:30,12:20,Data Structures,True
+B101,Fri,6,13:10,14:00,Communication Skills,True
+B101,Fri,7,14:00,14:50,Software Engineering,True
+B101,Fri,8,14:50,15:40,Economics,True
+B202,Mon,1,08:00,08:50,FREE,False
+B202,Mon,2,08:50,09:40,Economics,True
+B202,Mon,3,09:50,10:40,DBMS,True
+B202,Mon,4,10:40,11:30,FREE,False
+B202,Mon,5,11:30,12:20,Data Structures,True
+B202,Mon,6,13:10,14:00,Economics,True
+B202,Mon,7,14:00,14:50,Probability & Stats,True
+B202,Mon,8,14:50,15:40,DBMS,True
+B202,Tue,1,08:00,08:50,Probability & Stats,True
+B202,Tue,2,08:50,09:40,Communication Skills,True
+B202,Tue,3,09:50,10:40,Probability & Stats,True
+B202,Tue,4,10:40,11:30,Operating Systems,True
+B202,Tue,5,11:30,12:20,Computer Networks,True
+B202,Tue,6,13:10,14:00,Probability & Stats,True
+B202,Tue,7,14:00,14:50,Communication Skills,True
+B202,Tue,8,14:50,15:40,Operating Systems,True
+B202,Wed,1,08:00,08:50,FREE,False
+B202,Wed,2,08:50,09:40,Communication Skills,True
+B202,Wed,3,09:50,10:40,Communication Skills,True
+B202,Wed,4,10:40,11:30,Data Structures,True
+B202,Wed,5,11:30,12:20,Communication Skills,True
+B202,Wed,6,13:10,14:00,Probability & Stats,True
+B202,Wed,7,14:00,14:50,Computer Networks,True
+B202,Wed,8,14:50,15:40,Communication Skills,True
+B202,Thu,1,08:00,08:50,Communication Skills,True
+B202,Thu,2,08:50,09:40,Economics,True
+B202,Thu,3,09:50,10:40,Machine Learning,True
+B202,Thu,4,10:40,11:30,Linear Algebra,True
+B202,Thu,5,11:30,12:20,Operating Systems,True
+B202,Thu,6,13:10,14:00,Machine Learning,True
+B202,Thu,7,14:00,14:50,FREE,False
+B202,Thu,8,14:50,15:40,Operating Systems,True
+B202,Fri,1,08:00,08:50,Linear Algebra,True
+B202,Fri,2,08:50,09:40,FREE,False
+B202,Fri,3,09:50,10:40,Computer Networks,True
+B202,Fri,4,10:40,11:30,DBMS,True
+B202,Fri,5,11:30,12:20,Linear Algebra,True
+B202,Fri,6,13:10,14:00,Software Engineering,True
+B202,Fri,7,14:00,14:50,Machine Learning,True
+B202,Fri,8,14:50,15:40,Probability & Stats,True
+B103,Mon,1,08:00,08:50,Data Structures,True
+B103,Mon,2,08:50,09:40,Software Engineering,True
+B103,Mon,3,09:50,10:40,FREE,False
+B103,Mon,4,10:40,11:30,Communication Skills,True
+B103,Mon,5,11:30,12:20,Communication Skills,True
+B103,Mon,6,13:10,14:00,Probability & Stats,True
+B103,Mon,7,14:00,14:50,Probability & Stats,True
+B103,Mon,8,14:50,15:40,Economics,True
+B103,Tue,1,08:00,08:50,Operating Systems,True
+B103,Tue,2,08:50,09:40,Economics,True
+B103,Tue,3,09:50,10:40,Linear Algebra,True
+B103,Tue,4,10:40,11:30,DBMS,True
+B103,Tue,5,11:30,12:20,FREE,False
+B103,Tue,6,13:10,14:00,Machine Learning,True
+B103,Tue,7,14:00,14:50,Probability & Stats,True
+B103,Tue,8,14:50,15:40,Operating Systems,True
+B103,Wed,1,08:00,08:50,FREE,False
+B103,Wed,2,08:50,09:40,Machine Learning,True
+B103,Wed,3,09:50,10:40,Linear Algebra,True
+B103,Wed,4,10:40,11:30,FREE,False
+B103,Wed,5,11:30,12:20,FREE,False
+B103,Wed,6,13:10,14:00,FREE,False
+B103,Wed,7,14:00,14:50,DBMS,True
+B103,Wed,8,14:50,15:40,Software Engineering,True
+B103,Thu,1,08:00,08:50,Economics,True
+B103,Thu,2,08:50,09:40,FREE,False
+B103,Thu,3,09:50,10:40,Linear Algebra,True
+B103,Thu,4,10:40,11:30,Communication Skills,True
+B103,Thu,5,11:30,12:20,Economics,True
+B103,Thu,6,13:10,14:00,FREE,False
+B103,Thu,7,14:00,14:50,Data Structures,True
+B103,Thu,8,14:50,15:40,Economics,True
+B103,Fri,1,08:00,08:50,Linear Algebra,True
+B103,Fri,2,08:50,09:40,Probability & Stats,True
+B103,Fri,3,09:50,10:40,DBMS,True
+B103,Fri,4,10:40,11:30,Linear Algebra,True
+B103,Fri,5,11:30,12:20,Probability & Stats,True
+B103,Fri,6,13:10,14:00,Probability & Stats,True
+B103,Fri,7,14:00,14:50,Economics,True
+B103,Fri,8,14:50,15:40,DBMS,True
+B204,Mon,1,08:00,08:50,Linear Algebra,True
+B204,Mon,2,08:50,09:40,Linear Algebra,True
+B204,Mon,3,09:50,10:40,FREE,False
+B204,Mon,4,10:40,11:30,FREE,False
+B204,Mon,5,11:30,12:20,FREE,False
+B204,Mon,6,13:10,14:00,Communication Skills,True
+B204,Mon,7,14:00,14:50,FREE,False
+B204,Mon,8,14:50,15:40,FREE,False
+B204,Tue,1,08:00,08:50,FREE,False
+B204,Tue,2,08:50,09:40,FREE,False
+B204,Tue,3,09:50,10:40,FREE,False
+B204,Tue,4,10:40,11:30,FREE,False
+B204,Tue,5,11:30,12:20,FREE,False
+B204,Tue,6,13:10,14:00,FREE,False
+B204,Tue,7,14:00,14:50,FREE,False
+B204,Tue,8,14:50,15:40,Operating Systems,True
+B204,Wed,1,08:00,08:50,FREE,False
+B204,Wed,2,08:50,09:40,FREE,False
+B204,Wed,3,09:50,10:40,Machine Learning,True
+B204,Wed,4,10:40,11:30,Operating Systems,True
+B204,Wed,5,11:30,12:20,FREE,False
+B204,Wed,6,13:10,14:00,FREE,False
+B204,Wed,7,14:00,14:50,FREE,False
+B204,Wed,8,14:50,15:40,Linear Algebra,True
+B204,Thu,1,08:00,08:50,FREE,False
+B204,Thu,2,08:50,09:40,Economics,True
+B204,Thu,3,09:50,10:40,Software Engineering,True
+B204,Thu,4,10:40,11:30,Linear Algebra,True
+B204,Thu,5,11:30,12:20,FREE,False
+B204,Thu,6,13:10,14:00,FREE,False
+B204,Thu,7,14:00,14:50,FREE,False
+B204,Thu,8,14:50,15:40,FREE,False
+B204,Fri,1,08:00,08:50,FREE,False
+B204,Fri,2,08:50,09:40,FREE,False
+B204,Fri,3,09:50,10:40,FREE,False
+B204,Fri,4,10:40,11:30,FREE,False
+B204,Fri,5,11:30,12:20,FREE,False
+B204,Fri,6,13:10,14:00,FREE,False
+B204,Fri,7,14:00,14:50,Data Structures,True
+B204,Fri,8,14:50,15:40,FREE,False
+B105,Mon,1,08:00,08:50,FREE,False
+B105,Mon,2,08:50,09:40,FREE,False
+B105,Mon,3,09:50,10:40,FREE,False
+B105,Mon,4,10:40,11:30,Probability & Stats,True
+B105,Mon,5,11:30,12:20,FREE,False
+B105,Mon,6,13:10,14:00,FREE,False
+B105,Mon,7,14:00,14:50,Computer Networks,True
+B105,Mon,8,14:50,15:40,Linear Algebra,True
+B105,Tue,1,08:00,08:50,FREE,False
+B105,Tue,2,08:50,09:40,FREE,False
+B105,Tue,3,09:50,10:40,FREE,False
+B105,Tue,4,10:40,11:30,FREE,False
+B105,Tue,5,11:30,12:20,FREE,False
+B105,Tue,6,13:10,14:00,Data Structures,True
+B105,Tue,7,14:00,14:50,Data Structures,True
+B105,Tue,8,14:50,15:40,Machine Learning,True
+B105,Wed,1,08:00,08:50,FREE,False
+B105,Wed,2,08:50,09:40,DBMS,True
+B105,Wed,3,09:50,10:40,FREE,False
+B105,Wed,4,10:40,11:30,FREE,False
+B105,Wed,5,11:30,12:20,FREE,False
+B105,Wed,6,13:10,14:00,Linear Algebra,True
+B105,Wed,7,14:00,14:50,FREE,False
+B105,Wed,8,14:50,15:40,DBMS,True
+B105,Thu,1,08:00,08:50,FREE,False
+B105,Thu,2,08:50,09:40,Software Engineering,True
+B105,Thu,3,09:50,10:40,Economics,True
+B105,Thu,4,10:40,11:30,FREE,False
+B105,Thu,5,11:30,12:20,Computer Networks,True
+B105,Thu,6,13:10,14:00,Economics,True
+B105,Thu,7,14:00,14:50,FREE,False
+B105,Thu,8,14:50,15:40,FREE,False
+B105,Fri,1,08:00,08:50,FREE,False
+B105,Fri,2,08:50,09:40,FREE,False
+B105,Fri,3,09:50,10:40,FREE,False
+B105,Fri,4,10:40,11:30,Data Structures,True
+B105,Fri,5,11:30,12:20,Probability & Stats,True
+B105,Fri,6,13:10,14:00,Probability & Stats,True
+B105,Fri,7,14:00,14:50,FREE,False
+B105,Fri,8,14:50,15:40,FREE,False
+B206,Mon,1,08:00,08:50,FREE,False
+B206,Mon,2,08:50,09:40,FREE,False
+B206,Mon,3,09:50,10:40,FREE,False
+B206,Mon,4,10:40,11:30,DBMS,True
+B206,Mon,5,11:30,12:20,FREE,False
+B206,Mon,6,13:10,14:00,FREE,False
+B206,Mon,7,14:00,14:50,FREE,False
+B206,Mon,8,14:50,15:40,FREE,False
+B206,Tue,1,08:00,08:50,FREE,False
+B206,Tue,2,08:50,09:40,FREE,False
+B206,Tue,3,09:50,10:40,Economics,True
+B206,Tue,4,10:40,11:30,FREE,False
+B206,Tue,5,11:30,12:20,FREE,False
+B206,Tue,6,13:10,14:00,FREE,False
+B206,Tue,7,14:00,14:50,FREE,False
+B206,Tue,8,14:50,15:40,FREE,False
+B206,Wed,1,08:00,08:50,FREE,False
+B206,Wed,2,08:50,09:40,FREE,False
+B206,Wed,3,09:50,10:40,Data Structures,True
+B206,Wed,4,10:40,11:30,FREE,False
+B206,Wed,5,11:30,12:20,FREE,False
+B206,Wed,6,13:10,14:00,Machine Learning,True
+B206,Wed,7,14:00,14:50,FREE,False
+B206,Wed,8,14:50,15:40,FREE,False
+B206,Thu,1,08:00,08:50,FREE,False
+B206,Thu,2,08:50,09:40,FREE,False
+B206,Thu,3,09:50,10:40,FREE,False
+B206,Thu,4,10:40,11:30,Communication Skills,True
+B206,Thu,5,11:30,12:20,Economics,True
+B206,Thu,6,13:10,14:00,FREE,False
+B206,Thu,7,14:00,14:50,DBMS,True
+B206,Thu,8,14:50,15:40,Computer Networks,True
+B206,Fri,1,08:00,08:50,FREE,False
+B206,Fri,2,08:50,09:40,FREE,False
+B206,Fri,3,09:50,10:40,FREE,False
+B206,Fri,4,10:40,11:30,FREE,False
+B206,Fri,5,11:30,12:20,FREE,False
+B206,Fri,6,13:10,14:00,FREE,False
+B206,Fri,7,14:00,14:50,FREE,False
+B206,Fri,8,14:50,15:40,DBMS,True
+B107,Mon,1,08:00,08:50,Data Structures,True
+B107,Mon,2,08:50,09:40,FREE,False
+B107,Mon,3,09:50,10:40,Linear Algebra,True
+B107,Mon,4,10:40,11:30,FREE,False
+B107,Mon,5,11:30,12:20,FREE,False
+B107,Mon,6,13:10,14:00,Machine Learning,True
+B107,Mon,7,14:00,14:50,FREE,False
+B107,Mon,8,14:50,15:40,Data Structures,True
+B107,Tue,1,08:00,08:50,FREE,False
+B107,Tue,2,08:50,09:40,Machine Learning,True
+B107,Tue,3,09:50,10:40,Operating Systems,True
+B107,Tue,4,10:40,11:30,Operating Systems,True
+B107,Tue,5,11:30,12:20,FREE,False
+B107,Tue,6,13:10,14:00,Probability & Stats,True
+B107,Tue,7,14:00,14:50,FREE,False
+B107,Tue,8,14:50,15:40,Machine Learning,True
+B107,Wed,1,08:00,08:50,FREE,False
+B107,Wed,2,08:50,09:40,Economics,True
+B107,Wed,3,09:50,10:40,FREE,False
+B107,Wed,4,10:40,11:30,Computer Networks,True
+B107,Wed,5,11:30,12:20,Communication Skills,True
+B107,Wed,6,13:10,14:00,DBMS,True
+B107,Wed,7,14:00,14:50,Operating Systems,True
+B107,Wed,8,14:50,15:40,FREE,False
+B107,Thu,1,08:00,08:50,DBMS,True
+B107,Thu,2,08:50,09:40,FREE,False
+B107,Thu,3,09:50,10:40,DBMS,True
+B107,Thu,4,10:40,11:30,Computer Networks,True
+B107,Thu,5,11:30,12:20,Data Structures,True
+B107,Thu,6,13:10,14:00,DBMS,True
+B107,Thu,7,14:00,14:50,FREE,False
+B107,Thu,8,14:50,15:40,Machine Learning,True
+B107,Fri,1,08:00,08:50,Computer Networks,True
+B107,Fri,2,08:50,09:40,FREE,False
+B107,Fri,3,09:50,10:40,FREE,False
+B107,Fri,4,10:40,11:30,Operating Systems,True
+B107,Fri,5,11:30,12:20,Linear Algebra,True
+B107,Fri,6,13:10,14:00,FREE,False
+B107,Fri,7,14:00,14:50,DBMS,True
+B107,Fri,8,14:50,15:40,Probability & Stats,True
+B208,Mon,1,08:00,08:50,Computer Networks,True
+B208,Mon,2,08:50,09:40,Data Structures,True
+B208,Mon,3,09:50,10:40,FREE,False
+B208,Mon,4,10:40,11:30,Software Engineering,True
+B208,Mon,5,11:30,12:20,Operating Systems,True
+B208,Mon,6,13:10,14:00,FREE,False
+B208,Mon,7,14:00,14:50,Operating Systems,True
+B208,Mon,8,14:50,15:40,FREE,False
+B208,Tue,1,08:00,08:50,Software Engineering,True
+B208,Tue,2,08:50,09:40,Machine Learning,True
+B208,Tue,3,09:50,10:40,Linear Algebra,True
+B208,Tue,4,10:40,11:30,FREE,False
+B208,Tue,5,11:30,12:20,FREE,False
+B208,Tue,6,13:10,14:00,FREE,False
+B208,Tue,7,14:00,14:50,FREE,False
+B208,Tue,8,14:50,15:40,FREE,False
+B208,Wed,1,08:00,08:50,Operating Systems,True
+B208,Wed,2,08:50,09:40,Operating Systems,True
+B208,Wed,3,09:50,10:40,FREE,False
+B208,Wed,4,10:40,11:30,Data Structures,True
+B208,Wed,5,11:30,12:20,Operating Systems,True
+B208,Wed,6,13:10,14:00,Computer Networks,True
+B208,Wed,7,14:00,14:50,Machine Learning,True
+B208,Wed,8,14:50,15:40,Linear Algebra,True
+B208,Thu,1,08:00,08:50,FREE,False
+B208,Thu,2,08:50,09:40,FREE,False
+B208,Thu,3,09:50,10:40,FREE,False
+B208,Thu,4,10:40,11:30,FREE,False
+B208,Thu,5,11:30,12:20,FREE,False
+B208,Thu,6,13:10,14:00,Probability & Stats,True
+B208,Thu,7,14:00,14:50,FREE,False
+B208,Thu,8,14:50,15:40,FREE,False
+B208,Fri,1,08:00,08:50,Linear Algebra,True
+B208,Fri,2,08:50,09:40,FREE,False
+B208,Fri,3,09:50,10:40,FREE,False
+B208,Fri,4,10:40,11:30,FREE,False
+B208,Fri,5,11:30,12:20,FREE,False
+B208,Fri,6,13:10,14:00,Machine Learning,True
+B208,Fri,7,14:00,14:50,FREE,False
+B208,Fri,8,14:50,15:40,FREE,False
+B109,Mon,1,08:00,08:50,FREE,False
+B109,Mon,2,08:50,09:40,Economics,True
+B109,Mon,3,09:50,10:40,Computer Networks,True
+B109,Mon,4,10:40,11:30,Economics,True
+B109,Mon,5,11:30,12:20,Machine Learning,True
+B109,Mon,6,13:10,14:00,Data Structures,True
+B109,Mon,7,14:00,14:50,Probability & Stats,True
+B109,Mon,8,14:50,15:40,Linear Algebra,True
+B109,Tue,1,08:00,08:50,FREE,False
+B109,Tue,2,08:50,09:40,FREE,False
+B109,Tue,3,09:50,10:40,DBMS,True
+B109,Tue,4,10:40,11:30,Communication Skills,True
+B109,Tue,5,11:30,12:20,Linear Algebra,True
+B109,Tue,6,13:10,14:00,Data Structures,True
+B109,Tue,7,14:00,14:50,FREE,False
+B109,Tue,8,14:50,15:40,Probability & Stats,True
+B109,Wed,1,08:00,08:50,Communication Skills,True
+B109,Wed,2,08:50,09:40,Computer Networks,True
+B109,Wed,3,09:50,10:40,Machine Learning,True
+B109,Wed,4,10:40,11:30,Machine Learning,True
+B109,Wed,5,11:30,12:20,FREE,False
+B109,Wed,6,13:10,14:00,Computer Networks,True
+B109,Wed,7,14:00,14:50,Communication Skills,True
+B109,Wed,8,14:50,15:40,Economics,True
+B109,Thu,1,08:00,08:50,FREE,False
+B109,Thu,2,08:50,09:40,FREE,False
+B109,Thu,3,09:50,10:40,Probability & Stats,True
+B109,Thu,4,10:40,11:30,Computer Networks,True
+B109,Thu,5,11:30,12:20,Communication Skills,True
+B109,Thu,6,13:10,14:00,Operating Systems,True
+B109,Thu,7,14:00,14:50,FREE,False
+B109,Thu,8,14:50,15:40,Linear Algebra,True
+B109,Fri,1,08:00,08:50,Data Structures,True
+B109,Fri,2,08:50,09:40,Computer Networks,True
+B109,Fri,3,09:50,10:40,Data Structures,True
+B109,Fri,4,10:40,11:30,Economics,True
+B109,Fri,5,11:30,12:20,FREE,False
+B109,Fri,6,13:10,14:00,Economics,True
+B109,Fri,7,14:00,14:50,Operating Systems,True
+B109,Fri,8,14:50,15:40,Machine Learning,True
+B210,Mon,1,08:00,08:50,Computer Networks,True
+B210,Mon,2,08:50,09:40,Probability & Stats,True
+B210,Mon,3,09:50,10:40,Machine Learning,True
+B210,Mon,4,10:40,11:30,Communication Skills,True
+B210,Mon,5,11:30,12:20,FREE,False
+B210,Mon,6,13:10,14:00,Machine Learning,True
+B210,Mon,7,14:00,14:50,Probability & Stats,True
+B210,Mon,8,14:50,15:40,Linear Algebra,True
+B210,Tue,1,08:00,08:50,Economics,True
+B210,Tue,2,08:50,09:40,Linear Algebra,True
+B210,Tue,3,09:50,10:40,Computer Networks,True
+B210,Tue,4,10:40,11:30,Machine Learning,True
+B210,Tue,5,11:30,12:20,Computer Networks,True
+B210,Tue,6,13:10,14:00,Linear Algebra,True
+B210,Tue,7,14:00,14:50,Economics,True
+B210,Tue,8,14:50,15:40,DBMS,True
+B210,Wed,1,08:00,08:50,Operating Systems,True
+B210,Wed,2,08:50,09:40,Computer Networks,True
+B210,Wed,3,09:50,10:40,Computer Networks,True
+B210,Wed,4,10:40,11:30,DBMS,True
+B210,Wed,5,11:30,12:20,Communication Skills,True
+B210,Wed,6,13:10,14:00,Communication Skills,True
+B210,Wed,7,14:00,14:50,Linear Algebra,True
+B210,Wed,8,14:50,15:40,Computer Networks,True
+B210,Thu,1,08:00,08:50,Economics,True
+B210,Thu,2,08:50,09:40,Data Structures,True
+B210,Thu,3,09:50,10:40,Linear Algebra,True
+B210,Thu,4,10:40,11:30,Linear Algebra,True
+B210,Thu,5,11:30,12:20,Operating Systems,True
+B210,Thu,6,13:10,14:00,FREE,False
+B210,Thu,7,14:00,14:50,Computer Networks,True
+B210,Thu,8,14:50,15:40,FREE,False
+B210,Fri,1,08:00,08:50,Communication Skills,True
+B210,Fri,2,08:50,09:40,Communication Skills,True
+B210,Fri,3,09:50,10:40,Machine Learning,True
+B210,Fri,4,10:40,11:30,FREE,False
+B210,Fri,5,11:30,12:20,Software Engineering,True
+B210,Fri,6,13:10,14:00,Software Engineering,True
+B210,Fri,7,14:00,14:50,Software Engineering,True
+B210,Fri,8,14:50,15:40,Operating Systems,True
+C101,Mon,1,08:00,08:50,FREE,False
+C101,Mon,2,08:50,09:40,FREE,False
+C101,Mon,3,09:50,10:40,Economics,True
+C101,Mon,4,10:40,11:30,FREE,False
+C101,Mon,5,11:30,12:20,FREE,False
+C101,Mon,6,13:10,14:00,Software Engineering,True
+C101,Mon,7,14:00,14:50,FREE,False
+C101,Mon,8,14:50,15:40,FREE,False
+C101,Tue,1,08:00,08:50,DBMS,True
+C101,Tue,2,08:50,09:40,FREE,False
+C101,Tue,3,09:50,10:40,FREE,False
+C101,Tue,4,10:40,11:30,FREE,False
+C101,Tue,5,11:30,12:20,FREE,False
+C101,Tue,6,13:10,14:00,FREE,False
+C101,Tue,7,14:00,14:50,FREE,False
+C101,Tue,8,14:50,15:40,FREE,False
+C101,Wed,1,08:00,08:50,FREE,False
+C101,Wed,2,08:50,09:40,FREE,False
+C101,Wed,3,09:50,10:40,FREE,False
+C101,Wed,4,10:40,11:30,Probability & Stats,True
+C101,Wed,5,11:30,12:20,FREE,False
+C101,Wed,6,13:10,14:00,FREE,False
+C101,Wed,7,14:00,14:50,Linear Algebra,True
+C101,Wed,8,14:50,15:40,Economics,True
+C101,Thu,1,08:00,08:50,FREE,False
+C101,Thu,2,08:50,09:40,FREE,False
+C101,Thu,3,09:50,10:40,FREE,False
+C101,Thu,4,10:40,11:30,Communication Skills,True
+C101,Thu,5,11:30,12:20,FREE,False
+C101,Thu,6,13:10,14:00,FREE,False
+C101,Thu,7,14:00,14:50,FREE,False
+C101,Thu,8,14:50,15:40,FREE,False
+C101,Fri,1,08:00,08:50,FREE,False
+C101,Fri,2,08:50,09:40,FREE,False
+C101,Fri,3,09:50,10:40,FREE,False
+C101,Fri,4,10:40,11:30,FREE,False
+C101,Fri,5,11:30,12:20,Machine Learning,True
+C101,Fri,6,13:10,14:00,FREE,False
+C101,Fri,7,14:00,14:50,Probability & Stats,True
+C101,Fri,8,14:50,15:40,FREE,False
+C202,Mon,1,08:00,08:50,FREE,False
+C202,Mon,2,08:50,09:40,FREE,False
+C202,Mon,3,09:50,10:40,FREE,False
+C202,Mon,4,10:40,11:30,FREE,False
+C202,Mon,5,11:30,12:20,FREE,False
+C202,Mon,6,13:10,14:00,FREE,False
+C202,Mon,7,14:00,14:50,FREE,False
+C202,Mon,8,14:50,15:40,FREE,False
+C202,Tue,1,08:00,08:50,Operating Systems,True
+C202,Tue,2,08:50,09:40,FREE,False
+C202,Tue,3,09:50,10:40,FREE,False
+C202,Tue,4,10:40,11:30,FREE,False
+C202,Tue,5,11:30,12:20,FREE,False
+C202,Tue,6,13:10,14:00,Linear Algebra,True
+C202,Tue,7,14:00,14:50,Operating Systems,True
+C202,Tue,8,14:50,15:40,FREE,False
+C202,Wed,1,08:00,08:50,FREE,False
+C202,Wed,2,08:50,09:40,FREE,False
+C202,Wed,3,09:50,10:40,FREE,False
+C202,Wed,4,10:40,11:30,Operating Systems,True
+C202,Wed,5,11:30,12:20,FREE,False
+C202,Wed,6,13:10,14:00,FREE,False
+C202,Wed,7,14:00,14:50,DBMS,True
+C202,Wed,8,14:50,15:40,FREE,False
+C202,Thu,1,08:00,08:50,FREE,False
+C202,Thu,2,08:50,09:40,FREE,False
+C202,Thu,3,09:50,10:40,FREE,False
+C202,Thu,4,10:40,11:30,FREE,False
+C202,Thu,5,11:30,12:20,Data Structures,True
+C202,Thu,6,13:10,14:00,FREE,False
+C202,Thu,7,14:00,14:50,FREE,False
+C202,Thu,8,14:50,15:40,FREE,False
+C202,Fri,1,08:00,08:50,FREE,False
+C202,Fri,2,08:50,09:40,FREE,False
+C202,Fri,3,09:50,10:40,FREE,False
+C202,Fri,4,10:40,11:30,FREE,False
+C202,Fri,5,11:30,12:20,Data Structures,True
+C202,Fri,6,13:10,14:00,Operating Systems,True
+C202,Fri,7,14:00,14:50,Software Engineering,True
+C202,Fri,8,14:50,15:40,FREE,False
+C103,Mon,1,08:00,08:50,Communication Skills,True
+C103,Mon,2,08:50,09:40,FREE,False
+C103,Mon,3,09:50,10:40,Probability & Stats,True
+C103,Mon,4,10:40,11:30,Software Engineering,True
+C103,Mon,5,11:30,12:20,FREE,False
+C103,Mon,6,13:10,14:00,FREE,False
+C103,Mon,7,14:00,14:50,FREE,False
+C103,Mon,8,14:50,15:40,Computer Networks,True
+C103,Tue,1,08:00,08:50,FREE,False
+C103,Tue,2,08:50,09:40,Communication Skills,True
+C103,Tue,3,09:50,10:40,Operating Systems,True
+C103,Tue,4,10:40,11:30,FREE,False
+C103,Tue,5,11:30,12:20,FREE,False
+C103,Tue,6,13:10,14:00,FREE,False
+C103,Tue,7,14:00,14:50,FREE,False
+C103,Tue,8,14:50,15:40,FREE,False
+C103,Wed,1,08:00,08:50,FREE,False
+C103,Wed,2,08:50,09:40,Computer Networks,True
+C103,Wed,3,09:50,10:40,Software Engineering,True
+C103,Wed,4,10:40,11:30,Computer Networks,True
+C103,Wed,5,11:30,12:20,Operating Systems,True
+C103,Wed,6,13:10,14:00,FREE,False
+C103,Wed,7,14:00,14:50,DBMS,True
+C103,Wed,8,14:50,15:40,Data Structures,True
+C103,Thu,1,08:00,08:50,Probability & Stats,True
+C103,Thu,2,08:50,09:40,FREE,False
+C103,Thu,3,09:50,10:40,Computer Networks,True
+C103,Thu,4,10:40,11:30,FREE,False
+C103,Thu,5,11:30,12:20,Operating Systems,True
+C103,Thu,6,13:10,14:00,DBMS,True
+C103,Thu,7,14:00,14:50,FREE,False
+C103,Thu,8,14:50,15:40,FREE,False
+C103,Fri,1,08:00,08:50,Economics,True
+C103,Fri,2,08:50,09:40,FREE,False
+C103,Fri,3,09:50,10:40,FREE,False
+C103,Fri,4,10:40,11:30,Software Engineering,True
+C103,Fri,5,11:30,12:20,FREE,False
+C103,Fri,6,13:10,14:00,FREE,False
+C103,Fri,7,14:00,14:50,FREE,False
+C103,Fri,8,14:50,15:40,FREE,False
+C204,Mon,1,08:00,08:50,FREE,False
+C204,Mon,2,08:50,09:40,FREE,False
+C204,Mon,3,09:50,10:40,FREE,False
+C204,Mon,4,10:40,11:30,Data Structures,True
+C204,Mon,5,11:30,12:20,FREE,False
+C204,Mon,6,13:10,14:00,FREE,False
+C204,Mon,7,14:00,14:50,Economics,True
+C204,Mon,8,14:50,15:40,FREE,False
+C204,Tue,1,08:00,08:50,Operating Systems,True
+C204,Tue,2,08:50,09:40,FREE,False
+C204,Tue,3,09:50,10:40,FREE,False
+C204,Tue,4,10:40,11:30,Probability & Stats,True
+C204,Tue,5,11:30,12:20,FREE,False
+C204,Tue,6,13:10,14:00,FREE,False
+C204,Tue,7,14:00,14:50,FREE,False
+C204,Tue,8,14:50,15:40,Software Engineering,True
+C204,Wed,1,08:00,08:50,FREE,False
+C204,Wed,2,08:50,09:40,FREE,False
+C204,Wed,3,09:50,10:40,FREE,False
+C204,Wed,4,10:40,11:30,FREE,False
+C204,Wed,5,11:30,12:20,FREE,False
+C204,Wed,6,13:10,14:00,FREE,False
+C204,Wed,7,14:00,14:50,FREE,False
+C204,Wed,8,14:50,15:40,FREE,False
+C204,Thu,1,08:00,08:50,DBMS,True
+C204,Thu,2,08:50,09:40,FREE,False
+C204,Thu,3,09:50,10:40,FREE,False
+C204,Thu,4,10:40,11:30,FREE,False
+C204,Thu,5,11:30,12:20,FREE,False
+C204,Thu,6,13:10,14:00,FREE,False
+C204,Thu,7,14:00,14:50,FREE,False
+C204,Thu,8,14:50,15:40,Software Engineering,True
+C204,Fri,1,08:00,08:50,FREE,False
+C204,Fri,2,08:50,09:40,FREE,False
+C204,Fri,3,09:50,10:40,Economics,True
+C204,Fri,4,10:40,11:30,FREE,False
+C204,Fri,5,11:30,12:20,FREE,False
+C204,Fri,6,13:10,14:00,Economics,True
+C204,Fri,7,14:00,14:50,FREE,False
+C204,Fri,8,14:50,15:40,FREE,False
+C105,Mon,1,08:00,08:50,Communication Skills,True
+C105,Mon,2,08:50,09:40,Machine Learning,True
+C105,Mon,3,09:50,10:40,Software Engineering,True
+C105,Mon,4,10:40,11:30,Communication Skills,True
+C105,Mon,5,11:30,12:20,FREE,False
+C105,Mon,6,13:10,14:00,Economics,True
+C105,Mon,7,14:00,14:50,Computer Networks,True
+C105,Mon,8,14:50,15:40,Economics,True
+C105,Tue,1,08:00,08:50,FREE,False
+C105,Tue,2,08:50,09:40,Software Engineering,True
+C105,Tue,3,09:50,10:40,DBMS,True
+C105,Tue,4,10:40,11:30,Software Engineering,True
+C105,Tue,5,11:30,12:20,FREE,False
+C105,Tue,6,13:10,14:00,Software Engineering,True
+C105,Tue,7,14:00,14:50,Linear Algebra,True
+C105,Tue,8,14:50,15:40,Operating Systems,True
+C105,Wed,1,08:00,08:50,Linear Algebra,True
+C105,Wed,2,08:50,09:40,Economics,True
+C105,Wed,3,09:50,10:40,Software Engineering,True
+C105,Wed,4,10:40,11:30,FREE,False
+C105,Wed,5,11:30,12:20,Operating Systems,True
+C105,Wed,6,13:10,14:00,Linear Algebra,True
+C105,Wed,7,14:00,14:50,FREE,False
+C105,Wed,8,14:50,15:40,Software Engineering,True
+C105,Thu,1,08:00,08:50,Probability & Stats,True
+C105,Thu,2,08:50,09:40,Linear Algebra,True
+C105,Thu,3,09:50,10:40,Operating Systems,True
+C105,Thu,4,10:40,11:30,FREE,False
+C105,Thu,5,11:30,12:20,Linear Algebra,True
+C105,Thu,6,13:10,14:00,FREE,False
+C105,Thu,7,14:00,14:50,Machine Learning,True
+C105,Thu,8,14:50,15:40,Machine Learning,True
+C105,Fri,1,08:00,08:50,Economics,True
+C105,Fri,2,08:50,09:40,Probability & Stats,True
+C105,Fri,3,09:50,10:40,DBMS,True
+C105,Fri,4,10:40,11:30,FREE,False
+C105,Fri,5,11:30,12:20,DBMS,True
+C105,Fri,6,13:10,14:00,FREE,False
+C105,Fri,7,14:00,14:50,Operating Systems,True
+C105,Fri,8,14:50,15:40,FREE,False
+C206,Mon,1,08:00,08:50,FREE,False
+C206,Mon,2,08:50,09:40,Computer Networks,True
+C206,Mon,3,09:50,10:40,DBMS,True
+C206,Mon,4,10:40,11:30,FREE,False
+C206,Mon,5,11:30,12:20,FREE,False
+C206,Mon,6,13:10,14:00,FREE,False
+C206,Mon,7,14:00,14:50,FREE,False
+C206,Mon,8,14:50,15:40,Operating Systems,True
+C206,Tue,1,08:00,08:50,Probability & Stats,True
+C206,Tue,2,08:50,09:40,FREE,False
+C206,Tue,3,09:50,10:40,Computer Networks,True
+C206,Tue,4,10:40,11:30,Computer Networks,True
+C206,Tue,5,11:30,12:20,FREE,False
+C206,Tue,6,13:10,14:00,Machine Learning,True
+C206,Tue,7,14:00,14:50,FREE,False
+C206,Tue,8,14:50,15:40,Economics,True
+C206,Wed,1,08:00,08:50,FREE,False
+C206,Wed,2,08:50,09:40,Software Engineering,True
+C206,Wed,3,09:50,10:40,Computer Networks,True
+C206,Wed,4,10:40,11:30,Data Structures,True
+C206,Wed,5,11:30,12:20,Operating Systems,True
+C206,Wed,6,13:10,14:00,Computer Networks,True
+C206,Wed,7,14:00,14:50,FREE,False
+C206,Wed,8,14:50,15:40,FREE,False
+C206,Thu,1,08:00,08:50,Computer Networks,True
+C206,Thu,2,08:50,09:40,FREE,False
+C206,Thu,3,09:50,10:40,FREE,False
+C206,Thu,4,10:40,11:30,FREE,False
+C206,Thu,5,11:30,12:20,Communication Skills,True
+C206,Thu,6,13:10,14:00,FREE,False
+C206,Thu,7,14:00,14:50,Data Structures,True
+C206,Thu,8,14:50,15:40,Communication Skills,True
+C206,Fri,1,08:00,08:50,FREE,False
+C206,Fri,2,08:50,09:40,Computer Networks,True
+C206,Fri,3,09:50,10:40,FREE,False
+C206,Fri,4,10:40,11:30,FREE,False
+C206,Fri,5,11:30,12:20,FREE,False
+C206,Fri,6,13:10,14:00,FREE,False
+C206,Fri,7,14:00,14:50,Software Engineering,True
+C206,Fri,8,14:50,15:40,Data Structures,True
+C107,Mon,1,08:00,08:50,Machine Learning,True
+C107,Mon,2,08:50,09:40,Linear Algebra,True
+C107,Mon,3,09:50,10:40,Computer Networks,True
+C107,Mon,4,10:40,11:30,Computer Networks,True
+C107,Mon,5,11:30,12:20,FREE,False
+C107,Mon,6,13:10,14:00,FREE,False
+C107,Mon,7,14:00,14:50,Economics,True
+C107,Mon,8,14:50,15:40,Economics,True
+C107,Tue,1,08:00,08:50,Communication Skills,True
+C107,Tue,2,08:50,09:40,FREE,False
+C107,Tue,3,09:50,10:40,FREE,False
+C107,Tue,4,10:40,11:30,Operating Systems,True
+C107,Tue,5,11:30,12:20,FREE,False
+C107,Tue,6,13:10,14:00,Software Engineering,True
+C107,Tue,7,14:00,14:50,Operating Systems,True
+C107,Tue,8,14:50,15:40,FREE,False
+C107,Wed,1,08:00,08:50,FREE,False
+C107,Wed,2,08:50,09:40,FREE,False
+C107,Wed,3,09:50,10:40,FREE,False
+C107,Wed,4,10:40,11:30,Linear Algebra,True
+C107,Wed,5,11:30,12:20,FREE,False
+C107,Wed,6,13:10,14:00,Computer Networks,True
+C107,Wed,7,14:00,14:50,FREE,False
+C107,Wed,8,14:50,15:40,Software Engineering,True
+C107,Thu,1,08:00,08:50,FREE,False
+C107,Thu,2,08:50,09:40,Data Structures,True
+C107,Thu,3,09:50,10:40,FREE,False
+C107,Thu,4,10:40,11:30,Computer Networks,True
+C107,Thu,5,11:30,12:20,FREE,False
+C107,Thu,6,13:10,14:00,Machine Learning,True
+C107,Thu,7,14:00,14:50,Computer Networks,True
+C107,Thu,8,14:50,15:40,DBMS,True
+C107,Fri,1,08:00,08:50,Software Engineering,True
+C107,Fri,2,08:50,09:40,FREE,False
+C107,Fri,3,09:50,10:40,DBMS,True
+C107,Fri,4,10:40,11:30,FREE,False
+C107,Fri,5,11:30,12:20,Communication Skills,True
+C107,Fri,6,13:10,14:00,Economics,True
+C107,Fri,7,14:00,14:50,FREE,False
+C107,Fri,8,14:50,15:40,FREE,False
+C208,Mon,1,08:00,08:50,FREE,False
+C208,Mon,2,08:50,09:40,FREE,False
+C208,Mon,3,09:50,10:40,FREE,False
+C208,Mon,4,10:40,11:30,FREE,False
+C208,Mon,5,11:30,12:20,FREE,False
+C208,Mon,6,13:10,14:00,Data Structures,True
+C208,Mon,7,14:00,14:50,Computer Networks,True
+C208,Mon,8,14:50,15:40,FREE,False
+C208,Tue,1,08:00,08:50,FREE,False
+C208,Tue,2,08:50,09:40,FREE,False
+C208,Tue,3,09:50,10:40,FREE,False
+C208,Tue,4,10:40,11:30,FREE,False
+C208,Tue,5,11:30,12:20,FREE,False
+C208,Tue,6,13:10,14:00,FREE,False
+C208,Tue,7,14:00,14:50,FREE,False
+C208,Tue,8,14:50,15:40,FREE,False
+C208,Wed,1,08:00,08:50,Communication Skills,True
+C208,Wed,2,08:50,09:40,FREE,False
+C208,Wed,3,09:50,10:40,FREE,False
+C208,Wed,4,10:40,11:30,FREE,False
+C208,Wed,5,11:30,12:20,FREE,False
+C208,Wed,6,13:10,14:00,FREE,False
+C208,Wed,7,14:00,14:50,FREE,False
+C208,Wed,8,14:50,15:40,FREE,False
+C208,Thu,1,08:00,08:50,FREE,False
+C208,Thu,2,08:50,09:40,FREE,False
+C208,Thu,3,09:50,10:40,FREE,False
+C208,Thu,4,10:40,11:30,FREE,False
+C208,Thu,5,11:30,12:20,FREE,False
+C208,Thu,6,13:10,14:00,FREE,False
+C208,Thu,7,14:00,14:50,FREE,False
+C208,Thu,8,14:50,15:40,FREE,False
+C208,Fri,1,08:00,08:50,Communication Skills,True
+C208,Fri,2,08:50,09:40,FREE,False
+C208,Fri,3,09:50,10:40,FREE,False
+C208,Fri,4,10:40,11:30,FREE,False
+C208,Fri,5,11:30,12:20,FREE,False
+C208,Fri,6,13:10,14:00,FREE,False
+C208,Fri,7,14:00,14:50,FREE,False
+C208,Fri,8,14:50,15:40,FREE,False
+B204,Fri,5,11:30,12:20,FREE,False
+B206,Mon,4,10:40,11:30,DBMS,True
+C204,Fri,2,08:50,09:40,FREE,False
+A205,Thu,7,14:00,14:50,FREE,False
+C206,Mon,4,10:40,11:30,FREE,False

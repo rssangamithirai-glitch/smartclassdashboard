@@ -1,0 +1,1201 @@
+classroom_id,block,floor,capacity,day,period,start_time,end_time,subject,scheduled,students_present,occupancy_ratio,scheduled_free,actually_available,availability_gap,source
+A101,A,1,40,Mon,1,08:00,08:50,FREE,False,1.0,0.025,True,True,False,wifi_log
+A101,A,1,40,Mon,2,08:50,09:40,FREE,False,1.0,0.025,True,True,False,wifi_log
+A101,A,1,40,Mon,3,09:50,10:40,FREE,False,17.0,0.425,True,False,True,wifi_log
+A101,A,1,40,Mon,4,10:40,11:30,Probability & Stats,True,28.0,0.7,False,False,False,wifi_log
+A101,A,1,40,Mon,5,11:30,12:20,FREE,False,0.0,0.0,True,True,False,wifi_log
+A101,A,1,40,Mon,6,13:10,14:00,FREE,False,9.0,0.225,True,False,True,wifi_log
+A101,A,1,40,Mon,7,14:00,14:50,Data Structures,True,30.0,0.75,False,False,False,qr_checkin
+A101,A,1,40,Mon,8,14:50,15:40,FREE,False,7.0,0.175,True,True,False,wifi_log
+A101,A,1,40,Tue,1,08:00,08:50,Linear Algebra,True,28.0,0.7,False,False,False,qr_checkin
+A101,A,1,40,Tue,2,08:50,09:40,FREE,False,1.0,0.025,True,True,False,wifi_log
+A101,A,1,40,Tue,3,09:50,10:40,FREE,False,2.0,0.05,True,True,False,wifi_log
+A101,A,1,40,Tue,4,10:40,11:30,FREE,False,2.0,0.05,True,True,False,wifi_log
+A101,A,1,40,Tue,5,11:30,12:20,FREE,False,3.0,0.075,True,True,False,wifi_log
+A101,A,1,40,Tue,6,13:10,14:00,FREE,False,1.0,0.025,True,True,False,qr_checkin
+A101,A,1,40,Tue,7,14:00,14:50,FREE,False,17.0,0.425,True,False,True,qr_checkin
+A101,A,1,40,Tue,8,14:50,15:40,Operating Systems,True,30.0,0.75,False,False,False,wifi_log
+A101,A,1,40,Wed,1,08:00,08:50,FREE,False,1.0,0.025,True,True,False,wifi_log
+A101,A,1,40,Wed,2,08:50,09:40,FREE,False,17.0,0.425,True,False,True,wifi_log
+A101,A,1,40,Wed,3,09:50,10:40,FREE,False,13.0,0.325,True,False,True,wifi_log
+A101,A,1,40,Wed,4,10:40,11:30,FREE,False,0.0,0.0,True,True,False,qr_checkin
+A101,A,1,40,Wed,5,11:30,12:20,FREE,False,2.0,0.05,True,True,False,qr_checkin
+A101,A,1,40,Wed,6,13:10,14:00,FREE,False,0.0,0.0,True,True,False,qr_checkin
+A101,A,1,40,Wed,7,14:00,14:50,Operating Systems,True,33.0,0.825,False,False,False,wifi_log
+A101,A,1,40,Wed,8,14:50,15:40,DBMS,True,33.0,0.825,False,False,False,wifi_log
+A101,A,1,40,Thu,1,08:00,08:50,Probability & Stats,True,25.0,0.625,False,False,False,qr_checkin
+A101,A,1,40,Thu,2,08:50,09:40,FREE,False,17.0,0.425,True,False,True,qr_checkin
+A101,A,1,40,Thu,3,09:50,10:40,FREE,False,2.0,0.05,True,True,False,wifi_log
+A101,A,1,40,Thu,4,10:40,11:30,FREE,False,1.0,0.025,True,True,False,qr_checkin
+A101,A,1,40,Thu,5,11:30,12:20,FREE,False,0.0,0.0,True,True,False,qr_checkin
+A101,A,1,40,Thu,6,13:10,14:00,FREE,False,6.0,0.15,True,True,False,wifi_log
+A101,A,1,40,Thu,7,14:00,14:50,FREE,False,0.0,0.0,True,True,False,wifi_log
+A101,A,1,40,Thu,8,14:50,15:40,FREE,False,9.0,0.225,True,False,True,wifi_log
+A101,A,1,40,Fri,1,08:00,08:50,Economics,True,27.0,0.675,False,False,False,wifi_log
+A101,A,1,40,Fri,2,08:50,09:40,FREE,False,0.0,0.0,True,True,False,wifi_log
+A101,A,1,40,Fri,3,09:50,10:40,Probability & Stats,True,31.0,0.775,False,False,False,qr_checkin
+A101,A,1,40,Fri,4,10:40,11:30,FREE,False,2.0,0.05,True,True,False,wifi_log
+A101,A,1,40,Fri,5,11:30,12:20,FREE,False,11.0,0.275,True,False,True,wifi_log
+A101,A,1,40,Fri,6,13:10,14:00,Communication Skills,True,34.0,0.85,False,False,False,qr_checkin
+A101,A,1,40,Fri,7,14:00,14:50,Computer Networks,True,0.0,0.0,False,False,False,wifi_log
+A101,A,1,40,Fri,8,14:50,15:40,FREE,False,12.0,0.3,True,False,True,wifi_log
+A202,A,2,80,Mon,1,08:00,08:50,Data Structures,True,73.0,0.912,False,False,False,qr_checkin
+A202,A,2,80,Mon,2,08:50,09:40,Data Structures,True,57.0,0.712,False,False,False,wifi_log
+A202,A,2,80,Mon,3,09:50,10:40,FREE,False,13.0,0.162,True,True,False,qr_checkin
+A202,A,2,80,Mon,4,10:40,11:30,FREE,False,13.0,0.162,True,True,False,qr_checkin
+A202,A,2,80,Mon,5,11:30,12:20,Probability & Stats,True,55.0,0.688,False,False,False,wifi_log
+A202,A,2,80,Mon,6,13:10,14:00,Operating Systems,True,53.0,0.662,False,False,False,wifi_log
+A202,A,2,80,Mon,7,14:00,14:50,Operating Systems,True,62.0,0.775,False,False,False,wifi_log
+A202,A,2,80,Mon,8,14:50,15:40,Economics,True,63.0,0.788,False,False,False,qr_checkin
+A202,A,2,80,Tue,1,08:00,08:50,FREE,False,29.0,0.362,True,False,True,wifi_log
+A202,A,2,80,Tue,2,08:50,09:40,FREE,False,0.0,0.0,True,True,False,wifi_log
+A202,A,2,80,Tue,3,09:50,10:40,FREE,False,22.0,0.275,True,False,True,wifi_log
+A202,A,2,80,Tue,4,10:40,11:30,Communication Skills,True,52.0,0.65,False,False,False,qr_checkin
+A202,A,2,80,Tue,5,11:30,12:20,Data Structures,True,69.0,0.862,False,False,False,wifi_log
+A202,A,2,80,Tue,6,13:10,14:00,FREE,False,27.0,0.338,True,False,True,wifi_log
+A202,A,2,80,Tue,7,14:00,14:50,FREE,False,0.0,0.0,True,True,False,wifi_log
+A202,A,2,80,Tue,8,14:50,15:40,FREE,False,0.0,0.0,True,True,False,qr_checkin
+A202,A,2,80,Wed,1,08:00,08:50,FREE,False,7.0,0.088,True,True,False,wifi_log
+A202,A,2,80,Wed,2,08:50,09:40,Economics,True,64.0,0.8,False,False,False,wifi_log
+A202,A,2,80,Wed,3,09:50,10:40,FREE,False,23.0,0.288,True,False,True,qr_checkin
+A202,A,2,80,Wed,4,10:40,11:30,Operating Systems,True,51.0,0.638,False,False,False,wifi_log
+A202,A,2,80,Wed,5,11:30,12:20,Economics,True,59.0,0.738,False,False,False,wifi_log
+A202,A,2,80,Wed,6,13:10,14:00,Computer Networks,True,75.0,0.938,False,False,False,wifi_log
+A202,A,2,80,Wed,7,14:00,14:50,Operating Systems,True,68.0,0.85,False,False,False,wifi_log
+A202,A,2,80,Wed,8,14:50,15:40,FREE,False,6.0,0.075,True,True,False,wifi_log
+A202,A,2,80,Thu,1,08:00,08:50,Software Engineering,True,57.0,0.712,False,False,False,wifi_log
+A202,A,2,80,Thu,2,08:50,09:40,Communication Skills,True,49.0,0.612,False,False,False,wifi_log
+A202,A,2,80,Thu,3,09:50,10:40,FREE,False,0.0,0.0,True,True,False,wifi_log
+A202,A,2,80,Thu,4,10:40,11:30,Linear Algebra,True,64.0,0.8,False,False,False,wifi_log
+A202,A,2,80,Thu,5,11:30,12:20,Data Structures,True,60.0,0.75,False,False,False,wifi_log
+A202,A,2,80,Thu,6,13:10,14:00,FREE,False,15.0,0.188,True,True,False,wifi_log
+A202,A,2,80,Thu,7,14:00,14:50,DBMS,True,57.0,0.712,False,False,False,wifi_log
+A202,A,2,80,Thu,8,14:50,15:40,Computer Networks,True,74.0,0.925,False,False,False,qr_checkin
+A202,A,2,80,Fri,1,08:00,08:50,Machine Learning,True,52.0,0.65,False,False,False,wifi_log
+A202,A,2,80,Fri,2,08:50,09:40,Linear Algebra,True,0.0,0.0,False,False,False,wifi_log
+A202,A,2,80,Fri,3,09:50,10:40,FREE,False,0.0,0.0,True,True,False,wifi_log
+A202,A,2,80,Fri,4,10:40,11:30,FREE,False,8.0,0.1,True,True,False,qr_checkin
+A202,A,2,80,Fri,5,11:30,12:20,FREE,False,30.0,0.375,True,False,True,wifi_log
+A202,A,2,80,Fri,6,13:10,14:00,FREE,False,28.0,0.35,True,False,True,qr_checkin
+A202,A,2,80,Fri,7,14:00,14:50,FREE,False,0.0,0.0,True,True,False,wifi_log
+A202,A,2,80,Fri,8,14:50,15:40,DBMS,True,54.0,0.675,False,False,False,wifi_log
+A303,A,3,50,Mon,1,08:00,08:50,Operating Systems,True,36.0,0.72,False,False,False,wifi_log
+A303,A,3,50,Mon,2,08:50,09:40,Machine Learning,True,44.0,0.88,False,False,False,qr_checkin
+A303,A,3,50,Mon,3,09:50,10:40,Probability & Stats,True,45.0,0.9,False,False,False,qr_checkin
+A303,A,3,50,Mon,4,10:40,11:30,FREE,False,13.0,0.26,True,False,True,wifi_log
+A303,A,3,50,Mon,5,11:30,12:20,FREE,False,13.0,0.26,True,False,True,wifi_log
+A303,A,3,50,Mon,6,13:10,14:00,FREE,False,16.0,0.32,True,False,True,wifi_log
+A303,A,3,50,Mon,7,14:00,14:50,Probability & Stats,True,44.0,0.88,False,False,False,wifi_log
+A303,A,3,50,Mon,8,14:50,15:40,FREE,False,6.0,0.12,True,True,False,wifi_log
+A303,A,3,50,Tue,1,08:00,08:50,FREE,False,0.0,0.0,True,True,False,qr_checkin
+A303,A,3,50,Tue,2,08:50,09:40,Computer Networks,True,46.0,0.92,False,False,False,wifi_log
+A303,A,3,50,Tue,3,09:50,10:40,Probability & Stats,True,43.0,0.86,False,False,False,wifi_log
+A303,A,3,50,Tue,4,10:40,11:30,Machine Learning,True,36.0,0.72,False,False,False,wifi_log
+A303,A,3,50,Tue,5,11:30,12:20,FREE,False,3.0,0.06,True,True,False,qr_checkin
+A303,A,3,50,Tue,6,13:10,14:00,Machine Learning,True,39.0,0.78,False,False,False,wifi_log
+A303,A,3,50,Tue,7,14:00,14:50,FREE,False,12.0,0.24,True,False,True,wifi_log
+A303,A,3,50,Tue,8,14:50,15:40,FREE,False,0.0,0.0,True,True,False,wifi_log
+A303,A,3,50,Wed,1,08:00,08:50,FREE,False,10.0,0.2,True,False,True,wifi_log
+A303,A,3,50,Wed,2,08:50,09:40,FREE,False,12.0,0.24,True,False,True,wifi_log
+A303,A,3,50,Wed,3,09:50,10:40,FREE,False,11.0,0.22,True,False,True,wifi_log
+A303,A,3,50,Wed,4,10:40,11:30,Communication Skills,True,43.0,0.86,False,False,False,wifi_log
+A303,A,3,50,Wed,5,11:30,12:20,FREE,False,0.0,0.0,True,True,False,qr_checkin
+A303,A,3,50,Wed,6,13:10,14:00,Linear Algebra,True,44.0,0.88,False,False,False,wifi_log
+A303,A,3,50,Wed,7,14:00,14:50,Data Structures,True,40.0,0.8,False,False,False,wifi_log
+A303,A,3,50,Wed,8,14:50,15:40,Software Engineering,True,32.0,0.64,False,False,False,wifi_log
+A303,A,3,50,Thu,1,08:00,08:50,FREE,False,9.0,0.18,True,True,False,qr_checkin
+A303,A,3,50,Thu,2,08:50,09:40,FREE,False,0.0,0.0,True,True,False,wifi_log
+A303,A,3,50,Thu,3,09:50,10:40,Economics,True,0.0,0.0,False,False,False,wifi_log
+A303,A,3,50,Thu,4,10:40,11:30,Probability & Stats,True,43.0,0.86,False,False,False,wifi_log
+A303,A,3,50,Thu,5,11:30,12:20,FREE,False,2.0,0.04,True,True,False,qr_checkin
+A303,A,3,50,Thu,6,13:10,14:00,Computer Networks,True,44.0,0.88,False,False,False,wifi_log
+A303,A,3,50,Thu,7,14:00,14:50,Probability & Stats,True,31.0,0.62,False,False,False,wifi_log
+A303,A,3,50,Thu,8,14:50,15:40,FREE,False,2.0,0.04,True,True,False,wifi_log
+A303,A,3,50,Fri,1,08:00,08:50,FREE,False,17.0,0.34,True,False,True,wifi_log
+A303,A,3,50,Fri,2,08:50,09:40,Economics,True,36.0,0.72,False,False,False,qr_checkin
+A303,A,3,50,Fri,3,09:50,10:40,FREE,False,0.0,0.0,True,True,False,wifi_log
+A303,A,3,50,Fri,4,10:40,11:30,FREE,False,0.0,0.0,True,True,False,wifi_log
+A303,A,3,50,Fri,5,11:30,12:20,Linear Algebra,True,44.0,0.88,False,False,False,qr_checkin
+A303,A,3,50,Fri,6,13:10,14:00,FREE,False,15.0,0.3,True,False,True,qr_checkin
+A303,A,3,50,Fri,7,14:00,14:50,FREE,False,0.0,0.0,True,True,False,wifi_log
+A303,A,3,50,Fri,8,14:50,15:40,FREE,False,17.0,0.34,True,False,True,wifi_log
+A104,A,1,50,Mon,1,08:00,08:50,FREE,False,4.0,0.08,True,True,False,wifi_log
+A104,A,1,50,Mon,2,08:50,09:40,Communication Skills,True,0.0,0.0,False,False,False,qr_checkin
+A104,A,1,50,Mon,3,09:50,10:40,Machine Learning,True,42.0,0.84,False,False,False,wifi_log
+A104,A,1,50,Mon,4,10:40,11:30,FREE,False,17.0,0.34,True,False,True,wifi_log
+A104,A,1,50,Mon,5,11:30,12:20,FREE,False,4.0,0.08,True,True,False,qr_checkin
+A104,A,1,50,Mon,6,13:10,14:00,Communication Skills,True,34.0,0.68,False,False,False,wifi_log
+A104,A,1,50,Mon,7,14:00,14:50,FREE,False,0.0,0.0,True,True,False,wifi_log
+A104,A,1,50,Mon,8,14:50,15:40,Operating Systems,True,30.0,0.6,False,False,False,wifi_log
+A104,A,1,50,Tue,1,08:00,08:50,FREE,False,21.0,0.42,True,False,True,qr_checkin
+A104,A,1,50,Tue,2,08:50,09:40,Probability & Stats,True,35.0,0.7,False,False,False,wifi_log
+A104,A,1,50,Tue,3,09:50,10:40,FREE,False,12.0,0.24,True,False,True,wifi_log
+A104,A,1,50,Tue,4,10:40,11:30,FREE,False,0.0,0.0,True,True,False,wifi_log
+A104,A,1,50,Tue,5,11:30,12:20,FREE,False,0.0,0.0,True,True,False,wifi_log
+A104,A,1,50,Tue,6,13:10,14:00,Data Structures,True,37.0,0.74,False,False,False,qr_checkin
+A104,A,1,50,Tue,7,14:00,14:50,FREE,False,4.0,0.08,True,True,False,qr_checkin
+A104,A,1,50,Tue,8,14:50,15:40,Operating Systems,True,41.0,0.82,False,False,False,qr_checkin
+A104,A,1,50,Wed,1,08:00,08:50,FREE,False,0.0,0.0,True,True,False,wifi_log
+A104,A,1,50,Wed,2,08:50,09:40,FREE,False,2.0,0.04,True,True,False,qr_checkin
+A104,A,1,50,Wed,3,09:50,10:40,Linear Algebra,True,39.0,0.78,False,False,False,wifi_log
+A104,A,1,50,Wed,4,10:40,11:30,FREE,False,17.0,0.34,True,False,True,wifi_log
+A104,A,1,50,Wed,5,11:30,12:20,FREE,False,0.0,0.0,True,True,False,qr_checkin
+A104,A,1,50,Wed,6,13:10,14:00,FREE,False,0.0,0.0,True,True,False,wifi_log
+A104,A,1,50,Wed,7,14:00,14:50,FREE,False,17.0,0.34,True,False,True,wifi_log
+A104,A,1,50,Wed,8,14:50,15:40,Probability & Stats,True,31.0,0.62,False,False,False,wifi_log
+A104,A,1,50,Thu,1,08:00,08:50,Operating Systems,True,40.0,0.8,False,False,False,wifi_log
+A104,A,1,50,Thu,2,08:50,09:40,FREE,False,13.0,0.26,True,False,True,qr_checkin
+A104,A,1,50,Thu,3,09:50,10:40,FREE,False,1.0,0.02,True,True,False,wifi_log
+A104,A,1,50,Thu,4,10:40,11:30,FREE,False,0.0,0.0,True,True,False,qr_checkin
+A104,A,1,50,Thu,5,11:30,12:20,FREE,False,0.0,0.0,True,True,False,wifi_log
+A104,A,1,50,Thu,6,13:10,14:00,FREE,False,1.0,0.02,True,True,False,qr_checkin
+A104,A,1,50,Thu,7,14:00,14:50,FREE,False,1.0,0.02,True,True,False,wifi_log
+A104,A,1,50,Thu,8,14:50,15:40,FREE,False,0.0,0.0,True,True,False,qr_checkin
+A104,A,1,50,Fri,1,08:00,08:50,FREE,False,0.0,0.0,True,True,False,wifi_log
+A104,A,1,50,Fri,2,08:50,09:40,FREE,False,16.0,0.32,True,False,True,wifi_log
+A104,A,1,50,Fri,3,09:50,10:40,FREE,False,10.0,0.2,True,False,True,wifi_log
+A104,A,1,50,Fri,4,10:40,11:30,Probability & Stats,True,40.0,0.8,False,False,False,qr_checkin
+A104,A,1,50,Fri,5,11:30,12:20,Computer Networks,True,31.0,0.62,False,False,False,wifi_log
+A104,A,1,50,Fri,6,13:10,14:00,FREE,False,3.0,0.06,True,True,False,wifi_log
+A104,A,1,50,Fri,7,14:00,14:50,FREE,False,14.0,0.28,True,False,True,qr_checkin
+A104,A,1,50,Fri,8,14:50,15:40,Linear Algebra,True,34.0,0.68,False,False,False,wifi_log
+A205,A,2,30,Mon,1,08:00,08:50,Software Engineering,True,18.0,0.6,False,False,False,wifi_log
+A205,A,2,30,Mon,2,08:50,09:40,Machine Learning,True,26.0,0.867,False,False,False,qr_checkin
+A205,A,2,30,Mon,3,09:50,10:40,DBMS,True,23.0,0.767,False,False,False,wifi_log
+A205,A,2,30,Mon,4,10:40,11:30,Machine Learning,True,21.0,0.7,False,False,False,wifi_log
+A205,A,2,30,Mon,5,11:30,12:20,FREE,False,8.0,0.267,True,False,True,qr_checkin
+A205,A,2,30,Mon,6,13:10,14:00,Machine Learning,True,27.0,0.9,False,False,False,wifi_log
+A205,A,2,30,Mon,7,14:00,14:50,Operating Systems,True,24.0,0.8,False,False,False,wifi_log
+A205,A,2,30,Mon,8,14:50,15:40,FREE,False,11.0,0.367,True,False,True,wifi_log
+A205,A,2,30,Tue,1,08:00,08:50,Linear Algebra,True,24.0,0.8,False,False,False,wifi_log
+A205,A,2,30,Tue,2,08:50,09:40,FREE,False,1.0,0.033,True,True,False,qr_checkin
+A205,A,2,30,Tue,3,09:50,10:40,Probability & Stats,True,20.0,0.667,False,False,False,wifi_log
+A205,A,2,30,Tue,4,10:40,11:30,Communication Skills,True,27.0,0.9,False,False,False,wifi_log
+A205,A,2,30,Tue,5,11:30,12:20,DBMS,True,27.0,0.9,False,False,False,wifi_log
+A205,A,2,30,Tue,6,13:10,14:00,Economics,True,26.0,0.867,False,False,False,wifi_log
+A205,A,2,30,Tue,7,14:00,14:50,Operating Systems,True,19.0,0.633,False,False,False,qr_checkin
+A205,A,2,30,Tue,8,14:50,15:40,DBMS,True,23.0,0.767,False,False,False,qr_checkin
+A205,A,2,30,Wed,1,08:00,08:50,FREE,False,1.0,0.033,True,True,False,wifi_log
+A205,A,2,30,Wed,2,08:50,09:40,Software Engineering,True,27.0,0.9,False,False,False,wifi_log
+A205,A,2,30,Wed,3,09:50,10:40,FREE,False,2.0,0.067,True,True,False,wifi_log
+A205,A,2,30,Wed,4,10:40,11:30,Computer Networks,True,20.0,0.667,False,False,False,qr_checkin
+A205,A,2,30,Wed,5,11:30,12:20,FREE,False,6.0,0.2,True,False,True,wifi_log
+A205,A,2,30,Wed,6,13:10,14:00,Linear Algebra,True,19.0,0.633,False,False,False,wifi_log
+A205,A,2,30,Wed,7,14:00,14:50,Economics,True,24.0,0.8,False,False,False,wifi_log
+A205,A,2,30,Wed,8,14:50,15:40,Operating Systems,True,21.0,0.7,False,False,False,wifi_log
+A205,A,2,30,Thu,1,08:00,08:50,Machine Learning,True,20.0,0.667,False,False,False,wifi_log
+A205,A,2,30,Thu,2,08:50,09:40,FREE,False,12.0,0.4,True,False,True,qr_checkin
+A205,A,2,30,Thu,3,09:50,10:40,Data Structures,True,26.0,0.867,False,False,False,wifi_log
+A205,A,2,30,Thu,4,10:40,11:30,Operating Systems,True,28.0,0.933,False,False,False,qr_checkin
+A205,A,2,30,Thu,5,11:30,12:20,Data Structures,True,20.0,0.667,False,False,False,wifi_log
+A205,A,2,30,Thu,6,13:10,14:00,Machine Learning,True,27.0,0.9,False,False,False,wifi_log
+A205,A,2,30,Thu,7,14:00,14:50,FREE,False,10.0,0.333,True,False,True,wifi_log
+A205,A,2,30,Thu,8,14:50,15:40,FREE,False,0.0,0.0,True,True,False,wifi_log
+A205,A,2,30,Fri,1,08:00,08:50,FREE,False,0.0,0.0,True,True,False,qr_checkin
+A205,A,2,30,Fri,2,08:50,09:40,Computer Networks,True,23.0,0.767,False,False,False,wifi_log
+A205,A,2,30,Fri,3,09:50,10:40,Linear Algebra,True,26.0,0.867,False,False,False,wifi_log
+A205,A,2,30,Fri,4,10:40,11:30,FREE,False,0.0,0.0,True,True,False,wifi_log
+A205,A,2,30,Fri,5,11:30,12:20,Probability & Stats,True,22.0,0.733,False,False,False,wifi_log
+A205,A,2,30,Fri,6,13:10,14:00,FREE,False,7.0,0.233,True,False,True,wifi_log
+A205,A,2,30,Fri,7,14:00,14:50,FREE,False,10.0,0.333,True,False,True,wifi_log
+A205,A,2,30,Fri,8,14:50,15:40,FREE,False,5.0,0.167,True,True,False,wifi_log
+A306,A,3,30,Mon,1,08:00,08:50,Operating Systems,True,20.0,0.667,False,False,False,qr_checkin
+A306,A,3,30,Mon,2,08:50,09:40,Communication Skills,True,27.0,0.9,False,False,False,wifi_log
+A306,A,3,30,Mon,3,09:50,10:40,FREE,False,0.0,0.0,True,True,False,wifi_log
+A306,A,3,30,Mon,4,10:40,11:30,FREE,False,5.0,0.167,True,True,False,wifi_log
+A306,A,3,30,Mon,5,11:30,12:20,Machine Learning,True,26.0,0.867,False,False,False,wifi_log
+A306,A,3,30,Mon,6,13:10,14:00,Operating Systems,True,22.0,0.733,False,False,False,wifi_log
+A306,A,3,30,Mon,7,14:00,14:50,Software Engineering,True,20.0,0.667,False,False,False,wifi_log
+A306,A,3,30,Mon,8,14:50,15:40,FREE,False,10.0,0.333,True,False,True,wifi_log
+A306,A,3,30,Tue,1,08:00,08:50,Computer Networks,True,24.0,0.8,False,False,False,qr_checkin
+A306,A,3,30,Tue,2,08:50,09:40,Software Engineering,True,23.0,0.767,False,False,False,wifi_log
+A306,A,3,30,Tue,3,09:50,10:40,FREE,False,8.0,0.267,True,False,True,qr_checkin
+A306,A,3,30,Tue,4,10:40,11:30,FREE,False,7.0,0.233,True,False,True,wifi_log
+A306,A,3,30,Tue,5,11:30,12:20,FREE,False,10.0,0.333,True,False,True,wifi_log
+A306,A,3,30,Tue,6,13:10,14:00,FREE,False,0.0,0.0,True,True,False,qr_checkin
+A306,A,3,30,Tue,7,14:00,14:50,DBMS,True,23.0,0.767,False,False,False,wifi_log
+A306,A,3,30,Tue,8,14:50,15:40,Linear Algebra,True,28.0,0.933,False,False,False,wifi_log
+A306,A,3,30,Wed,1,08:00,08:50,FREE,False,12.0,0.4,True,False,True,wifi_log
+A306,A,3,30,Wed,2,08:50,09:40,FREE,False,8.0,0.267,True,False,True,qr_checkin
+A306,A,3,30,Wed,3,09:50,10:40,FREE,False,2.0,0.067,True,True,False,wifi_log
+A306,A,3,30,Wed,4,10:40,11:30,FREE,False,12.0,0.4,True,False,True,qr_checkin
+A306,A,3,30,Wed,5,11:30,12:20,DBMS,True,28.0,0.933,False,False,False,wifi_log
+A306,A,3,30,Wed,6,13:10,14:00,Operating Systems,True,21.0,0.7,False,False,False,qr_checkin
+A306,A,3,30,Wed,7,14:00,14:50,FREE,False,0.0,0.0,True,True,False,wifi_log
+A306,A,3,30,Wed,8,14:50,15:40,Economics,True,18.0,0.6,False,False,False,wifi_log
+A306,A,3,30,Thu,1,08:00,08:50,FREE,False,0.0,0.0,True,True,False,qr_checkin
+A306,A,3,30,Thu,2,08:50,09:40,FREE,False,0.0,0.0,True,True,False,wifi_log
+A306,A,3,30,Thu,3,09:50,10:40,FREE,False,0.0,0.0,True,True,False,qr_checkin
+A306,A,3,30,Thu,4,10:40,11:30,Economics,True,19.0,0.633,False,False,False,wifi_log
+A306,A,3,30,Thu,5,11:30,12:20,Linear Algebra,True,25.0,0.833,False,False,False,wifi_log
+A306,A,3,30,Thu,6,13:10,14:00,Communication Skills,True,28.0,0.933,False,False,False,wifi_log
+A306,A,3,30,Thu,7,14:00,14:50,Computer Networks,True,21.0,0.7,False,False,False,wifi_log
+A306,A,3,30,Thu,8,14:50,15:40,Communication Skills,True,21.0,0.7,False,False,False,qr_checkin
+A306,A,3,30,Fri,1,08:00,08:50,Computer Networks,True,22.0,0.733,False,False,False,qr_checkin
+A306,A,3,30,Fri,2,08:50,09:40,Machine Learning,True,20.0,0.667,False,False,False,wifi_log
+A306,A,3,30,Fri,3,09:50,10:40,Operating Systems,True,27.0,0.9,False,False,False,qr_checkin
+A306,A,3,30,Fri,4,10:40,11:30,DBMS,True,18.0,0.6,False,False,False,wifi_log
+A306,A,3,30,Fri,5,11:30,12:20,Economics,True,21.0,0.7,False,False,False,wifi_log
+A306,A,3,30,Fri,6,13:10,14:00,Software Engineering,True,19.0,0.633,False,False,False,qr_checkin
+A306,A,3,30,Fri,7,14:00,14:50,FREE,False,1.0,0.033,True,True,False,wifi_log
+A306,A,3,30,Fri,8,14:50,15:40,Probability & Stats,True,28.0,0.933,False,False,False,qr_checkin
+A107,A,1,30,Mon,1,08:00,08:50,Data Structures,True,28.0,0.933,False,False,False,wifi_log
+A107,A,1,30,Mon,2,08:50,09:40,Probability & Stats,True,26.0,0.867,False,False,False,wifi_log
+A107,A,1,30,Mon,3,09:50,10:40,DBMS,True,23.0,0.767,False,False,False,wifi_log
+A107,A,1,30,Mon,4,10:40,11:30,DBMS,True,24.0,0.8,False,False,False,wifi_log
+A107,A,1,30,Mon,5,11:30,12:20,Computer Networks,True,19.0,0.633,False,False,False,wifi_log
+A107,A,1,30,Mon,6,13:10,14:00,Communication Skills,True,18.0,0.6,False,False,False,wifi_log
+A107,A,1,30,Mon,7,14:00,14:50,Probability & Stats,True,26.0,0.867,False,False,False,wifi_log
+A107,A,1,30,Mon,8,14:50,15:40,FREE,False,0.0,0.0,True,True,False,qr_checkin
+A107,A,1,30,Tue,1,08:00,08:50,Computer Networks,True,26.0,0.867,False,False,False,wifi_log
+A107,A,1,30,Tue,2,08:50,09:40,Computer Networks,True,27.0,0.9,False,False,False,wifi_log
+A107,A,1,30,Tue,3,09:50,10:40,FREE,False,11.0,0.367,True,False,True,wifi_log
+A107,A,1,30,Tue,4,10:40,11:30,Communication Skills,True,28.0,0.933,False,False,False,wifi_log
+A107,A,1,30,Tue,5,11:30,12:20,Software Engineering,True,18.0,0.6,False,False,False,wifi_log
+A107,A,1,30,Tue,6,13:10,14:00,Economics,True,19.0,0.633,False,False,False,qr_checkin
+A107,A,1,30,Tue,7,14:00,14:50,Linear Algebra,True,25.0,0.833,False,False,False,qr_checkin
+A107,A,1,30,Tue,8,14:50,15:40,FREE,False,2.0,0.067,True,True,False,wifi_log
+A107,A,1,30,Wed,1,08:00,08:50,FREE,False,0.0,0.0,True,True,False,wifi_log
+A107,A,1,30,Wed,2,08:50,09:40,Economics,True,19.0,0.633,False,False,False,wifi_log
+A107,A,1,30,Wed,3,09:50,10:40,Data Structures,True,26.0,0.867,False,False,False,wifi_log
+A107,A,1,30,Wed,4,10:40,11:30,Probability & Stats,True,19.0,0.633,False,False,False,qr_checkin
+A107,A,1,30,Wed,5,11:30,12:20,Economics,True,28.0,0.933,False,False,False,wifi_log
+A107,A,1,30,Wed,6,13:10,14:00,Linear Algebra,True,22.0,0.733,False,False,False,wifi_log
+A107,A,1,30,Wed,7,14:00,14:50,Machine Learning,True,22.0,0.733,False,False,False,wifi_log
+A107,A,1,30,Wed,8,14:50,15:40,Probability & Stats,True,18.0,0.6,False,False,False,qr_checkin
+A107,A,1,30,Thu,1,08:00,08:50,Linear Algebra,True,20.0,0.667,False,False,False,wifi_log
+A107,A,1,30,Thu,2,08:50,09:40,Computer Networks,True,22.0,0.733,False,False,False,wifi_log
+A107,A,1,30,Thu,3,09:50,10:40,FREE,False,7.0,0.233,True,False,True,wifi_log
+A107,A,1,30,Thu,4,10:40,11:30,FREE,False,0.0,0.0,True,True,False,wifi_log
+A107,A,1,30,Thu,5,11:30,12:20,DBMS,True,19.0,0.633,False,False,False,qr_checkin
+A107,A,1,30,Thu,6,13:10,14:00,Software Engineering,True,24.0,0.8,False,False,False,wifi_log
+A107,A,1,30,Thu,7,14:00,14:50,Data Structures,True,27.0,0.9,False,False,False,wifi_log
+A107,A,1,30,Thu,8,14:50,15:40,Linear Algebra,True,24.0,0.8,False,False,False,wifi_log
+A107,A,1,30,Fri,1,08:00,08:50,Economics,True,23.0,0.767,False,False,False,wifi_log
+A107,A,1,30,Fri,2,08:50,09:40,FREE,False,0.0,0.0,True,True,False,qr_checkin
+A107,A,1,30,Fri,3,09:50,10:40,DBMS,True,19.0,0.633,False,False,False,qr_checkin
+A107,A,1,30,Fri,4,10:40,11:30,Economics,True,27.0,0.9,False,False,False,wifi_log
+A107,A,1,30,Fri,5,11:30,12:20,Probability & Stats,True,25.0,0.833,False,False,False,qr_checkin
+A107,A,1,30,Fri,6,13:10,14:00,Linear Algebra,True,28.0,0.933,False,False,False,qr_checkin
+A107,A,1,30,Fri,7,14:00,14:50,FREE,False,10.0,0.333,True,False,True,wifi_log
+A107,A,1,30,Fri,8,14:50,15:40,Economics,True,27.0,0.9,False,False,False,wifi_log
+A208,A,2,60,Mon,1,08:00,08:50,Communication Skills,True,52.0,0.867,False,False,False,wifi_log
+A208,A,2,60,Mon,2,08:50,09:40,FREE,False,1.0,0.017,True,True,False,wifi_log
+A208,A,2,60,Mon,3,09:50,10:40,FREE,False,20.0,0.333,True,False,True,wifi_log
+A208,A,2,60,Mon,4,10:40,11:30,FREE,False,0.0,0.0,True,True,False,wifi_log
+A208,A,2,60,Mon,5,11:30,12:20,FREE,False,0.0,0.0,True,True,False,qr_checkin
+A208,A,2,60,Mon,6,13:10,14:00,Operating Systems,True,51.0,0.85,False,False,False,qr_checkin
+A208,A,2,60,Mon,7,14:00,14:50,FREE,False,15.0,0.25,True,False,True,wifi_log
+A208,A,2,60,Mon,8,14:50,15:40,FREE,False,10.0,0.167,True,True,False,wifi_log
+A208,A,2,60,Tue,1,08:00,08:50,FREE,False,5.0,0.083,True,True,False,wifi_log
+A208,A,2,60,Tue,2,08:50,09:40,FREE,False,0.0,0.0,True,True,False,wifi_log
+A208,A,2,60,Tue,3,09:50,10:40,FREE,False,1.0,0.017,True,True,False,wifi_log
+A208,A,2,60,Tue,4,10:40,11:30,DBMS,True,42.0,0.7,False,False,False,wifi_log
+A208,A,2,60,Tue,5,11:30,12:20,Machine Learning,True,52.0,0.867,False,False,False,qr_checkin
+A208,A,2,60,Tue,6,13:10,14:00,FREE,False,0.0,0.0,True,True,False,wifi_log
+A208,A,2,60,Tue,7,14:00,14:50,DBMS,True,48.0,0.8,False,False,False,wifi_log
+A208,A,2,60,Tue,8,14:50,15:40,FREE,False,7.0,0.117,True,True,False,wifi_log
+A208,A,2,60,Wed,1,08:00,08:50,FREE,False,0.0,0.0,True,True,False,wifi_log
+A208,A,2,60,Wed,2,08:50,09:40,FREE,False,0.0,0.0,True,True,False,wifi_log
+A208,A,2,60,Wed,3,09:50,10:40,FREE,False,12.0,0.2,True,False,True,wifi_log
+A208,A,2,60,Wed,4,10:40,11:30,FREE,False,0.0,0.0,True,True,False,wifi_log
+A208,A,2,60,Wed,5,11:30,12:20,FREE,False,1.0,0.017,True,True,False,qr_checkin
+A208,A,2,60,Wed,6,13:10,14:00,FREE,False,26.0,0.433,True,False,True,wifi_log
+A208,A,2,60,Wed,7,14:00,14:50,FREE,False,8.0,0.133,True,True,False,wifi_log
+A208,A,2,60,Wed,8,14:50,15:40,FREE,False,10.0,0.167,True,True,False,wifi_log
+A208,A,2,60,Thu,1,08:00,08:50,FREE,False,23.0,0.383,True,False,True,wifi_log
+A208,A,2,60,Thu,2,08:50,09:40,FREE,False,13.0,0.217,True,False,True,wifi_log
+A208,A,2,60,Thu,3,09:50,10:40,Economics,True,37.0,0.617,False,False,False,wifi_log
+A208,A,2,60,Thu,4,10:40,11:30,Economics,True,36.0,0.6,False,False,False,qr_checkin
+A208,A,2,60,Thu,5,11:30,12:20,Data Structures,True,56.0,0.933,False,False,False,wifi_log
+A208,A,2,60,Thu,6,13:10,14:00,Communication Skills,True,39.0,0.65,False,False,False,qr_checkin
+A208,A,2,60,Thu,7,14:00,14:50,Machine Learning,True,43.0,0.717,False,False,False,qr_checkin
+A208,A,2,60,Thu,8,14:50,15:40,FREE,False,15.0,0.25,True,False,True,wifi_log
+A208,A,2,60,Fri,1,08:00,08:50,Software Engineering,True,53.0,0.883,False,False,False,wifi_log
+A208,A,2,60,Fri,2,08:50,09:40,FREE,False,2.0,0.033,True,True,False,wifi_log
+A208,A,2,60,Fri,3,09:50,10:40,FREE,False,12.0,0.2,True,False,True,qr_checkin
+A208,A,2,60,Fri,4,10:40,11:30,Data Structures,True,49.0,0.817,False,False,False,wifi_log
+A208,A,2,60,Fri,5,11:30,12:20,FREE,False,12.0,0.2,True,False,True,wifi_log
+A208,A,2,60,Fri,6,13:10,14:00,Probability & Stats,True,47.0,0.783,False,False,False,qr_checkin
+A208,A,2,60,Fri,7,14:00,14:50,Machine Learning,True,55.0,0.917,False,False,False,wifi_log
+A208,A,2,60,Fri,8,14:50,15:40,FREE,False,2.0,0.033,True,True,False,wifi_log
+A309,A,3,50,Mon,1,08:00,08:50,Linear Algebra,True,31.0,0.62,False,False,False,wifi_log
+A309,A,3,50,Mon,2,08:50,09:40,Operating Systems,True,30.0,0.6,False,False,False,qr_checkin
+A309,A,3,50,Mon,3,09:50,10:40,FREE,False,4.0,0.08,True,True,False,wifi_log
+A309,A,3,50,Mon,4,10:40,11:30,FREE,False,12.0,0.24,True,False,True,wifi_log
+A309,A,3,50,Mon,5,11:30,12:20,FREE,False,14.0,0.28,True,False,True,wifi_log
+A309,A,3,50,Mon,6,13:10,14:00,Data Structures,True,42.0,0.84,False,False,False,wifi_log
+A309,A,3,50,Mon,7,14:00,14:50,Operating Systems,True,37.0,0.74,False,False,False,wifi_log
+A309,A,3,50,Mon,8,14:50,15:40,FREE,False,0.0,0.0,True,True,False,wifi_log
+A309,A,3,50,Tue,1,08:00,08:50,Communication Skills,True,44.0,0.88,False,False,False,qr_checkin
+A309,A,3,50,Tue,2,08:50,09:40,FREE,False,0.0,0.0,True,True,False,wifi_log
+A309,A,3,50,Tue,3,09:50,10:40,FREE,False,21.0,0.42,True,False,True,qr_checkin
+A309,A,3,50,Tue,4,10:40,11:30,Probability & Stats,True,43.0,0.86,False,False,False,wifi_log
+A309,A,3,50,Tue,5,11:30,12:20,FREE,False,0.0,0.0,True,True,False,wifi_log
+A309,A,3,50,Tue,6,13:10,14:00,FREE,False,18.0,0.36,True,False,True,wifi_log
+A309,A,3,50,Tue,7,14:00,14:50,Probability & Stats,True,0.0,0.0,False,False,False,qr_checkin
+A309,A,3,50,Tue,8,14:50,15:40,FREE,False,0.0,0.0,True,True,False,wifi_log
+A309,A,3,50,Wed,1,08:00,08:50,Software Engineering,True,30.0,0.6,False,False,False,wifi_log
+A309,A,3,50,Wed,2,08:50,09:40,FREE,False,2.0,0.04,True,True,False,qr_checkin
+A309,A,3,50,Wed,3,09:50,10:40,Probability & Stats,True,44.0,0.88,False,False,False,qr_checkin
+A309,A,3,50,Wed,4,10:40,11:30,FREE,False,10.0,0.2,True,False,True,wifi_log
+A309,A,3,50,Wed,5,11:30,12:20,Economics,True,42.0,0.84,False,False,False,wifi_log
+A309,A,3,50,Wed,6,13:10,14:00,DBMS,True,39.0,0.78,False,False,False,wifi_log
+A309,A,3,50,Wed,7,14:00,14:50,FREE,False,2.0,0.04,True,True,False,wifi_log
+A309,A,3,50,Wed,8,14:50,15:40,DBMS,True,35.0,0.7,False,False,False,wifi_log
+A309,A,3,50,Thu,1,08:00,08:50,Software Engineering,True,43.0,0.86,False,False,False,wifi_log
+A309,A,3,50,Thu,2,08:50,09:40,FREE,False,10.0,0.2,True,False,True,wifi_log
+A309,A,3,50,Thu,3,09:50,10:40,FREE,False,18.0,0.36,True,False,True,wifi_log
+A309,A,3,50,Thu,4,10:40,11:30,Economics,True,45.0,0.9,False,False,False,wifi_log
+A309,A,3,50,Thu,5,11:30,12:20,FREE,False,15.0,0.3,True,False,True,wifi_log
+A309,A,3,50,Thu,6,13:10,14:00,DBMS,True,36.0,0.72,False,False,False,wifi_log
+A309,A,3,50,Thu,7,14:00,14:50,Linear Algebra,True,45.0,0.9,False,False,False,wifi_log
+A309,A,3,50,Thu,8,14:50,15:40,Economics,True,40.0,0.8,False,False,False,wifi_log
+A309,A,3,50,Fri,1,08:00,08:50,FREE,False,0.0,0.0,True,True,False,qr_checkin
+A309,A,3,50,Fri,2,08:50,09:40,FREE,False,1.0,0.02,True,True,False,qr_checkin
+A309,A,3,50,Fri,3,09:50,10:40,FREE,False,12.0,0.24,True,False,True,wifi_log
+A309,A,3,50,Fri,4,10:40,11:30,FREE,False,0.0,0.0,True,True,False,wifi_log
+A309,A,3,50,Fri,5,11:30,12:20,Communication Skills,True,31.0,0.62,False,False,False,qr_checkin
+A309,A,3,50,Fri,6,13:10,14:00,Computer Networks,True,42.0,0.84,False,False,False,qr_checkin
+A309,A,3,50,Fri,7,14:00,14:50,Operating Systems,True,40.0,0.8,False,False,False,wifi_log
+A309,A,3,50,Fri,8,14:50,15:40,Economics,True,46.0,0.92,False,False,False,qr_checkin
+A110,A,1,50,Mon,1,08:00,08:50,Operating Systems,True,44.0,0.88,False,False,False,wifi_log
+A110,A,1,50,Mon,2,08:50,09:40,FREE,False,1.0,0.02,True,True,False,qr_checkin
+A110,A,1,50,Mon,3,09:50,10:40,Linear Algebra,True,37.0,0.74,False,False,False,wifi_log
+A110,A,1,50,Mon,4,10:40,11:30,Computer Networks,True,46.0,0.92,False,False,False,wifi_log
+A110,A,1,50,Mon,5,11:30,12:20,Machine Learning,True,38.0,0.76,False,False,False,wifi_log
+A110,A,1,50,Mon,6,13:10,14:00,FREE,False,0.0,0.0,True,True,False,wifi_log
+A110,A,1,50,Mon,7,14:00,14:50,Software Engineering,True,45.0,0.9,False,False,False,wifi_log
+A110,A,1,50,Mon,8,14:50,15:40,FREE,False,16.0,0.32,True,False,True,wifi_log
+A110,A,1,50,Tue,1,08:00,08:50,FREE,False,15.0,0.3,True,False,True,wifi_log
+A110,A,1,50,Tue,2,08:50,09:40,Economics,True,38.0,0.76,False,False,False,qr_checkin
+A110,A,1,50,Tue,3,09:50,10:40,Software Engineering,True,38.0,0.76,False,False,False,wifi_log
+A110,A,1,50,Tue,4,10:40,11:30,FREE,False,0.0,0.0,True,True,False,qr_checkin
+A110,A,1,50,Tue,5,11:30,12:20,Probability & Stats,True,37.0,0.74,False,False,False,qr_checkin
+A110,A,1,50,Tue,6,13:10,14:00,Operating Systems,True,33.0,0.66,False,False,False,wifi_log
+A110,A,1,50,Tue,7,14:00,14:50,FREE,False,0.0,0.0,True,True,False,qr_checkin
+A110,A,1,50,Tue,8,14:50,15:40,FREE,False,10.0,0.2,True,False,True,wifi_log
+A110,A,1,50,Wed,1,08:00,08:50,FREE,False,1.0,0.02,True,True,False,wifi_log
+A110,A,1,50,Wed,2,08:50,09:40,FREE,False,14.0,0.28,True,False,True,wifi_log
+A110,A,1,50,Wed,3,09:50,10:40,Operating Systems,True,41.0,0.82,False,False,False,qr_checkin
+A110,A,1,50,Wed,4,10:40,11:30,Probability & Stats,True,39.0,0.78,False,False,False,wifi_log
+A110,A,1,50,Wed,5,11:30,12:20,FREE,False,20.0,0.4,True,False,True,qr_checkin
+A110,A,1,50,Wed,6,13:10,14:00,Machine Learning,True,46.0,0.92,False,False,False,qr_checkin
+A110,A,1,50,Wed,7,14:00,14:50,Data Structures,True,35.0,0.7,False,False,False,wifi_log
+A110,A,1,50,Wed,8,14:50,15:40,FREE,False,0.0,0.0,True,True,False,wifi_log
+A110,A,1,50,Thu,1,08:00,08:50,Communication Skills,True,41.0,0.82,False,False,False,qr_checkin
+A110,A,1,50,Thu,2,08:50,09:40,Economics,True,43.0,0.86,False,False,False,qr_checkin
+A110,A,1,50,Thu,3,09:50,10:40,Operating Systems,True,0.0,0.0,False,False,False,qr_checkin
+A110,A,1,50,Thu,4,10:40,11:30,Communication Skills,True,44.0,0.88,False,False,False,wifi_log
+A110,A,1,50,Thu,5,11:30,12:20,Operating Systems,True,30.0,0.6,False,False,False,qr_checkin
+A110,A,1,50,Thu,6,13:10,14:00,Data Structures,True,39.0,0.78,False,False,False,wifi_log
+A110,A,1,50,Thu,7,14:00,14:50,Probability & Stats,True,30.0,0.6,False,False,False,wifi_log
+A110,A,1,50,Thu,8,14:50,15:40,Data Structures,True,47.0,0.94,False,False,False,wifi_log
+A110,A,1,50,Fri,1,08:00,08:50,FREE,False,0.0,0.0,True,True,False,wifi_log
+A110,A,1,50,Fri,2,08:50,09:40,Operating Systems,True,33.0,0.66,False,False,False,qr_checkin
+A110,A,1,50,Fri,3,09:50,10:40,FREE,False,2.0,0.04,True,True,False,wifi_log
+A110,A,1,50,Fri,4,10:40,11:30,Probability & Stats,True,43.0,0.86,False,False,False,wifi_log
+A110,A,1,50,Fri,5,11:30,12:20,Data Structures,True,46.0,0.92,False,False,False,qr_checkin
+A110,A,1,50,Fri,6,13:10,14:00,FREE,False,0.0,0.0,True,True,False,wifi_log
+A110,A,1,50,Fri,7,14:00,14:50,Machine Learning,True,43.0,0.86,False,False,False,qr_checkin
+A110,A,1,50,Fri,8,14:50,15:40,FREE,False,0.0,0.0,True,True,False,qr_checkin
+A211,A,2,30,Mon,1,08:00,08:50,FREE,False,0.0,0.0,True,True,False,wifi_log
+A211,A,2,30,Mon,2,08:50,09:40,Probability & Stats,True,27.0,0.9,False,False,False,wifi_log
+A211,A,2,30,Mon,3,09:50,10:40,FREE,False,1.0,0.033,True,True,False,qr_checkin
+A211,A,2,30,Mon,4,10:40,11:30,FREE,False,2.0,0.067,True,True,False,wifi_log
+A211,A,2,30,Mon,5,11:30,12:20,Economics,True,27.0,0.9,False,False,False,wifi_log
+A211,A,2,30,Mon,6,13:10,14:00,FREE,False,6.0,0.2,True,False,True,qr_checkin
+A211,A,2,30,Mon,7,14:00,14:50,FREE,False,12.0,0.4,True,False,True,wifi_log
+A211,A,2,30,Mon,8,14:50,15:40,FREE,False,0.0,0.0,True,True,False,wifi_log
+A211,A,2,30,Tue,1,08:00,08:50,Operating Systems,True,22.0,0.733,False,False,False,qr_checkin
+A211,A,2,30,Tue,2,08:50,09:40,Linear Algebra,True,23.0,0.767,False,False,False,wifi_log
+A211,A,2,30,Tue,3,09:50,10:40,FREE,False,13.0,0.433,True,False,True,wifi_log
+A211,A,2,30,Tue,4,10:40,11:30,FREE,False,0.0,0.0,True,True,False,qr_checkin
+A211,A,2,30,Tue,5,11:30,12:20,Software Engineering,True,28.0,0.933,False,False,False,qr_checkin
+A211,A,2,30,Tue,6,13:10,14:00,FREE,False,4.0,0.133,True,True,False,wifi_log
+A211,A,2,30,Tue,7,14:00,14:50,Operating Systems,True,18.0,0.6,False,False,False,qr_checkin
+A211,A,2,30,Tue,8,14:50,15:40,Economics,True,19.0,0.633,False,False,False,qr_checkin
+A211,A,2,30,Wed,1,08:00,08:50,DBMS,True,27.0,0.9,False,False,False,wifi_log
+A211,A,2,30,Wed,2,08:50,09:40,Communication Skills,True,28.0,0.933,False,False,False,wifi_log
+A211,A,2,30,Wed,3,09:50,10:40,FREE,False,10.0,0.333,True,False,True,wifi_log
+A211,A,2,30,Wed,4,10:40,11:30,Communication Skills,True,24.0,0.8,False,False,False,wifi_log
+A211,A,2,30,Wed,5,11:30,12:20,FREE,False,0.0,0.0,True,True,False,wifi_log
+A211,A,2,30,Wed,6,13:10,14:00,FREE,False,12.0,0.4,True,False,True,wifi_log
+A211,A,2,30,Wed,7,14:00,14:50,FREE,False,5.0,0.167,True,True,False,qr_checkin
+A211,A,2,30,Wed,8,14:50,15:40,Software Engineering,True,19.0,0.633,False,False,False,wifi_log
+A211,A,2,30,Thu,1,08:00,08:50,Operating Systems,True,23.0,0.767,False,False,False,wifi_log
+A211,A,2,30,Thu,2,08:50,09:40,FREE,False,6.0,0.2,True,False,True,qr_checkin
+A211,A,2,30,Thu,3,09:50,10:40,FREE,False,10.0,0.333,True,False,True,wifi_log
+A211,A,2,30,Thu,4,10:40,11:30,Software Engineering,True,25.0,0.833,False,False,False,qr_checkin
+A211,A,2,30,Thu,5,11:30,12:20,FREE,False,0.0,0.0,True,True,False,wifi_log
+A211,A,2,30,Thu,6,13:10,14:00,FREE,False,5.0,0.167,True,True,False,wifi_log
+A211,A,2,30,Thu,7,14:00,14:50,FREE,False,12.0,0.4,True,False,True,wifi_log
+A211,A,2,30,Thu,8,14:50,15:40,FREE,False,1.0,0.033,True,True,False,wifi_log
+A211,A,2,30,Fri,1,08:00,08:50,FREE,False,2.0,0.067,True,True,False,wifi_log
+A211,A,2,30,Fri,2,08:50,09:40,Computer Networks,True,25.0,0.833,False,False,False,wifi_log
+A211,A,2,30,Fri,3,09:50,10:40,FREE,False,11.0,0.367,True,False,True,wifi_log
+A211,A,2,30,Fri,4,10:40,11:30,FREE,False,0.0,0.0,True,True,False,wifi_log
+A211,A,2,30,Fri,5,11:30,12:20,Operating Systems,True,26.0,0.867,False,False,False,wifi_log
+A211,A,2,30,Fri,6,13:10,14:00,Probability & Stats,True,20.0,0.667,False,False,False,wifi_log
+A211,A,2,30,Fri,7,14:00,14:50,Probability & Stats,True,21.0,0.7,False,False,False,wifi_log
+A211,A,2,30,Fri,8,14:50,15:40,FREE,False,2.0,0.067,True,True,False,wifi_log
+A312,A,3,80,Mon,1,08:00,08:50,Computer Networks,True,59.0,0.738,False,False,False,qr_checkin
+A312,A,3,80,Mon,2,08:50,09:40,Machine Learning,True,57.0,0.712,False,False,False,qr_checkin
+A312,A,3,80,Mon,3,09:50,10:40,FREE,False,0.0,0.0,True,True,False,wifi_log
+A312,A,3,80,Mon,4,10:40,11:30,FREE,False,13.0,0.162,True,True,False,wifi_log
+A312,A,3,80,Mon,5,11:30,12:20,FREE,False,0.0,0.0,True,True,False,wifi_log
+A312,A,3,80,Mon,6,13:10,14:00,FREE,False,5.0,0.062,True,True,False,wifi_log
+A312,A,3,80,Mon,7,14:00,14:50,Computer Networks,True,56.0,0.7,False,False,False,wifi_log
+A312,A,3,80,Mon,8,14:50,15:40,FREE,False,27.0,0.338,True,False,True,wifi_log
+A312,A,3,80,Tue,1,08:00,08:50,FREE,False,0.0,0.0,True,True,False,wifi_log
+A312,A,3,80,Tue,2,08:50,09:40,FREE,False,14.0,0.175,True,True,False,qr_checkin
+A312,A,3,80,Tue,3,09:50,10:40,Computer Networks,True,53.0,0.662,False,False,False,qr_checkin
+A312,A,3,80,Tue,4,10:40,11:30,Software Engineering,True,70.0,0.875,False,False,False,qr_checkin
+A312,A,3,80,Tue,5,11:30,12:20,Data Structures,True,59.0,0.738,False,False,False,wifi_log
+A312,A,3,80,Tue,6,13:10,14:00,FREE,False,21.0,0.262,True,False,True,wifi_log
+A312,A,3,80,Tue,7,14:00,14:50,Probability & Stats,True,69.0,0.862,False,False,False,qr_checkin
+A312,A,3,80,Tue,8,14:50,15:40,Data Structures,True,49.0,0.612,False,False,False,wifi_log
+A312,A,3,80,Wed,1,08:00,08:50,Computer Networks,True,56.0,0.7,False,False,False,qr_checkin
+A312,A,3,80,Wed,2,08:50,09:40,Machine Learning,True,50.0,0.625,False,False,False,wifi_log
+A312,A,3,80,Wed,3,09:50,10:40,Probability & Stats,True,58.0,0.725,False,False,False,qr_checkin
+A312,A,3,80,Wed,4,10:40,11:30,Operating Systems,True,67.0,0.838,False,False,False,wifi_log
+A312,A,3,80,Wed,5,11:30,12:20,Operating Systems,True,73.0,0.912,False,False,False,qr_checkin
+A312,A,3,80,Wed,6,13:10,14:00,Operating Systems,True,72.0,0.9,False,False,False,qr_checkin
+A312,A,3,80,Wed,7,14:00,14:50,FREE,False,15.0,0.188,True,True,False,qr_checkin
+A312,A,3,80,Wed,8,14:50,15:40,Economics,True,71.0,0.888,False,False,False,qr_checkin
+A312,A,3,80,Thu,1,08:00,08:50,FREE,False,0.0,0.0,True,True,False,wifi_log
+A312,A,3,80,Thu,2,08:50,09:40,Software Engineering,True,62.0,0.775,False,False,False,qr_checkin
+A312,A,3,80,Thu,3,09:50,10:40,DBMS,True,48.0,0.6,False,False,False,wifi_log
+A312,A,3,80,Thu,4,10:40,11:30,FREE,False,0.0,0.0,True,True,False,wifi_log
+A312,A,3,80,Thu,5,11:30,12:20,Computer Networks,True,54.0,0.675,False,False,False,qr_checkin
+A312,A,3,80,Thu,6,13:10,14:00,DBMS,True,63.0,0.788,False,False,False,wifi_log
+A312,A,3,80,Thu,7,14:00,14:50,Linear Algebra,True,62.0,0.775,False,False,False,qr_checkin
+A312,A,3,80,Thu,8,14:50,15:40,FREE,False,29.0,0.362,True,False,True,wifi_log
+A312,A,3,80,Fri,1,08:00,08:50,Software Engineering,True,51.0,0.638,False,False,False,wifi_log
+A312,A,3,80,Fri,2,08:50,09:40,Operating Systems,True,56.0,0.7,False,False,False,qr_checkin
+A312,A,3,80,Fri,3,09:50,10:40,Probability & Stats,True,66.0,0.825,False,False,False,wifi_log
+A312,A,3,80,Fri,4,10:40,11:30,Software Engineering,True,65.0,0.812,False,False,False,qr_checkin
+A312,A,3,80,Fri,5,11:30,12:20,Economics,True,0.0,0.0,False,False,False,wifi_log
+A312,A,3,80,Fri,6,13:10,14:00,Probability & Stats,True,49.0,0.612,False,False,False,wifi_log
+A312,A,3,80,Fri,7,14:00,14:50,Data Structures,True,56.0,0.7,False,False,False,wifi_log
+A312,A,3,80,Fri,8,14:50,15:40,Economics,True,57.0,0.712,False,False,False,wifi_log
+B101,B,1,60,Mon,1,08:00,08:50,FREE,False,21.0,0.35,True,False,True,wifi_log
+B101,B,1,60,Mon,2,08:50,09:40,Data Structures,True,50.0,0.833,False,False,False,wifi_log
+B101,B,1,60,Mon,3,09:50,10:40,Probability & Stats,True,43.0,0.717,False,False,False,wifi_log
+B101,B,1,60,Mon,4,10:40,11:30,FREE,False,0.0,0.0,True,True,False,wifi_log
+B101,B,1,60,Mon,5,11:30,12:20,FREE,False,0.0,0.0,True,True,False,qr_checkin
+B101,B,1,60,Mon,6,13:10,14:00,Operating Systems,True,36.0,0.6,False,False,False,qr_checkin
+B101,B,1,60,Mon,7,14:00,14:50,FREE,False,16.0,0.267,True,False,True,wifi_log
+B101,B,1,60,Mon,8,14:50,15:40,DBMS,True,39.0,0.65,False,False,False,wifi_log
+B101,B,1,60,Tue,1,08:00,08:50,Computer Networks,True,46.0,0.767,False,False,False,wifi_log
+B101,B,1,60,Tue,2,08:50,09:40,Software Engineering,True,46.0,0.767,False,False,False,wifi_log
+B101,B,1,60,Tue,3,09:50,10:40,FREE,False,0.0,0.0,True,True,False,wifi_log
+B101,B,1,60,Tue,4,10:40,11:30,Software Engineering,True,37.0,0.617,False,False,False,wifi_log
+B101,B,1,60,Tue,5,11:30,12:20,Operating Systems,True,37.0,0.617,False,False,False,wifi_log
+B101,B,1,60,Tue,6,13:10,14:00,Computer Networks,True,49.0,0.817,False,False,False,wifi_log
+B101,B,1,60,Tue,7,14:00,14:50,Data Structures,True,56.0,0.933,False,False,False,wifi_log
+B101,B,1,60,Tue,8,14:50,15:40,DBMS,True,50.0,0.833,False,False,False,wifi_log
+B101,B,1,60,Wed,1,08:00,08:50,Computer Networks,True,41.0,0.683,False,False,False,qr_checkin
+B101,B,1,60,Wed,2,08:50,09:40,Data Structures,True,55.0,0.917,False,False,False,wifi_log
+B101,B,1,60,Wed,3,09:50,10:40,Computer Networks,True,55.0,0.917,False,False,False,qr_checkin
+B101,B,1,60,Wed,4,10:40,11:30,Linear Algebra,True,40.0,0.667,False,False,False,qr_checkin
+B101,B,1,60,Wed,5,11:30,12:20,Software Engineering,True,50.0,0.833,False,False,False,wifi_log
+B101,B,1,60,Wed,6,13:10,14:00,Linear Algebra,True,48.0,0.8,False,False,False,wifi_log
+B101,B,1,60,Wed,7,14:00,14:50,Computer Networks,True,56.0,0.933,False,False,False,qr_checkin
+B101,B,1,60,Wed,8,14:50,15:40,FREE,False,19.0,0.317,True,False,True,wifi_log
+B101,B,1,60,Thu,1,08:00,08:50,Economics,True,36.0,0.6,False,False,False,wifi_log
+B101,B,1,60,Thu,2,08:50,09:40,Software Engineering,True,51.0,0.85,False,False,False,wifi_log
+B101,B,1,60,Thu,3,09:50,10:40,DBMS,True,41.0,0.683,False,False,False,qr_checkin
+B101,B,1,60,Thu,4,10:40,11:30,Operating Systems,True,36.0,0.6,False,False,False,wifi_log
+B101,B,1,60,Thu,5,11:30,12:20,Linear Algebra,True,49.0,0.817,False,False,False,qr_checkin
+B101,B,1,60,Thu,6,13:10,14:00,Operating Systems,True,37.0,0.617,False,False,False,qr_checkin
+B101,B,1,60,Thu,7,14:00,14:50,Data Structures,True,0.0,0.0,False,False,False,wifi_log
+B101,B,1,60,Thu,8,14:50,15:40,Communication Skills,True,40.0,0.667,False,False,False,wifi_log
+B101,B,1,60,Fri,1,08:00,08:50,Economics,True,37.0,0.617,False,False,False,qr_checkin
+B101,B,1,60,Fri,2,08:50,09:40,Data Structures,True,48.0,0.8,False,False,False,wifi_log
+B101,B,1,60,Fri,3,09:50,10:40,Machine Learning,True,55.0,0.917,False,False,False,qr_checkin
+B101,B,1,60,Fri,4,10:40,11:30,Data Structures,True,53.0,0.883,False,False,False,wifi_log
+B101,B,1,60,Fri,5,11:30,12:20,Data Structures,True,40.0,0.667,False,False,False,qr_checkin
+B101,B,1,60,Fri,6,13:10,14:00,Communication Skills,True,51.0,0.85,False,False,False,wifi_log
+B101,B,1,60,Fri,7,14:00,14:50,Software Engineering,True,43.0,0.717,False,False,False,wifi_log
+B101,B,1,60,Fri,8,14:50,15:40,Economics,True,47.0,0.783,False,False,False,wifi_log
+B202,B,2,30,Mon,1,08:00,08:50,FREE,False,0.0,0.0,True,True,False,qr_checkin
+B202,B,2,30,Mon,2,08:50,09:40,Economics,True,22.0,0.733,False,False,False,wifi_log
+B202,B,2,30,Mon,3,09:50,10:40,DBMS,True,26.0,0.867,False,False,False,wifi_log
+B202,B,2,30,Mon,4,10:40,11:30,FREE,False,10.0,0.333,True,False,True,wifi_log
+B202,B,2,30,Mon,5,11:30,12:20,Data Structures,True,26.0,0.867,False,False,False,wifi_log
+B202,B,2,30,Mon,6,13:10,14:00,Economics,True,24.0,0.8,False,False,False,wifi_log
+B202,B,2,30,Mon,7,14:00,14:50,Probability & Stats,True,18.0,0.6,False,False,False,wifi_log
+B202,B,2,30,Mon,8,14:50,15:40,DBMS,True,0.0,0.0,False,False,False,wifi_log
+B202,B,2,30,Tue,1,08:00,08:50,Probability & Stats,True,27.0,0.9,False,False,False,wifi_log
+B202,B,2,30,Tue,2,08:50,09:40,Communication Skills,True,26.0,0.867,False,False,False,qr_checkin
+B202,B,2,30,Tue,3,09:50,10:40,Probability & Stats,True,25.0,0.833,False,False,False,wifi_log
+B202,B,2,30,Tue,4,10:40,11:30,Operating Systems,True,0.0,0.0,False,False,False,qr_checkin
+B202,B,2,30,Tue,5,11:30,12:20,Computer Networks,True,22.0,0.733,False,False,False,wifi_log
+B202,B,2,30,Tue,6,13:10,14:00,Probability & Stats,True,25.0,0.833,False,False,False,qr_checkin
+B202,B,2,30,Tue,7,14:00,14:50,Communication Skills,True,26.0,0.867,False,False,False,qr_checkin
+B202,B,2,30,Tue,8,14:50,15:40,Operating Systems,True,26.0,0.867,False,False,False,wifi_log
+B202,B,2,30,Wed,1,08:00,08:50,FREE,False,4.0,0.133,True,True,False,qr_checkin
+B202,B,2,30,Wed,2,08:50,09:40,Communication Skills,True,18.0,0.6,False,False,False,wifi_log
+B202,B,2,30,Wed,3,09:50,10:40,Communication Skills,True,23.0,0.767,False,False,False,qr_checkin
+B202,B,2,30,Wed,4,10:40,11:30,Data Structures,True,21.0,0.7,False,False,False,wifi_log
+B202,B,2,30,Wed,5,11:30,12:20,Communication Skills,True,18.0,0.6,False,False,False,wifi_log
+B202,B,2,30,Wed,6,13:10,14:00,Probability & Stats,True,22.0,0.733,False,False,False,wifi_log
+B202,B,2,30,Wed,7,14:00,14:50,Computer Networks,True,23.0,0.767,False,False,False,qr_checkin
+B202,B,2,30,Wed,8,14:50,15:40,Communication Skills,True,27.0,0.9,False,False,False,qr_checkin
+B202,B,2,30,Thu,1,08:00,08:50,Communication Skills,True,21.0,0.7,False,False,False,wifi_log
+B202,B,2,30,Thu,2,08:50,09:40,Economics,True,22.0,0.733,False,False,False,qr_checkin
+B202,B,2,30,Thu,3,09:50,10:40,Machine Learning,True,19.0,0.633,False,False,False,wifi_log
+B202,B,2,30,Thu,4,10:40,11:30,Linear Algebra,True,19.0,0.633,False,False,False,wifi_log
+B202,B,2,30,Thu,5,11:30,12:20,Operating Systems,True,19.0,0.633,False,False,False,wifi_log
+B202,B,2,30,Thu,6,13:10,14:00,Machine Learning,True,21.0,0.7,False,False,False,wifi_log
+B202,B,2,30,Thu,7,14:00,14:50,FREE,False,0.0,0.0,True,True,False,wifi_log
+B202,B,2,30,Thu,8,14:50,15:40,Operating Systems,True,23.0,0.767,False,False,False,qr_checkin
+B202,B,2,30,Fri,1,08:00,08:50,Linear Algebra,True,19.0,0.633,False,False,False,wifi_log
+B202,B,2,30,Fri,2,08:50,09:40,FREE,False,0.0,0.0,True,True,False,qr_checkin
+B202,B,2,30,Fri,3,09:50,10:40,Computer Networks,True,25.0,0.833,False,False,False,qr_checkin
+B202,B,2,30,Fri,4,10:40,11:30,DBMS,True,22.0,0.733,False,False,False,wifi_log
+B202,B,2,30,Fri,5,11:30,12:20,Linear Algebra,True,19.0,0.633,False,False,False,wifi_log
+B202,B,2,30,Fri,6,13:10,14:00,Software Engineering,True,26.0,0.867,False,False,False,qr_checkin
+B202,B,2,30,Fri,7,14:00,14:50,Machine Learning,True,24.0,0.8,False,False,False,wifi_log
+B202,B,2,30,Fri,8,14:50,15:40,Probability & Stats,True,22.0,0.733,False,False,False,wifi_log
+B103,B,1,30,Mon,1,08:00,08:50,Data Structures,True,25.0,0.833,False,False,False,qr_checkin
+B103,B,1,30,Mon,2,08:50,09:40,Software Engineering,True,25.0,0.833,False,False,False,wifi_log
+B103,B,1,30,Mon,3,09:50,10:40,FREE,False,0.0,0.0,True,True,False,wifi_log
+B103,B,1,30,Mon,4,10:40,11:30,Communication Skills,True,26.0,0.867,False,False,False,wifi_log
+B103,B,1,30,Mon,5,11:30,12:20,Communication Skills,True,26.0,0.867,False,False,False,wifi_log
+B103,B,1,30,Mon,6,13:10,14:00,Probability & Stats,True,18.0,0.6,False,False,False,qr_checkin
+B103,B,1,30,Mon,7,14:00,14:50,Probability & Stats,True,27.0,0.9,False,False,False,wifi_log
+B103,B,1,30,Mon,8,14:50,15:40,Economics,True,27.0,0.9,False,False,False,wifi_log
+B103,B,1,30,Tue,1,08:00,08:50,Operating Systems,True,28.0,0.933,False,False,False,wifi_log
+B103,B,1,30,Tue,2,08:50,09:40,Economics,True,18.0,0.6,False,False,False,qr_checkin
+B103,B,1,30,Tue,3,09:50,10:40,Linear Algebra,True,22.0,0.733,False,False,False,wifi_log
+B103,B,1,30,Tue,4,10:40,11:30,DBMS,True,21.0,0.7,False,False,False,wifi_log
+B103,B,1,30,Tue,5,11:30,12:20,FREE,False,2.0,0.067,True,True,False,wifi_log
+B103,B,1,30,Tue,6,13:10,14:00,Machine Learning,True,25.0,0.833,False,False,False,qr_checkin
+B103,B,1,30,Tue,7,14:00,14:50,Probability & Stats,True,18.0,0.6,False,False,False,wifi_log
+B103,B,1,30,Tue,8,14:50,15:40,Operating Systems,True,0.0,0.0,False,False,False,qr_checkin
+B103,B,1,30,Wed,1,08:00,08:50,FREE,False,0.0,0.0,True,True,False,wifi_log
+B103,B,1,30,Wed,2,08:50,09:40,Machine Learning,True,23.0,0.767,False,False,False,wifi_log
+B103,B,1,30,Wed,3,09:50,10:40,Linear Algebra,True,25.0,0.833,False,False,False,wifi_log
+B103,B,1,30,Wed,4,10:40,11:30,FREE,False,10.0,0.333,True,False,True,wifi_log
+B103,B,1,30,Wed,5,11:30,12:20,FREE,False,6.0,0.2,True,False,True,wifi_log
+B103,B,1,30,Wed,6,13:10,14:00,FREE,False,2.0,0.067,True,True,False,qr_checkin
+B103,B,1,30,Wed,7,14:00,14:50,DBMS,True,24.0,0.8,False,False,False,wifi_log
+B103,B,1,30,Wed,8,14:50,15:40,Software Engineering,True,22.0,0.733,False,False,False,wifi_log
+B103,B,1,30,Thu,1,08:00,08:50,Economics,True,20.0,0.667,False,False,False,wifi_log
+B103,B,1,30,Thu,2,08:50,09:40,FREE,False,6.0,0.2,True,False,True,wifi_log
+B103,B,1,30,Thu,3,09:50,10:40,Linear Algebra,True,19.0,0.633,False,False,False,wifi_log
+B103,B,1,30,Thu,4,10:40,11:30,Communication Skills,True,22.0,0.733,False,False,False,wifi_log
+B103,B,1,30,Thu,5,11:30,12:20,Economics,True,26.0,0.867,False,False,False,wifi_log
+B103,B,1,30,Thu,6,13:10,14:00,FREE,False,12.0,0.4,True,False,True,wifi_log
+B103,B,1,30,Thu,7,14:00,14:50,Data Structures,True,20.0,0.667,False,False,False,wifi_log
+B103,B,1,30,Thu,8,14:50,15:40,Economics,True,20.0,0.667,False,False,False,wifi_log
+B103,B,1,30,Fri,1,08:00,08:50,Linear Algebra,True,24.0,0.8,False,False,False,qr_checkin
+B103,B,1,30,Fri,2,08:50,09:40,Probability & Stats,True,25.0,0.833,False,False,False,wifi_log
+B103,B,1,30,Fri,3,09:50,10:40,DBMS,True,25.0,0.833,False,False,False,wifi_log
+B103,B,1,30,Fri,4,10:40,11:30,Linear Algebra,True,18.0,0.6,False,False,False,wifi_log
+B103,B,1,30,Fri,5,11:30,12:20,Probability & Stats,True,27.0,0.9,False,False,False,wifi_log
+B103,B,1,30,Fri,6,13:10,14:00,Probability & Stats,True,18.0,0.6,False,False,False,wifi_log
+B103,B,1,30,Fri,7,14:00,14:50,Economics,True,27.0,0.9,False,False,False,wifi_log
+B103,B,1,30,Fri,8,14:50,15:40,DBMS,True,27.0,0.9,False,False,False,qr_checkin
+B204,B,2,30,Mon,1,08:00,08:50,Linear Algebra,True,26.0,0.867,False,False,False,wifi_log
+B204,B,2,30,Mon,2,08:50,09:40,Linear Algebra,True,18.0,0.6,False,False,False,qr_checkin
+B204,B,2,30,Mon,3,09:50,10:40,FREE,False,10.0,0.333,True,False,True,qr_checkin
+B204,B,2,30,Mon,4,10:40,11:30,FREE,False,0.0,0.0,True,True,False,wifi_log
+B204,B,2,30,Mon,5,11:30,12:20,FREE,False,13.0,0.433,True,False,True,qr_checkin
+B204,B,2,30,Mon,6,13:10,14:00,Communication Skills,True,0.0,0.0,False,False,False,wifi_log
+B204,B,2,30,Mon,7,14:00,14:50,FREE,False,0.0,0.0,True,True,False,qr_checkin
+B204,B,2,30,Mon,8,14:50,15:40,FREE,False,1.0,0.033,True,True,False,qr_checkin
+B204,B,2,30,Tue,1,08:00,08:50,FREE,False,0.0,0.0,True,True,False,wifi_log
+B204,B,2,30,Tue,2,08:50,09:40,FREE,False,6.0,0.2,True,False,True,wifi_log
+B204,B,2,30,Tue,3,09:50,10:40,FREE,False,0.0,0.0,True,True,False,wifi_log
+B204,B,2,30,Tue,4,10:40,11:30,FREE,False,8.0,0.267,True,False,True,qr_checkin
+B204,B,2,30,Tue,5,11:30,12:20,FREE,False,7.0,0.233,True,False,True,qr_checkin
+B204,B,2,30,Tue,6,13:10,14:00,FREE,False,1.0,0.033,True,True,False,wifi_log
+B204,B,2,30,Tue,7,14:00,14:50,FREE,False,0.0,0.0,True,True,False,qr_checkin
+B204,B,2,30,Tue,8,14:50,15:40,Operating Systems,True,21.0,0.7,False,False,False,wifi_log
+B204,B,2,30,Wed,1,08:00,08:50,FREE,False,1.0,0.033,True,True,False,wifi_log
+B204,B,2,30,Wed,2,08:50,09:40,FREE,False,0.0,0.0,True,True,False,wifi_log
+B204,B,2,30,Wed,3,09:50,10:40,Machine Learning,True,25.0,0.833,False,False,False,wifi_log
+B204,B,2,30,Wed,4,10:40,11:30,Operating Systems,True,20.0,0.667,False,False,False,wifi_log
+B204,B,2,30,Wed,5,11:30,12:20,FREE,False,0.0,0.0,True,True,False,qr_checkin
+B204,B,2,30,Wed,6,13:10,14:00,FREE,False,0.0,0.0,True,True,False,wifi_log
+B204,B,2,30,Wed,7,14:00,14:50,FREE,False,0.0,0.0,True,True,False,qr_checkin
+B204,B,2,30,Wed,8,14:50,15:40,Linear Algebra,True,27.0,0.9,False,False,False,qr_checkin
+B204,B,2,30,Thu,1,08:00,08:50,FREE,False,0.0,0.0,True,True,False,wifi_log
+B204,B,2,30,Thu,2,08:50,09:40,Economics,True,24.0,0.8,False,False,False,wifi_log
+B204,B,2,30,Thu,3,09:50,10:40,Software Engineering,True,20.0,0.667,False,False,False,wifi_log
+B204,B,2,30,Thu,4,10:40,11:30,Linear Algebra,True,20.0,0.667,False,False,False,wifi_log
+B204,B,2,30,Thu,5,11:30,12:20,FREE,False,0.0,0.0,True,True,False,wifi_log
+B204,B,2,30,Thu,6,13:10,14:00,FREE,False,0.0,0.0,True,True,False,wifi_log
+B204,B,2,30,Thu,7,14:00,14:50,FREE,False,0.0,0.0,True,True,False,qr_checkin
+B204,B,2,30,Thu,8,14:50,15:40,FREE,False,5.0,0.167,True,True,False,qr_checkin
+B204,B,2,30,Fri,1,08:00,08:50,FREE,False,0.0,0.0,True,True,False,wifi_log
+B204,B,2,30,Fri,2,08:50,09:40,FREE,False,2.0,0.067,True,True,False,wifi_log
+B204,B,2,30,Fri,3,09:50,10:40,FREE,False,0.0,0.0,True,True,False,wifi_log
+B204,B,2,30,Fri,4,10:40,11:30,FREE,False,2.0,0.067,True,True,False,qr_checkin
+B204,B,2,30,Fri,5,11:30,12:20,FREE,False,4.0,0.133,True,True,False,wifi_log
+B204,B,2,30,Fri,6,13:10,14:00,FREE,False,4.0,0.133,True,True,False,wifi_log
+B204,B,2,30,Fri,7,14:00,14:50,Data Structures,True,21.0,0.7,False,False,False,wifi_log
+B204,B,2,30,Fri,8,14:50,15:40,FREE,False,11.0,0.367,True,False,True,wifi_log
+B105,B,1,40,Mon,1,08:00,08:50,FREE,False,0.0,0.0,True,True,False,qr_checkin
+B105,B,1,40,Mon,2,08:50,09:40,FREE,False,2.0,0.05,True,True,False,qr_checkin
+B105,B,1,40,Mon,3,09:50,10:40,FREE,False,0.0,0.0,True,True,False,wifi_log
+B105,B,1,40,Mon,4,10:40,11:30,Probability & Stats,True,36.0,0.9,False,False,False,qr_checkin
+B105,B,1,40,Mon,5,11:30,12:20,FREE,False,13.0,0.325,True,False,True,wifi_log
+B105,B,1,40,Mon,6,13:10,14:00,FREE,False,7.0,0.175,True,True,False,qr_checkin
+B105,B,1,40,Mon,7,14:00,14:50,Computer Networks,True,33.0,0.825,False,False,False,wifi_log
+B105,B,1,40,Mon,8,14:50,15:40,Linear Algebra,True,25.0,0.625,False,False,False,qr_checkin
+B105,B,1,40,Tue,1,08:00,08:50,FREE,False,0.0,0.0,True,True,False,wifi_log
+B105,B,1,40,Tue,2,08:50,09:40,FREE,False,1.0,0.025,True,True,False,qr_checkin
+B105,B,1,40,Tue,3,09:50,10:40,FREE,False,15.0,0.375,True,False,True,wifi_log
+B105,B,1,40,Tue,4,10:40,11:30,FREE,False,14.0,0.35,True,False,True,wifi_log
+B105,B,1,40,Tue,5,11:30,12:20,FREE,False,2.0,0.05,True,True,False,qr_checkin
+B105,B,1,40,Tue,6,13:10,14:00,Data Structures,True,31.0,0.775,False,False,False,wifi_log
+B105,B,1,40,Tue,7,14:00,14:50,Data Structures,True,37.0,0.925,False,False,False,qr_checkin
+B105,B,1,40,Tue,8,14:50,15:40,Machine Learning,True,27.0,0.675,False,False,False,qr_checkin
+B105,B,1,40,Wed,1,08:00,08:50,FREE,False,15.0,0.375,True,False,True,wifi_log
+B105,B,1,40,Wed,2,08:50,09:40,DBMS,True,36.0,0.9,False,False,False,wifi_log
+B105,B,1,40,Wed,3,09:50,10:40,FREE,False,0.0,0.0,True,True,False,wifi_log
+B105,B,1,40,Wed,4,10:40,11:30,FREE,False,0.0,0.0,True,True,False,qr_checkin
+B105,B,1,40,Wed,5,11:30,12:20,FREE,False,2.0,0.05,True,True,False,wifi_log
+B105,B,1,40,Wed,6,13:10,14:00,Linear Algebra,True,27.0,0.675,False,False,False,qr_checkin
+B105,B,1,40,Wed,7,14:00,14:50,FREE,False,0.0,0.0,True,True,False,qr_checkin
+B105,B,1,40,Wed,8,14:50,15:40,DBMS,True,35.0,0.875,False,False,False,qr_checkin
+B105,B,1,40,Thu,1,08:00,08:50,FREE,False,9.0,0.225,True,False,True,wifi_log
+B105,B,1,40,Thu,2,08:50,09:40,Software Engineering,True,30.0,0.75,False,False,False,wifi_log
+B105,B,1,40,Thu,3,09:50,10:40,Economics,True,28.0,0.7,False,False,False,wifi_log
+B105,B,1,40,Thu,4,10:40,11:30,FREE,False,2.0,0.05,True,True,False,qr_checkin
+B105,B,1,40,Thu,5,11:30,12:20,Computer Networks,True,26.0,0.65,False,False,False,wifi_log
+B105,B,1,40,Thu,6,13:10,14:00,Economics,True,32.0,0.8,False,False,False,qr_checkin
+B105,B,1,40,Thu,7,14:00,14:50,FREE,False,15.0,0.375,True,False,True,wifi_log
+B105,B,1,40,Thu,8,14:50,15:40,FREE,False,7.0,0.175,True,True,False,wifi_log
+B105,B,1,40,Fri,1,08:00,08:50,FREE,False,0.0,0.0,True,True,False,wifi_log
+B105,B,1,40,Fri,2,08:50,09:40,FREE,False,0.0,0.0,True,True,False,qr_checkin
+B105,B,1,40,Fri,3,09:50,10:40,FREE,False,1.0,0.025,True,True,False,wifi_log
+B105,B,1,40,Fri,4,10:40,11:30,Data Structures,True,27.0,0.675,False,False,False,qr_checkin
+B105,B,1,40,Fri,5,11:30,12:20,Probability & Stats,True,25.0,0.625,False,False,False,wifi_log
+B105,B,1,40,Fri,6,13:10,14:00,Probability & Stats,True,26.0,0.65,False,False,False,qr_checkin
+B105,B,1,40,Fri,7,14:00,14:50,FREE,False,14.0,0.35,True,False,True,qr_checkin
+B105,B,1,40,Fri,8,14:50,15:40,FREE,False,12.0,0.3,True,False,True,qr_checkin
+B206,B,2,40,Mon,1,08:00,08:50,FREE,False,0.0,0.0,True,True,False,qr_checkin
+B206,B,2,40,Mon,2,08:50,09:40,FREE,False,0.0,0.0,True,True,False,wifi_log
+B206,B,2,40,Mon,3,09:50,10:40,FREE,False,7.0,0.175,True,True,False,wifi_log
+B206,B,2,40,Mon,4,10:40,11:30,DBMS,True,32.0,0.8,False,False,False,wifi_log
+B206,B,2,40,Mon,5,11:30,12:20,FREE,False,6.0,0.15,True,True,False,wifi_log
+B206,B,2,40,Mon,6,13:10,14:00,FREE,False,7.0,0.175,True,True,False,wifi_log
+B206,B,2,40,Mon,7,14:00,14:50,FREE,False,12.0,0.3,True,False,True,wifi_log
+B206,B,2,40,Mon,8,14:50,15:40,FREE,False,0.0,0.0,True,True,False,wifi_log
+B206,B,2,40,Tue,1,08:00,08:50,FREE,False,9.0,0.225,True,False,True,wifi_log
+B206,B,2,40,Tue,2,08:50,09:40,FREE,False,1.0,0.025,True,True,False,wifi_log
+B206,B,2,40,Tue,3,09:50,10:40,Economics,True,37.0,0.925,False,False,False,wifi_log
+B206,B,2,40,Tue,4,10:40,11:30,FREE,False,11.0,0.275,True,False,True,qr_checkin
+B206,B,2,40,Tue,5,11:30,12:20,FREE,False,0.0,0.0,True,True,False,wifi_log
+B206,B,2,40,Tue,6,13:10,14:00,FREE,False,16.0,0.4,True,False,True,wifi_log
+B206,B,2,40,Tue,7,14:00,14:50,FREE,False,6.0,0.15,True,True,False,qr_checkin
+B206,B,2,40,Tue,8,14:50,15:40,FREE,False,0.0,0.0,True,True,False,wifi_log
+B206,B,2,40,Wed,1,08:00,08:50,FREE,False,0.0,0.0,True,True,False,wifi_log
+B206,B,2,40,Wed,2,08:50,09:40,FREE,False,1.0,0.025,True,True,False,wifi_log
+B206,B,2,40,Wed,3,09:50,10:40,Data Structures,True,27.0,0.675,False,False,False,wifi_log
+B206,B,2,40,Wed,4,10:40,11:30,FREE,False,8.0,0.2,True,False,True,wifi_log
+B206,B,2,40,Wed,5,11:30,12:20,FREE,False,0.0,0.0,True,True,False,wifi_log
+B206,B,2,40,Wed,6,13:10,14:00,Machine Learning,True,37.0,0.925,False,False,False,qr_checkin
+B206,B,2,40,Wed,7,14:00,14:50,FREE,False,0.0,0.0,True,True,False,wifi_log
+B206,B,2,40,Wed,8,14:50,15:40,FREE,False,0.0,0.0,True,True,False,wifi_log
+B206,B,2,40,Thu,1,08:00,08:50,FREE,False,15.0,0.375,True,False,True,wifi_log
+B206,B,2,40,Thu,2,08:50,09:40,FREE,False,0.0,0.0,True,True,False,wifi_log
+B206,B,2,40,Thu,3,09:50,10:40,FREE,False,2.0,0.05,True,True,False,wifi_log
+B206,B,2,40,Thu,4,10:40,11:30,Communication Skills,True,25.0,0.625,False,False,False,wifi_log
+B206,B,2,40,Thu,5,11:30,12:20,Economics,True,32.0,0.8,False,False,False,qr_checkin
+B206,B,2,40,Thu,6,13:10,14:00,FREE,False,1.0,0.025,True,True,False,qr_checkin
+B206,B,2,40,Thu,7,14:00,14:50,DBMS,True,27.0,0.675,False,False,False,qr_checkin
+B206,B,2,40,Thu,8,14:50,15:40,Computer Networks,True,34.0,0.85,False,False,False,wifi_log
+B206,B,2,40,Fri,1,08:00,08:50,FREE,False,0.0,0.0,True,True,False,qr_checkin
+B206,B,2,40,Fri,2,08:50,09:40,FREE,False,4.0,0.1,True,True,False,wifi_log
+B206,B,2,40,Fri,3,09:50,10:40,FREE,False,2.0,0.05,True,True,False,wifi_log
+B206,B,2,40,Fri,4,10:40,11:30,FREE,False,0.0,0.0,True,True,False,qr_checkin
+B206,B,2,40,Fri,5,11:30,12:20,FREE,False,2.0,0.05,True,True,False,wifi_log
+B206,B,2,40,Fri,6,13:10,14:00,FREE,False,10.0,0.25,True,False,True,qr_checkin
+B206,B,2,40,Fri,7,14:00,14:50,FREE,False,16.0,0.4,True,False,True,wifi_log
+B206,B,2,40,Fri,8,14:50,15:40,DBMS,True,25.0,0.625,False,False,False,qr_checkin
+B107,B,1,40,Mon,1,08:00,08:50,Data Structures,True,34.0,0.85,False,False,False,wifi_log
+B107,B,1,40,Mon,2,08:50,09:40,FREE,False,12.0,0.3,True,False,True,wifi_log
+B107,B,1,40,Mon,3,09:50,10:40,Linear Algebra,True,32.0,0.8,False,False,False,wifi_log
+B107,B,1,40,Mon,4,10:40,11:30,FREE,False,12.0,0.3,True,False,True,wifi_log
+B107,B,1,40,Mon,5,11:30,12:20,FREE,False,2.0,0.05,True,True,False,wifi_log
+B107,B,1,40,Mon,6,13:10,14:00,Machine Learning,True,31.0,0.775,False,False,False,wifi_log
+B107,B,1,40,Mon,7,14:00,14:50,FREE,False,0.0,0.0,True,True,False,wifi_log
+B107,B,1,40,Mon,8,14:50,15:40,Data Structures,True,29.0,0.725,False,False,False,qr_checkin
+B107,B,1,40,Tue,1,08:00,08:50,FREE,False,0.0,0.0,True,True,False,qr_checkin
+B107,B,1,40,Tue,2,08:50,09:40,Machine Learning,True,30.0,0.75,False,False,False,wifi_log
+B107,B,1,40,Tue,3,09:50,10:40,Operating Systems,True,31.0,0.775,False,False,False,wifi_log
+B107,B,1,40,Tue,4,10:40,11:30,Operating Systems,True,28.0,0.7,False,False,False,wifi_log
+B107,B,1,40,Tue,5,11:30,12:20,FREE,False,1.0,0.025,True,True,False,wifi_log
+B107,B,1,40,Tue,6,13:10,14:00,Probability & Stats,True,36.0,0.9,False,False,False,wifi_log
+B107,B,1,40,Tue,7,14:00,14:50,FREE,False,0.0,0.0,True,True,False,wifi_log
+B107,B,1,40,Tue,8,14:50,15:40,Machine Learning,True,35.0,0.875,False,False,False,wifi_log
+B107,B,1,40,Wed,1,08:00,08:50,FREE,False,7.0,0.175,True,True,False,wifi_log
+B107,B,1,40,Wed,2,08:50,09:40,Economics,True,28.0,0.7,False,False,False,qr_checkin
+B107,B,1,40,Wed,3,09:50,10:40,FREE,False,9.0,0.225,True,False,True,wifi_log
+B107,B,1,40,Wed,4,10:40,11:30,Computer Networks,True,24.0,0.6,False,False,False,wifi_log
+B107,B,1,40,Wed,5,11:30,12:20,Communication Skills,True,25.0,0.625,False,False,False,wifi_log
+B107,B,1,40,Wed,6,13:10,14:00,DBMS,True,30.0,0.75,False,False,False,wifi_log
+B107,B,1,40,Wed,7,14:00,14:50,Operating Systems,True,27.0,0.675,False,False,False,wifi_log
+B107,B,1,40,Wed,8,14:50,15:40,FREE,False,0.0,0.0,True,True,False,qr_checkin
+B107,B,1,40,Thu,1,08:00,08:50,DBMS,True,33.0,0.825,False,False,False,wifi_log
+B107,B,1,40,Thu,2,08:50,09:40,FREE,False,15.0,0.375,True,False,True,wifi_log
+B107,B,1,40,Thu,3,09:50,10:40,DBMS,True,25.0,0.625,False,False,False,wifi_log
+B107,B,1,40,Thu,4,10:40,11:30,Computer Networks,True,30.0,0.75,False,False,False,qr_checkin
+B107,B,1,40,Thu,5,11:30,12:20,Data Structures,True,26.0,0.65,False,False,False,wifi_log
+B107,B,1,40,Thu,6,13:10,14:00,DBMS,True,28.0,0.7,False,False,False,wifi_log
+B107,B,1,40,Thu,7,14:00,14:50,FREE,False,2.0,0.05,True,True,False,wifi_log
+B107,B,1,40,Thu,8,14:50,15:40,Machine Learning,True,29.0,0.725,False,False,False,wifi_log
+B107,B,1,40,Fri,1,08:00,08:50,Computer Networks,True,29.0,0.725,False,False,False,qr_checkin
+B107,B,1,40,Fri,2,08:50,09:40,FREE,False,8.0,0.2,True,False,True,wifi_log
+B107,B,1,40,Fri,3,09:50,10:40,FREE,False,1.0,0.025,True,True,False,wifi_log
+B107,B,1,40,Fri,4,10:40,11:30,Operating Systems,True,27.0,0.675,False,False,False,qr_checkin
+B107,B,1,40,Fri,5,11:30,12:20,Linear Algebra,True,28.0,0.7,False,False,False,wifi_log
+B107,B,1,40,Fri,6,13:10,14:00,FREE,False,2.0,0.05,True,True,False,wifi_log
+B107,B,1,40,Fri,7,14:00,14:50,DBMS,True,0.0,0.0,False,False,False,qr_checkin
+B107,B,1,40,Fri,8,14:50,15:40,Probability & Stats,True,34.0,0.85,False,False,False,qr_checkin
+B208,B,2,40,Mon,1,08:00,08:50,Computer Networks,True,28.0,0.7,False,False,False,wifi_log
+B208,B,2,40,Mon,2,08:50,09:40,Data Structures,True,29.0,0.725,False,False,False,wifi_log
+B208,B,2,40,Mon,3,09:50,10:40,FREE,False,10.0,0.25,True,False,True,qr_checkin
+B208,B,2,40,Mon,4,10:40,11:30,Software Engineering,True,25.0,0.625,False,False,False,wifi_log
+B208,B,2,40,Mon,5,11:30,12:20,Operating Systems,True,25.0,0.625,False,False,False,wifi_log
+B208,B,2,40,Mon,6,13:10,14:00,FREE,False,7.0,0.175,True,True,False,wifi_log
+B208,B,2,40,Mon,7,14:00,14:50,Operating Systems,True,25.0,0.625,False,False,False,wifi_log
+B208,B,2,40,Mon,8,14:50,15:40,FREE,False,2.0,0.05,True,True,False,wifi_log
+B208,B,2,40,Tue,1,08:00,08:50,Software Engineering,True,34.0,0.85,False,False,False,wifi_log
+B208,B,2,40,Tue,2,08:50,09:40,Machine Learning,True,30.0,0.75,False,False,False,wifi_log
+B208,B,2,40,Tue,3,09:50,10:40,Linear Algebra,True,31.0,0.775,False,False,False,wifi_log
+B208,B,2,40,Tue,4,10:40,11:30,FREE,False,0.0,0.0,True,True,False,wifi_log
+B208,B,2,40,Tue,5,11:30,12:20,FREE,False,1.0,0.025,True,True,False,wifi_log
+B208,B,2,40,Tue,6,13:10,14:00,FREE,False,15.0,0.375,True,False,True,wifi_log
+B208,B,2,40,Tue,7,14:00,14:50,FREE,False,0.0,0.0,True,True,False,wifi_log
+B208,B,2,40,Tue,8,14:50,15:40,FREE,False,1.0,0.025,True,True,False,wifi_log
+B208,B,2,40,Wed,1,08:00,08:50,Operating Systems,True,25.0,0.625,False,False,False,qr_checkin
+B208,B,2,40,Wed,2,08:50,09:40,Operating Systems,True,35.0,0.875,False,False,False,wifi_log
+B208,B,2,40,Wed,3,09:50,10:40,FREE,False,2.0,0.05,True,True,False,wifi_log
+B208,B,2,40,Wed,4,10:40,11:30,Data Structures,True,25.0,0.625,False,False,False,qr_checkin
+B208,B,2,40,Wed,5,11:30,12:20,Operating Systems,True,24.0,0.6,False,False,False,wifi_log
+B208,B,2,40,Wed,6,13:10,14:00,Computer Networks,True,25.0,0.625,False,False,False,wifi_log
+B208,B,2,40,Wed,7,14:00,14:50,Machine Learning,True,34.0,0.85,False,False,False,wifi_log
+B208,B,2,40,Wed,8,14:50,15:40,Linear Algebra,True,37.0,0.925,False,False,False,wifi_log
+B208,B,2,40,Thu,1,08:00,08:50,FREE,False,0.0,0.0,True,True,False,wifi_log
+B208,B,2,40,Thu,2,08:50,09:40,FREE,False,2.0,0.05,True,True,False,wifi_log
+B208,B,2,40,Thu,3,09:50,10:40,FREE,False,3.0,0.075,True,True,False,wifi_log
+B208,B,2,40,Thu,4,10:40,11:30,FREE,False,9.0,0.225,True,False,True,wifi_log
+B208,B,2,40,Thu,5,11:30,12:20,FREE,False,2.0,0.05,True,True,False,wifi_log
+B208,B,2,40,Thu,6,13:10,14:00,Probability & Stats,True,36.0,0.9,False,False,False,wifi_log
+B208,B,2,40,Thu,7,14:00,14:50,FREE,False,0.0,0.0,True,True,False,wifi_log
+B208,B,2,40,Thu,8,14:50,15:40,FREE,False,16.0,0.4,True,False,True,qr_checkin
+B208,B,2,40,Fri,1,08:00,08:50,Linear Algebra,True,0.0,0.0,False,False,False,wifi_log
+B208,B,2,40,Fri,2,08:50,09:40,FREE,False,2.0,0.05,True,True,False,qr_checkin
+B208,B,2,40,Fri,3,09:50,10:40,FREE,False,12.0,0.3,True,False,True,wifi_log
+B208,B,2,40,Fri,4,10:40,11:30,FREE,False,2.0,0.05,True,True,False,qr_checkin
+B208,B,2,40,Fri,5,11:30,12:20,FREE,False,13.0,0.325,True,False,True,wifi_log
+B208,B,2,40,Fri,6,13:10,14:00,Machine Learning,True,37.0,0.925,False,False,False,wifi_log
+B208,B,2,40,Fri,7,14:00,14:50,FREE,False,3.0,0.075,True,True,False,wifi_log
+B208,B,2,40,Fri,8,14:50,15:40,FREE,False,0.0,0.0,True,True,False,qr_checkin
+B109,B,1,50,Mon,1,08:00,08:50,FREE,False,0.0,0.0,True,True,False,qr_checkin
+B109,B,1,50,Mon,2,08:50,09:40,Economics,True,30.0,0.6,False,False,False,wifi_log
+B109,B,1,50,Mon,3,09:50,10:40,Computer Networks,True,39.0,0.78,False,False,False,wifi_log
+B109,B,1,50,Mon,4,10:40,11:30,Economics,True,31.0,0.62,False,False,False,wifi_log
+B109,B,1,50,Mon,5,11:30,12:20,Machine Learning,True,46.0,0.92,False,False,False,wifi_log
+B109,B,1,50,Mon,6,13:10,14:00,Data Structures,True,42.0,0.84,False,False,False,wifi_log
+B109,B,1,50,Mon,7,14:00,14:50,Probability & Stats,True,42.0,0.84,False,False,False,qr_checkin
+B109,B,1,50,Mon,8,14:50,15:40,Linear Algebra,True,41.0,0.82,False,False,False,qr_checkin
+B109,B,1,50,Tue,1,08:00,08:50,FREE,False,2.0,0.04,True,True,False,wifi_log
+B109,B,1,50,Tue,2,08:50,09:40,FREE,False,0.0,0.0,True,True,False,wifi_log
+B109,B,1,50,Tue,3,09:50,10:40,DBMS,True,42.0,0.84,False,False,False,wifi_log
+B109,B,1,50,Tue,4,10:40,11:30,Communication Skills,True,39.0,0.78,False,False,False,wifi_log
+B109,B,1,50,Tue,5,11:30,12:20,Linear Algebra,True,31.0,0.62,False,False,False,qr_checkin
+B109,B,1,50,Tue,6,13:10,14:00,Data Structures,True,41.0,0.82,False,False,False,wifi_log
+B109,B,1,50,Tue,7,14:00,14:50,FREE,False,0.0,0.0,True,True,False,qr_checkin
+B109,B,1,50,Tue,8,14:50,15:40,Probability & Stats,True,30.0,0.6,False,False,False,wifi_log
+B109,B,1,50,Wed,1,08:00,08:50,Communication Skills,True,32.0,0.64,False,False,False,qr_checkin
+B109,B,1,50,Wed,2,08:50,09:40,Computer Networks,True,45.0,0.9,False,False,False,qr_checkin
+B109,B,1,50,Wed,3,09:50,10:40,Machine Learning,True,39.0,0.78,False,False,False,wifi_log
+B109,B,1,50,Wed,4,10:40,11:30,Machine Learning,True,41.0,0.82,False,False,False,wifi_log
+B109,B,1,50,Wed,5,11:30,12:20,FREE,False,12.0,0.24,True,False,True,wifi_log
+B109,B,1,50,Wed,6,13:10,14:00,Computer Networks,True,44.0,0.88,False,False,False,wifi_log
+B109,B,1,50,Wed,7,14:00,14:50,Communication Skills,True,31.0,0.62,False,False,False,qr_checkin
+B109,B,1,50,Wed,8,14:50,15:40,Economics,True,38.0,0.76,False,False,False,wifi_log
+B109,B,1,50,Thu,1,08:00,08:50,FREE,False,12.0,0.24,True,False,True,wifi_log
+B109,B,1,50,Thu,2,08:50,09:40,FREE,False,0.0,0.0,True,True,False,wifi_log
+B109,B,1,50,Thu,3,09:50,10:40,Probability & Stats,True,40.0,0.8,False,False,False,qr_checkin
+B109,B,1,50,Thu,4,10:40,11:30,Computer Networks,True,43.0,0.86,False,False,False,wifi_log
+B109,B,1,50,Thu,5,11:30,12:20,Communication Skills,True,42.0,0.84,False,False,False,wifi_log
+B109,B,1,50,Thu,6,13:10,14:00,Operating Systems,True,30.0,0.6,False,False,False,wifi_log
+B109,B,1,50,Thu,7,14:00,14:50,FREE,False,0.0,0.0,True,True,False,wifi_log
+B109,B,1,50,Thu,8,14:50,15:40,Linear Algebra,True,46.0,0.92,False,False,False,wifi_log
+B109,B,1,50,Fri,1,08:00,08:50,Data Structures,True,40.0,0.8,False,False,False,wifi_log
+B109,B,1,50,Fri,2,08:50,09:40,Computer Networks,True,30.0,0.6,False,False,False,wifi_log
+B109,B,1,50,Fri,3,09:50,10:40,Data Structures,True,39.0,0.78,False,False,False,wifi_log
+B109,B,1,50,Fri,4,10:40,11:30,Economics,True,44.0,0.88,False,False,False,wifi_log
+B109,B,1,50,Fri,5,11:30,12:20,FREE,False,1.0,0.02,True,True,False,wifi_log
+B109,B,1,50,Fri,6,13:10,14:00,Economics,True,45.0,0.9,False,False,False,wifi_log
+B109,B,1,50,Fri,7,14:00,14:50,Operating Systems,True,42.0,0.84,False,False,False,wifi_log
+B109,B,1,50,Fri,8,14:50,15:40,Machine Learning,True,38.0,0.76,False,False,False,qr_checkin
+B210,B,2,30,Mon,1,08:00,08:50,Computer Networks,True,23.0,0.767,False,False,False,qr_checkin
+B210,B,2,30,Mon,2,08:50,09:40,Probability & Stats,True,18.0,0.6,False,False,False,wifi_log
+B210,B,2,30,Mon,3,09:50,10:40,Machine Learning,True,26.0,0.867,False,False,False,wifi_log
+B210,B,2,30,Mon,4,10:40,11:30,Communication Skills,True,25.0,0.833,False,False,False,qr_checkin
+B210,B,2,30,Mon,5,11:30,12:20,FREE,False,0.0,0.0,True,True,False,wifi_log
+B210,B,2,30,Mon,6,13:10,14:00,Machine Learning,True,26.0,0.867,False,False,False,wifi_log
+B210,B,2,30,Mon,7,14:00,14:50,Probability & Stats,True,21.0,0.7,False,False,False,wifi_log
+B210,B,2,30,Mon,8,14:50,15:40,Linear Algebra,True,18.0,0.6,False,False,False,wifi_log
+B210,B,2,30,Tue,1,08:00,08:50,Economics,True,23.0,0.767,False,False,False,wifi_log
+B210,B,2,30,Tue,2,08:50,09:40,Linear Algebra,True,27.0,0.9,False,False,False,wifi_log
+B210,B,2,30,Tue,3,09:50,10:40,Computer Networks,True,0.0,0.0,False,False,False,wifi_log
+B210,B,2,30,Tue,4,10:40,11:30,Machine Learning,True,24.0,0.8,False,False,False,wifi_log
+B210,B,2,30,Tue,5,11:30,12:20,Computer Networks,True,22.0,0.733,False,False,False,qr_checkin
+B210,B,2,30,Tue,6,13:10,14:00,Linear Algebra,True,19.0,0.633,False,False,False,wifi_log
+B210,B,2,30,Tue,7,14:00,14:50,Economics,True,20.0,0.667,False,False,False,wifi_log
+B210,B,2,30,Tue,8,14:50,15:40,DBMS,True,27.0,0.9,False,False,False,wifi_log
+B210,B,2,30,Wed,1,08:00,08:50,Operating Systems,True,25.0,0.833,False,False,False,wifi_log
+B210,B,2,30,Wed,2,08:50,09:40,Computer Networks,True,25.0,0.833,False,False,False,wifi_log
+B210,B,2,30,Wed,3,09:50,10:40,Computer Networks,True,21.0,0.7,False,False,False,wifi_log
+B210,B,2,30,Wed,4,10:40,11:30,DBMS,True,20.0,0.667,False,False,False,wifi_log
+B210,B,2,30,Wed,5,11:30,12:20,Communication Skills,True,25.0,0.833,False,False,False,wifi_log
+B210,B,2,30,Wed,6,13:10,14:00,Communication Skills,True,19.0,0.633,False,False,False,wifi_log
+B210,B,2,30,Wed,7,14:00,14:50,Linear Algebra,True,27.0,0.9,False,False,False,wifi_log
+B210,B,2,30,Wed,8,14:50,15:40,Computer Networks,True,23.0,0.767,False,False,False,wifi_log
+B210,B,2,30,Thu,1,08:00,08:50,Economics,True,23.0,0.767,False,False,False,wifi_log
+B210,B,2,30,Thu,2,08:50,09:40,Data Structures,True,26.0,0.867,False,False,False,wifi_log
+B210,B,2,30,Thu,3,09:50,10:40,Linear Algebra,True,21.0,0.7,False,False,False,wifi_log
+B210,B,2,30,Thu,4,10:40,11:30,Linear Algebra,True,21.0,0.7,False,False,False,wifi_log
+B210,B,2,30,Thu,5,11:30,12:20,Operating Systems,True,22.0,0.733,False,False,False,qr_checkin
+B210,B,2,30,Thu,6,13:10,14:00,FREE,False,6.0,0.2,True,False,True,wifi_log
+B210,B,2,30,Thu,7,14:00,14:50,Computer Networks,True,27.0,0.9,False,False,False,qr_checkin
+B210,B,2,30,Thu,8,14:50,15:40,FREE,False,0.0,0.0,True,True,False,wifi_log
+B210,B,2,30,Fri,1,08:00,08:50,Communication Skills,True,20.0,0.667,False,False,False,wifi_log
+B210,B,2,30,Fri,2,08:50,09:40,Communication Skills,True,24.0,0.8,False,False,False,wifi_log
+B210,B,2,30,Fri,3,09:50,10:40,Machine Learning,True,19.0,0.633,False,False,False,wifi_log
+B210,B,2,30,Fri,4,10:40,11:30,FREE,False,0.0,0.0,True,True,False,wifi_log
+B210,B,2,30,Fri,5,11:30,12:20,Software Engineering,True,26.0,0.867,False,False,False,wifi_log
+B210,B,2,30,Fri,6,13:10,14:00,Software Engineering,True,21.0,0.7,False,False,False,wifi_log
+B210,B,2,30,Fri,7,14:00,14:50,Software Engineering,True,26.0,0.867,False,False,False,qr_checkin
+B210,B,2,30,Fri,8,14:50,15:40,Operating Systems,True,24.0,0.8,False,False,False,qr_checkin
+C101,C,1,40,Mon,1,08:00,08:50,FREE,False,1.0,0.025,True,True,False,wifi_log
+C101,C,1,40,Mon,2,08:50,09:40,FREE,False,0.0,0.0,True,True,False,wifi_log
+C101,C,1,40,Mon,3,09:50,10:40,Economics,True,32.0,0.8,False,False,False,wifi_log
+C101,C,1,40,Mon,4,10:40,11:30,FREE,False,12.0,0.3,True,False,True,wifi_log
+C101,C,1,40,Mon,5,11:30,12:20,FREE,False,4.0,0.1,True,True,False,wifi_log
+C101,C,1,40,Mon,6,13:10,14:00,Software Engineering,True,24.0,0.6,False,False,False,wifi_log
+C101,C,1,40,Mon,7,14:00,14:50,FREE,False,0.0,0.0,True,True,False,wifi_log
+C101,C,1,40,Mon,8,14:50,15:40,FREE,False,3.0,0.075,True,True,False,wifi_log
+C101,C,1,40,Tue,1,08:00,08:50,DBMS,True,36.0,0.9,False,False,False,qr_checkin
+C101,C,1,40,Tue,2,08:50,09:40,FREE,False,3.0,0.075,True,True,False,wifi_log
+C101,C,1,40,Tue,3,09:50,10:40,FREE,False,2.0,0.05,True,True,False,wifi_log
+C101,C,1,40,Tue,4,10:40,11:30,FREE,False,0.0,0.0,True,True,False,wifi_log
+C101,C,1,40,Tue,5,11:30,12:20,FREE,False,3.0,0.075,True,True,False,wifi_log
+C101,C,1,40,Tue,6,13:10,14:00,FREE,False,17.0,0.425,True,False,True,qr_checkin
+C101,C,1,40,Tue,7,14:00,14:50,FREE,False,8.0,0.2,True,False,True,wifi_log
+C101,C,1,40,Tue,8,14:50,15:40,FREE,False,12.0,0.3,True,False,True,wifi_log
+C101,C,1,40,Wed,1,08:00,08:50,FREE,False,1.0,0.025,True,True,False,wifi_log
+C101,C,1,40,Wed,2,08:50,09:40,FREE,False,0.0,0.0,True,True,False,wifi_log
+C101,C,1,40,Wed,3,09:50,10:40,FREE,False,2.0,0.05,True,True,False,wifi_log
+C101,C,1,40,Wed,4,10:40,11:30,Probability & Stats,True,26.0,0.65,False,False,False,wifi_log
+C101,C,1,40,Wed,5,11:30,12:20,FREE,False,0.0,0.0,True,True,False,qr_checkin
+C101,C,1,40,Wed,6,13:10,14:00,FREE,False,12.0,0.3,True,False,True,qr_checkin
+C101,C,1,40,Wed,7,14:00,14:50,Linear Algebra,True,28.0,0.7,False,False,False,qr_checkin
+C101,C,1,40,Wed,8,14:50,15:40,Economics,True,34.0,0.85,False,False,False,wifi_log
+C101,C,1,40,Thu,1,08:00,08:50,FREE,False,0.0,0.0,True,True,False,qr_checkin
+C101,C,1,40,Thu,2,08:50,09:40,FREE,False,0.0,0.0,True,True,False,wifi_log
+C101,C,1,40,Thu,3,09:50,10:40,FREE,False,4.0,0.1,True,True,False,qr_checkin
+C101,C,1,40,Thu,4,10:40,11:30,Communication Skills,True,33.0,0.825,False,False,False,wifi_log
+C101,C,1,40,Thu,5,11:30,12:20,FREE,False,1.0,0.025,True,True,False,wifi_log
+C101,C,1,40,Thu,6,13:10,14:00,FREE,False,1.0,0.025,True,True,False,wifi_log
+C101,C,1,40,Thu,7,14:00,14:50,FREE,False,2.0,0.05,True,True,False,wifi_log
+C101,C,1,40,Thu,8,14:50,15:40,FREE,False,0.0,0.0,True,True,False,wifi_log
+C101,C,1,40,Fri,1,08:00,08:50,FREE,False,2.0,0.05,True,True,False,wifi_log
+C101,C,1,40,Fri,2,08:50,09:40,FREE,False,9.0,0.225,True,False,True,wifi_log
+C101,C,1,40,Fri,3,09:50,10:40,FREE,False,13.0,0.325,True,False,True,wifi_log
+C101,C,1,40,Fri,4,10:40,11:30,FREE,False,1.0,0.025,True,True,False,wifi_log
+C101,C,1,40,Fri,5,11:30,12:20,Machine Learning,True,34.0,0.85,False,False,False,wifi_log
+C101,C,1,40,Fri,6,13:10,14:00,FREE,False,2.0,0.05,True,True,False,wifi_log
+C101,C,1,40,Fri,7,14:00,14:50,Probability & Stats,True,27.0,0.675,False,False,False,wifi_log
+C101,C,1,40,Fri,8,14:50,15:40,FREE,False,0.0,0.0,True,True,False,wifi_log
+C202,C,2,40,Mon,1,08:00,08:50,FREE,False,2.0,0.05,True,True,False,wifi_log
+C202,C,2,40,Mon,2,08:50,09:40,FREE,False,0.0,0.0,True,True,False,wifi_log
+C202,C,2,40,Mon,3,09:50,10:40,FREE,False,12.0,0.3,True,False,True,wifi_log
+C202,C,2,40,Mon,4,10:40,11:30,FREE,False,0.0,0.0,True,True,False,wifi_log
+C202,C,2,40,Mon,5,11:30,12:20,FREE,False,0.0,0.0,True,True,False,wifi_log
+C202,C,2,40,Mon,6,13:10,14:00,FREE,False,0.0,0.0,True,True,False,wifi_log
+C202,C,2,40,Mon,7,14:00,14:50,FREE,False,7.0,0.175,True,True,False,wifi_log
+C202,C,2,40,Mon,8,14:50,15:40,FREE,False,0.0,0.0,True,True,False,wifi_log
+C202,C,2,40,Tue,1,08:00,08:50,Operating Systems,True,32.0,0.8,False,False,False,wifi_log
+C202,C,2,40,Tue,2,08:50,09:40,FREE,False,3.0,0.075,True,True,False,wifi_log
+C202,C,2,40,Tue,3,09:50,10:40,FREE,False,6.0,0.15,True,True,False,qr_checkin
+C202,C,2,40,Tue,4,10:40,11:30,FREE,False,12.0,0.3,True,False,True,qr_checkin
+C202,C,2,40,Tue,5,11:30,12:20,FREE,False,0.0,0.0,True,True,False,qr_checkin
+C202,C,2,40,Tue,6,13:10,14:00,Linear Algebra,True,33.0,0.825,False,False,False,qr_checkin
+C202,C,2,40,Tue,7,14:00,14:50,Operating Systems,True,0.0,0.0,False,False,False,qr_checkin
+C202,C,2,40,Tue,8,14:50,15:40,FREE,False,4.0,0.1,True,True,False,wifi_log
+C202,C,2,40,Wed,1,08:00,08:50,FREE,False,0.0,0.0,True,True,False,qr_checkin
+C202,C,2,40,Wed,2,08:50,09:40,FREE,False,5.0,0.125,True,True,False,wifi_log
+C202,C,2,40,Wed,3,09:50,10:40,FREE,False,0.0,0.0,True,True,False,wifi_log
+C202,C,2,40,Wed,4,10:40,11:30,Operating Systems,True,29.0,0.725,False,False,False,qr_checkin
+C202,C,2,40,Wed,5,11:30,12:20,FREE,False,2.0,0.05,True,True,False,qr_checkin
+C202,C,2,40,Wed,6,13:10,14:00,FREE,False,0.0,0.0,True,True,False,wifi_log
+C202,C,2,40,Wed,7,14:00,14:50,DBMS,True,24.0,0.6,False,False,False,qr_checkin
+C202,C,2,40,Wed,8,14:50,15:40,FREE,False,1.0,0.025,True,True,False,wifi_log
+C202,C,2,40,Thu,1,08:00,08:50,FREE,False,0.0,0.0,True,True,False,wifi_log
+C202,C,2,40,Thu,2,08:50,09:40,FREE,False,0.0,0.0,True,True,False,wifi_log
+C202,C,2,40,Thu,3,09:50,10:40,FREE,False,0.0,0.0,True,True,False,qr_checkin
+C202,C,2,40,Thu,4,10:40,11:30,FREE,False,0.0,0.0,True,True,False,wifi_log
+C202,C,2,40,Thu,5,11:30,12:20,Data Structures,True,24.0,0.6,False,False,False,qr_checkin
+C202,C,2,40,Thu,6,13:10,14:00,FREE,False,14.0,0.35,True,False,True,wifi_log
+C202,C,2,40,Thu,7,14:00,14:50,FREE,False,0.0,0.0,True,True,False,qr_checkin
+C202,C,2,40,Thu,8,14:50,15:40,FREE,False,0.0,0.0,True,True,False,qr_checkin
+C202,C,2,40,Fri,1,08:00,08:50,FREE,False,15.0,0.375,True,False,True,wifi_log
+C202,C,2,40,Fri,2,08:50,09:40,FREE,False,0.0,0.0,True,True,False,wifi_log
+C202,C,2,40,Fri,3,09:50,10:40,FREE,False,14.0,0.35,True,False,True,wifi_log
+C202,C,2,40,Fri,4,10:40,11:30,FREE,False,2.0,0.05,True,True,False,wifi_log
+C202,C,2,40,Fri,5,11:30,12:20,Data Structures,True,37.0,0.925,False,False,False,wifi_log
+C202,C,2,40,Fri,6,13:10,14:00,Operating Systems,True,34.0,0.85,False,False,False,qr_checkin
+C202,C,2,40,Fri,7,14:00,14:50,Software Engineering,True,32.0,0.8,False,False,False,wifi_log
+C202,C,2,40,Fri,8,14:50,15:40,FREE,False,0.0,0.0,True,True,False,wifi_log
+C103,C,1,40,Mon,1,08:00,08:50,Communication Skills,True,34.0,0.85,False,False,False,qr_checkin
+C103,C,1,40,Mon,2,08:50,09:40,FREE,False,0.0,0.0,True,True,False,wifi_log
+C103,C,1,40,Mon,3,09:50,10:40,Probability & Stats,True,32.0,0.8,False,False,False,wifi_log
+C103,C,1,40,Mon,4,10:40,11:30,Software Engineering,True,28.0,0.7,False,False,False,qr_checkin
+C103,C,1,40,Mon,5,11:30,12:20,FREE,False,0.0,0.0,True,True,False,wifi_log
+C103,C,1,40,Mon,6,13:10,14:00,FREE,False,2.0,0.05,True,True,False,wifi_log
+C103,C,1,40,Mon,7,14:00,14:50,FREE,False,4.0,0.1,True,True,False,wifi_log
+C103,C,1,40,Mon,8,14:50,15:40,Computer Networks,True,28.0,0.7,False,False,False,wifi_log
+C103,C,1,40,Tue,1,08:00,08:50,FREE,False,0.0,0.0,True,True,False,qr_checkin
+C103,C,1,40,Tue,2,08:50,09:40,Communication Skills,True,25.0,0.625,False,False,False,wifi_log
+C103,C,1,40,Tue,3,09:50,10:40,Operating Systems,True,37.0,0.925,False,False,False,wifi_log
+C103,C,1,40,Tue,4,10:40,11:30,FREE,False,6.0,0.15,True,True,False,wifi_log
+C103,C,1,40,Tue,5,11:30,12:20,FREE,False,9.0,0.225,True,False,True,wifi_log
+C103,C,1,40,Tue,6,13:10,14:00,FREE,False,3.0,0.075,True,True,False,wifi_log
+C103,C,1,40,Tue,7,14:00,14:50,FREE,False,0.0,0.0,True,True,False,wifi_log
+C103,C,1,40,Tue,8,14:50,15:40,FREE,False,2.0,0.05,True,True,False,qr_checkin
+C103,C,1,40,Wed,1,08:00,08:50,FREE,False,0.0,0.0,True,True,False,wifi_log
+C103,C,1,40,Wed,2,08:50,09:40,Computer Networks,True,24.0,0.6,False,False,False,wifi_log
+C103,C,1,40,Wed,3,09:50,10:40,Software Engineering,True,34.0,0.85,False,False,False,qr_checkin
+C103,C,1,40,Wed,4,10:40,11:30,Computer Networks,True,0.0,0.0,False,False,False,wifi_log
+C103,C,1,40,Wed,5,11:30,12:20,Operating Systems,True,31.0,0.775,False,False,False,qr_checkin
+C103,C,1,40,Wed,6,13:10,14:00,FREE,False,10.0,0.25,True,False,True,wifi_log
+C103,C,1,40,Wed,7,14:00,14:50,DBMS,True,35.0,0.875,False,False,False,qr_checkin
+C103,C,1,40,Wed,8,14:50,15:40,Data Structures,True,36.0,0.9,False,False,False,wifi_log
+C103,C,1,40,Thu,1,08:00,08:50,Probability & Stats,True,33.0,0.825,False,False,False,wifi_log
+C103,C,1,40,Thu,2,08:50,09:40,FREE,False,13.0,0.325,True,False,True,wifi_log
+C103,C,1,40,Thu,3,09:50,10:40,Computer Networks,True,34.0,0.85,False,False,False,wifi_log
+C103,C,1,40,Thu,4,10:40,11:30,FREE,False,14.0,0.35,True,False,True,wifi_log
+C103,C,1,40,Thu,5,11:30,12:20,Operating Systems,True,25.0,0.625,False,False,False,qr_checkin
+C103,C,1,40,Thu,6,13:10,14:00,DBMS,True,33.0,0.825,False,False,False,qr_checkin
+C103,C,1,40,Thu,7,14:00,14:50,FREE,False,0.0,0.0,True,True,False,wifi_log
+C103,C,1,40,Thu,8,14:50,15:40,FREE,False,14.0,0.35,True,False,True,wifi_log
+C103,C,1,40,Fri,1,08:00,08:50,Economics,True,27.0,0.675,False,False,False,qr_checkin
+C103,C,1,40,Fri,2,08:50,09:40,FREE,False,0.0,0.0,True,True,False,qr_checkin
+C103,C,1,40,Fri,3,09:50,10:40,FREE,False,2.0,0.05,True,True,False,wifi_log
+C103,C,1,40,Fri,4,10:40,11:30,Software Engineering,True,35.0,0.875,False,False,False,qr_checkin
+C103,C,1,40,Fri,5,11:30,12:20,FREE,False,6.0,0.15,True,True,False,wifi_log
+C103,C,1,40,Fri,6,13:10,14:00,FREE,False,4.0,0.1,True,True,False,wifi_log
+C103,C,1,40,Fri,7,14:00,14:50,FREE,False,2.0,0.05,True,True,False,qr_checkin
+C103,C,1,40,Fri,8,14:50,15:40,FREE,False,0.0,0.0,True,True,False,qr_checkin
+C204,C,2,50,Mon,1,08:00,08:50,FREE,False,0.0,0.0,True,True,False,wifi_log
+C204,C,2,50,Mon,2,08:50,09:40,FREE,False,5.0,0.1,True,True,False,wifi_log
+C204,C,2,50,Mon,3,09:50,10:40,FREE,False,0.0,0.0,True,True,False,wifi_log
+C204,C,2,50,Mon,4,10:40,11:30,Data Structures,True,43.0,0.86,False,False,False,qr_checkin
+C204,C,2,50,Mon,5,11:30,12:20,FREE,False,5.0,0.1,True,True,False,qr_checkin
+C204,C,2,50,Mon,6,13:10,14:00,FREE,False,11.0,0.22,True,False,True,wifi_log
+C204,C,2,50,Mon,7,14:00,14:50,Economics,True,32.0,0.64,False,False,False,wifi_log
+C204,C,2,50,Mon,8,14:50,15:40,FREE,False,18.0,0.36,True,False,True,wifi_log
+C204,C,2,50,Tue,1,08:00,08:50,Operating Systems,True,38.0,0.76,False,False,False,qr_checkin
+C204,C,2,50,Tue,2,08:50,09:40,FREE,False,0.0,0.0,True,True,False,wifi_log
+C204,C,2,50,Tue,3,09:50,10:40,FREE,False,1.0,0.02,True,True,False,qr_checkin
+C204,C,2,50,Tue,4,10:40,11:30,Probability & Stats,True,41.0,0.82,False,False,False,wifi_log
+C204,C,2,50,Tue,5,11:30,12:20,FREE,False,10.0,0.2,True,False,True,wifi_log
+C204,C,2,50,Tue,6,13:10,14:00,FREE,False,21.0,0.42,True,False,True,wifi_log
+C204,C,2,50,Tue,7,14:00,14:50,FREE,False,6.0,0.12,True,True,False,qr_checkin
+C204,C,2,50,Tue,8,14:50,15:40,Software Engineering,True,32.0,0.64,False,False,False,wifi_log
+C204,C,2,50,Wed,1,08:00,08:50,FREE,False,2.0,0.04,True,True,False,wifi_log
+C204,C,2,50,Wed,2,08:50,09:40,FREE,False,5.0,0.1,True,True,False,qr_checkin
+C204,C,2,50,Wed,3,09:50,10:40,FREE,False,0.0,0.0,True,True,False,qr_checkin
+C204,C,2,50,Wed,4,10:40,11:30,FREE,False,1.0,0.02,True,True,False,wifi_log
+C204,C,2,50,Wed,5,11:30,12:20,FREE,False,14.0,0.28,True,False,True,wifi_log
+C204,C,2,50,Wed,6,13:10,14:00,FREE,False,6.0,0.12,True,True,False,wifi_log
+C204,C,2,50,Wed,7,14:00,14:50,FREE,False,0.0,0.0,True,True,False,qr_checkin
+C204,C,2,50,Wed,8,14:50,15:40,FREE,False,0.0,0.0,True,True,False,wifi_log
+C204,C,2,50,Thu,1,08:00,08:50,DBMS,True,31.0,0.62,False,False,False,wifi_log
+C204,C,2,50,Thu,2,08:50,09:40,FREE,False,0.0,0.0,True,True,False,wifi_log
+C204,C,2,50,Thu,3,09:50,10:40,FREE,False,0.0,0.0,True,True,False,wifi_log
+C204,C,2,50,Thu,4,10:40,11:30,FREE,False,0.0,0.0,True,True,False,qr_checkin
+C204,C,2,50,Thu,5,11:30,12:20,FREE,False,12.0,0.24,True,False,True,wifi_log
+C204,C,2,50,Thu,6,13:10,14:00,FREE,False,2.0,0.04,True,True,False,wifi_log
+C204,C,2,50,Thu,7,14:00,14:50,FREE,False,2.0,0.04,True,True,False,qr_checkin
+C204,C,2,50,Thu,8,14:50,15:40,Software Engineering,True,39.0,0.78,False,False,False,wifi_log
+C204,C,2,50,Fri,1,08:00,08:50,FREE,False,20.0,0.4,True,False,True,wifi_log
+C204,C,2,50,Fri,2,08:50,09:40,FREE,False,1.0,0.02,True,True,False,qr_checkin
+C204,C,2,50,Fri,3,09:50,10:40,Economics,True,40.0,0.8,False,False,False,wifi_log
+C204,C,2,50,Fri,4,10:40,11:30,FREE,False,11.0,0.22,True,False,True,qr_checkin
+C204,C,2,50,Fri,5,11:30,12:20,FREE,False,0.0,0.0,True,True,False,wifi_log
+C204,C,2,50,Fri,6,13:10,14:00,Economics,True,40.0,0.8,False,False,False,wifi_log
+C204,C,2,50,Fri,7,14:00,14:50,FREE,False,0.0,0.0,True,True,False,qr_checkin
+C204,C,2,50,Fri,8,14:50,15:40,FREE,False,0.0,0.0,True,True,False,qr_checkin
+C105,C,1,30,Mon,1,08:00,08:50,Communication Skills,True,21.0,0.7,False,False,False,qr_checkin
+C105,C,1,30,Mon,2,08:50,09:40,Machine Learning,True,24.0,0.8,False,False,False,qr_checkin
+C105,C,1,30,Mon,3,09:50,10:40,Software Engineering,True,26.0,0.867,False,False,False,wifi_log
+C105,C,1,30,Mon,4,10:40,11:30,Communication Skills,True,22.0,0.733,False,False,False,wifi_log
+C105,C,1,30,Mon,5,11:30,12:20,FREE,False,1.0,0.033,True,True,False,wifi_log
+C105,C,1,30,Mon,6,13:10,14:00,Economics,True,24.0,0.8,False,False,False,wifi_log
+C105,C,1,30,Mon,7,14:00,14:50,Computer Networks,True,24.0,0.8,False,False,False,wifi_log
+C105,C,1,30,Mon,8,14:50,15:40,Economics,True,21.0,0.7,False,False,False,wifi_log
+C105,C,1,30,Tue,1,08:00,08:50,FREE,False,0.0,0.0,True,True,False,wifi_log
+C105,C,1,30,Tue,2,08:50,09:40,Software Engineering,True,27.0,0.9,False,False,False,qr_checkin
+C105,C,1,30,Tue,3,09:50,10:40,DBMS,True,20.0,0.667,False,False,False,wifi_log
+C105,C,1,30,Tue,4,10:40,11:30,Software Engineering,True,0.0,0.0,False,False,False,wifi_log
+C105,C,1,30,Tue,5,11:30,12:20,FREE,False,2.0,0.067,True,True,False,qr_checkin
+C105,C,1,30,Tue,6,13:10,14:00,Software Engineering,True,23.0,0.767,False,False,False,qr_checkin
+C105,C,1,30,Tue,7,14:00,14:50,Linear Algebra,True,24.0,0.8,False,False,False,qr_checkin
+C105,C,1,30,Tue,8,14:50,15:40,Operating Systems,True,28.0,0.933,False,False,False,wifi_log
+C105,C,1,30,Wed,1,08:00,08:50,Linear Algebra,True,24.0,0.8,False,False,False,qr_checkin
+C105,C,1,30,Wed,2,08:50,09:40,Economics,True,19.0,0.633,False,False,False,qr_checkin
+C105,C,1,30,Wed,3,09:50,10:40,Software Engineering,True,24.0,0.8,False,False,False,wifi_log
+C105,C,1,30,Wed,4,10:40,11:30,FREE,False,1.0,0.033,True,True,False,wifi_log
+C105,C,1,30,Wed,5,11:30,12:20,Operating Systems,True,26.0,0.867,False,False,False,wifi_log
+C105,C,1,30,Wed,6,13:10,14:00,Linear Algebra,True,22.0,0.733,False,False,False,qr_checkin
+C105,C,1,30,Wed,7,14:00,14:50,FREE,False,0.0,0.0,True,True,False,wifi_log
+C105,C,1,30,Wed,8,14:50,15:40,Software Engineering,True,18.0,0.6,False,False,False,wifi_log
+C105,C,1,30,Thu,1,08:00,08:50,Probability & Stats,True,27.0,0.9,False,False,False,wifi_log
+C105,C,1,30,Thu,2,08:50,09:40,Linear Algebra,True,28.0,0.933,False,False,False,qr_checkin
+C105,C,1,30,Thu,3,09:50,10:40,Operating Systems,True,23.0,0.767,False,False,False,wifi_log
+C105,C,1,30,Thu,4,10:40,11:30,FREE,False,0.0,0.0,True,True,False,qr_checkin
+C105,C,1,30,Thu,5,11:30,12:20,Linear Algebra,True,23.0,0.767,False,False,False,wifi_log
+C105,C,1,30,Thu,6,13:10,14:00,FREE,False,2.0,0.067,True,True,False,qr_checkin
+C105,C,1,30,Thu,7,14:00,14:50,Machine Learning,True,25.0,0.833,False,False,False,qr_checkin
+C105,C,1,30,Thu,8,14:50,15:40,Machine Learning,True,24.0,0.8,False,False,False,wifi_log
+C105,C,1,30,Fri,1,08:00,08:50,Economics,True,24.0,0.8,False,False,False,wifi_log
+C105,C,1,30,Fri,2,08:50,09:40,Probability & Stats,True,23.0,0.767,False,False,False,wifi_log
+C105,C,1,30,Fri,3,09:50,10:40,DBMS,True,20.0,0.667,False,False,False,wifi_log
+C105,C,1,30,Fri,4,10:40,11:30,FREE,False,6.0,0.2,True,False,True,wifi_log
+C105,C,1,30,Fri,5,11:30,12:20,DBMS,True,20.0,0.667,False,False,False,wifi_log
+C105,C,1,30,Fri,6,13:10,14:00,FREE,False,0.0,0.0,True,True,False,qr_checkin
+C105,C,1,30,Fri,7,14:00,14:50,Operating Systems,True,18.0,0.6,False,False,False,wifi_log
+C105,C,1,30,Fri,8,14:50,15:40,FREE,False,0.0,0.0,True,True,False,wifi_log
+C206,C,2,40,Mon,1,08:00,08:50,FREE,False,7.0,0.175,True,True,False,wifi_log
+C206,C,2,40,Mon,2,08:50,09:40,Computer Networks,True,26.0,0.65,False,False,False,wifi_log
+C206,C,2,40,Mon,3,09:50,10:40,DBMS,True,30.0,0.75,False,False,False,qr_checkin
+C206,C,2,40,Mon,4,10:40,11:30,FREE,False,1.0,0.025,True,True,False,wifi_log
+C206,C,2,40,Mon,5,11:30,12:20,FREE,False,1.0,0.025,True,True,False,qr_checkin
+C206,C,2,40,Mon,6,13:10,14:00,FREE,False,14.0,0.35,True,False,True,wifi_log
+C206,C,2,40,Mon,7,14:00,14:50,FREE,False,13.0,0.325,True,False,True,qr_checkin
+C206,C,2,40,Mon,8,14:50,15:40,Operating Systems,True,27.0,0.675,False,False,False,wifi_log
+C206,C,2,40,Tue,1,08:00,08:50,Probability & Stats,True,32.0,0.8,False,False,False,wifi_log
+C206,C,2,40,Tue,2,08:50,09:40,FREE,False,2.0,0.05,True,True,False,wifi_log
+C206,C,2,40,Tue,3,09:50,10:40,Computer Networks,True,29.0,0.725,False,False,False,qr_checkin
+C206,C,2,40,Tue,4,10:40,11:30,Computer Networks,True,31.0,0.775,False,False,False,wifi_log
+C206,C,2,40,Tue,5,11:30,12:20,FREE,False,0.0,0.0,True,True,False,wifi_log
+C206,C,2,40,Tue,6,13:10,14:00,Machine Learning,True,30.0,0.75,False,False,False,wifi_log
+C206,C,2,40,Tue,7,14:00,14:50,FREE,False,16.0,0.4,True,False,True,wifi_log
+C206,C,2,40,Tue,8,14:50,15:40,Economics,True,36.0,0.9,False,False,False,wifi_log
+C206,C,2,40,Wed,1,08:00,08:50,FREE,False,7.0,0.175,True,True,False,wifi_log
+C206,C,2,40,Wed,2,08:50,09:40,Software Engineering,True,31.0,0.775,False,False,False,wifi_log
+C206,C,2,40,Wed,3,09:50,10:40,Computer Networks,True,37.0,0.925,False,False,False,wifi_log
+C206,C,2,40,Wed,4,10:40,11:30,Data Structures,True,25.0,0.625,False,False,False,qr_checkin
+C206,C,2,40,Wed,5,11:30,12:20,Operating Systems,True,32.0,0.8,False,False,False,wifi_log
+C206,C,2,40,Wed,6,13:10,14:00,Computer Networks,True,34.0,0.85,False,False,False,qr_checkin
+C206,C,2,40,Wed,7,14:00,14:50,FREE,False,0.0,0.0,True,True,False,wifi_log
+C206,C,2,40,Wed,8,14:50,15:40,FREE,False,15.0,0.375,True,False,True,wifi_log
+C206,C,2,40,Thu,1,08:00,08:50,Computer Networks,True,29.0,0.725,False,False,False,wifi_log
+C206,C,2,40,Thu,2,08:50,09:40,FREE,False,7.0,0.175,True,True,False,wifi_log
+C206,C,2,40,Thu,3,09:50,10:40,FREE,False,2.0,0.05,True,True,False,wifi_log
+C206,C,2,40,Thu,4,10:40,11:30,FREE,False,2.0,0.05,True,True,False,wifi_log
+C206,C,2,40,Thu,5,11:30,12:20,Communication Skills,True,34.0,0.85,False,False,False,wifi_log
+C206,C,2,40,Thu,6,13:10,14:00,FREE,False,2.0,0.05,True,True,False,qr_checkin
+C206,C,2,40,Thu,7,14:00,14:50,Data Structures,True,36.0,0.9,False,False,False,wifi_log
+C206,C,2,40,Thu,8,14:50,15:40,Communication Skills,True,36.0,0.9,False,False,False,qr_checkin
+C206,C,2,40,Fri,1,08:00,08:50,FREE,False,16.0,0.4,True,False,True,qr_checkin
+C206,C,2,40,Fri,2,08:50,09:40,Computer Networks,True,33.0,0.825,False,False,False,qr_checkin
+C206,C,2,40,Fri,3,09:50,10:40,FREE,False,7.0,0.175,True,True,False,qr_checkin
+C206,C,2,40,Fri,4,10:40,11:30,FREE,False,0.0,0.0,True,True,False,wifi_log
+C206,C,2,40,Fri,5,11:30,12:20,FREE,False,8.0,0.2,True,False,True,wifi_log
+C206,C,2,40,Fri,6,13:10,14:00,FREE,False,0.0,0.0,True,True,False,wifi_log
+C206,C,2,40,Fri,7,14:00,14:50,Software Engineering,True,29.0,0.725,False,False,False,wifi_log
+C206,C,2,40,Fri,8,14:50,15:40,Data Structures,True,32.0,0.8,False,False,False,qr_checkin
+C107,C,1,50,Mon,1,08:00,08:50,Machine Learning,True,39.0,0.78,False,False,False,wifi_log
+C107,C,1,50,Mon,2,08:50,09:40,Linear Algebra,True,40.0,0.8,False,False,False,wifi_log
+C107,C,1,50,Mon,3,09:50,10:40,Computer Networks,True,34.0,0.68,False,False,False,qr_checkin
+C107,C,1,50,Mon,4,10:40,11:30,Computer Networks,True,34.0,0.68,False,False,False,wifi_log
+C107,C,1,50,Mon,5,11:30,12:20,FREE,False,0.0,0.0,True,True,False,wifi_log
+C107,C,1,50,Mon,6,13:10,14:00,FREE,False,0.0,0.0,True,True,False,wifi_log
+C107,C,1,50,Mon,7,14:00,14:50,Economics,True,35.0,0.7,False,False,False,wifi_log
+C107,C,1,50,Mon,8,14:50,15:40,Economics,True,34.0,0.68,False,False,False,wifi_log
+C107,C,1,50,Tue,1,08:00,08:50,Communication Skills,True,46.0,0.92,False,False,False,qr_checkin
+C107,C,1,50,Tue,2,08:50,09:40,FREE,False,0.0,0.0,True,True,False,qr_checkin
+C107,C,1,50,Tue,3,09:50,10:40,FREE,False,0.0,0.0,True,True,False,qr_checkin
+C107,C,1,50,Tue,4,10:40,11:30,Operating Systems,True,45.0,0.9,False,False,False,wifi_log
+C107,C,1,50,Tue,5,11:30,12:20,FREE,False,1.0,0.02,True,True,False,wifi_log
+C107,C,1,50,Tue,6,13:10,14:00,Software Engineering,True,45.0,0.9,False,False,False,wifi_log
+C107,C,1,50,Tue,7,14:00,14:50,Operating Systems,True,31.0,0.62,False,False,False,qr_checkin
+C107,C,1,50,Tue,8,14:50,15:40,FREE,False,0.0,0.0,True,True,False,wifi_log
+C107,C,1,50,Wed,1,08:00,08:50,FREE,False,21.0,0.42,True,False,True,wifi_log
+C107,C,1,50,Wed,2,08:50,09:40,FREE,False,2.0,0.04,True,True,False,wifi_log
+C107,C,1,50,Wed,3,09:50,10:40,FREE,False,12.0,0.24,True,False,True,qr_checkin
+C107,C,1,50,Wed,4,10:40,11:30,Linear Algebra,True,0.0,0.0,False,False,False,wifi_log
+C107,C,1,50,Wed,5,11:30,12:20,FREE,False,0.0,0.0,True,True,False,qr_checkin
+C107,C,1,50,Wed,6,13:10,14:00,Computer Networks,True,38.0,0.76,False,False,False,qr_checkin
+C107,C,1,50,Wed,7,14:00,14:50,FREE,False,0.0,0.0,True,True,False,wifi_log
+C107,C,1,50,Wed,8,14:50,15:40,Software Engineering,True,31.0,0.62,False,False,False,wifi_log
+C107,C,1,50,Thu,1,08:00,08:50,FREE,False,3.0,0.06,True,True,False,qr_checkin
+C107,C,1,50,Thu,2,08:50,09:40,Data Structures,True,32.0,0.64,False,False,False,wifi_log
+C107,C,1,50,Thu,3,09:50,10:40,FREE,False,0.0,0.0,True,True,False,wifi_log
+C107,C,1,50,Thu,4,10:40,11:30,Computer Networks,True,43.0,0.86,False,False,False,wifi_log
+C107,C,1,50,Thu,5,11:30,12:20,FREE,False,0.0,0.0,True,True,False,wifi_log
+C107,C,1,50,Thu,6,13:10,14:00,Machine Learning,True,45.0,0.9,False,False,False,wifi_log
+C107,C,1,50,Thu,7,14:00,14:50,Computer Networks,True,46.0,0.92,False,False,False,qr_checkin
+C107,C,1,50,Thu,8,14:50,15:40,DBMS,True,30.0,0.6,False,False,False,qr_checkin
+C107,C,1,50,Fri,1,08:00,08:50,Software Engineering,True,34.0,0.68,False,False,False,wifi_log
+C107,C,1,50,Fri,2,08:50,09:40,FREE,False,0.0,0.0,True,True,False,qr_checkin
+C107,C,1,50,Fri,3,09:50,10:40,DBMS,True,30.0,0.6,False,False,False,wifi_log
+C107,C,1,50,Fri,4,10:40,11:30,FREE,False,11.0,0.22,True,False,True,wifi_log
+C107,C,1,50,Fri,5,11:30,12:20,Communication Skills,True,35.0,0.7,False,False,False,wifi_log
+C107,C,1,50,Fri,6,13:10,14:00,Economics,True,46.0,0.92,False,False,False,wifi_log
+C107,C,1,50,Fri,7,14:00,14:50,FREE,False,0.0,0.0,True,True,False,qr_checkin
+C107,C,1,50,Fri,8,14:50,15:40,FREE,False,0.0,0.0,True,True,False,wifi_log
+C208,C,2,30,Mon,1,08:00,08:50,FREE,False,4.0,0.133,True,True,False,wifi_log
+C208,C,2,30,Mon,2,08:50,09:40,FREE,False,0.0,0.0,True,True,False,wifi_log
+C208,C,2,30,Mon,3,09:50,10:40,FREE,False,1.0,0.033,True,True,False,wifi_log
+C208,C,2,30,Mon,4,10:40,11:30,FREE,False,2.0,0.067,True,True,False,wifi_log
+C208,C,2,30,Mon,5,11:30,12:20,FREE,False,2.0,0.067,True,True,False,wifi_log
+C208,C,2,30,Mon,6,13:10,14:00,Data Structures,True,25.0,0.833,False,False,False,qr_checkin
+C208,C,2,30,Mon,7,14:00,14:50,Computer Networks,True,0.0,0.0,False,False,False,qr_checkin
+C208,C,2,30,Mon,8,14:50,15:40,FREE,False,4.0,0.133,True,True,False,wifi_log
+C208,C,2,30,Tue,1,08:00,08:50,FREE,False,0.0,0.0,True,True,False,qr_checkin
+C208,C,2,30,Tue,2,08:50,09:40,FREE,False,4.0,0.133,True,True,False,wifi_log
+C208,C,2,30,Tue,3,09:50,10:40,FREE,False,9.0,0.3,True,False,True,wifi_log
+C208,C,2,30,Tue,4,10:40,11:30,FREE,False,0.0,0.0,True,True,False,wifi_log
+C208,C,2,30,Tue,5,11:30,12:20,FREE,False,0.0,0.0,True,True,False,wifi_log
+C208,C,2,30,Tue,6,13:10,14:00,FREE,False,1.0,0.033,True,True,False,wifi_log
+C208,C,2,30,Tue,7,14:00,14:50,FREE,False,11.0,0.367,True,False,True,qr_checkin
+C208,C,2,30,Tue,8,14:50,15:40,FREE,False,2.0,0.067,True,True,False,wifi_log
+C208,C,2,30,Wed,1,08:00,08:50,Communication Skills,True,26.0,0.867,False,False,False,qr_checkin
+C208,C,2,30,Wed,2,08:50,09:40,FREE,False,3.0,0.1,True,True,False,wifi_log
+C208,C,2,30,Wed,3,09:50,10:40,FREE,False,2.0,0.067,True,True,False,wifi_log
+C208,C,2,30,Wed,4,10:40,11:30,FREE,False,1.0,0.033,True,True,False,qr_checkin
+C208,C,2,30,Wed,5,11:30,12:20,FREE,False,10.0,0.333,True,False,True,qr_checkin
+C208,C,2,30,Wed,6,13:10,14:00,FREE,False,1.0,0.033,True,True,False,wifi_log
+C208,C,2,30,Wed,7,14:00,14:50,FREE,False,0.0,0.0,True,True,False,wifi_log
+C208,C,2,30,Wed,8,14:50,15:40,FREE,False,0.0,0.0,True,True,False,qr_checkin
+C208,C,2,30,Thu,1,08:00,08:50,FREE,False,11.0,0.367,True,False,True,qr_checkin
+C208,C,2,30,Thu,2,08:50,09:40,FREE,False,0.0,0.0,True,True,False,wifi_log
+C208,C,2,30,Thu,3,09:50,10:40,FREE,False,2.0,0.067,True,True,False,wifi_log
+C208,C,2,30,Thu,4,10:40,11:30,FREE,False,12.0,0.4,True,False,True,qr_checkin
+C208,C,2,30,Thu,5,11:30,12:20,FREE,False,10.0,0.333,True,False,True,wifi_log
+C208,C,2,30,Thu,6,13:10,14:00,FREE,False,2.0,0.067,True,True,False,qr_checkin
+C208,C,2,30,Thu,7,14:00,14:50,FREE,False,0.0,0.0,True,True,False,wifi_log
+C208,C,2,30,Thu,8,14:50,15:40,FREE,False,0.0,0.0,True,True,False,wifi_log
+C208,C,2,30,Fri,1,08:00,08:50,Communication Skills,True,26.0,0.867,False,False,False,qr_checkin
+C208,C,2,30,Fri,2,08:50,09:40,FREE,False,0.0,0.0,True,True,False,wifi_log
+C208,C,2,30,Fri,3,09:50,10:40,FREE,False,0.0,0.0,True,True,False,wifi_log
+C208,C,2,30,Fri,4,10:40,11:30,FREE,False,9.0,0.3,True,False,True,wifi_log
+C208,C,2,30,Fri,5,11:30,12:20,FREE,False,0.0,0.0,True,True,False,qr_checkin
+C208,C,2,30,Fri,6,13:10,14:00,FREE,False,2.0,0.067,True,True,False,wifi_log
+C208,C,2,30,Fri,7,14:00,14:50,FREE,False,0.0,0.0,True,True,False,qr_checkin
+C208,C,2,30,Fri,8,14:50,15:40,FREE,False,0.0,0.0,True,True,False,wifi_log
